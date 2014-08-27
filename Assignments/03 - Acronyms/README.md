@@ -7,6 +7,7 @@ These acronyms will be referenced in class, be prepared to know what they are.
 Acronyms
 ------
 Hardware related: CPU, RAM, SCSI, PCI, BIOS, RAID, CRT, VGA, ROM, HDD, NIC, LCD, DVI, CDROM, DVD, AGP, FSB, SATA, WIFI, DIMM, ATX, HDML, PS2, USB, IDE (cable), DDR
+
 Software related: MP3, OGG, AVI, NTSC, PAL, FAT, exFAT, NTFS, IDE, AMD, P2P
 
 Submissables
