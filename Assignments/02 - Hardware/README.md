@@ -1,6 +1,6 @@
 Task(s)
 -------
-1. As a group (groups randomly chosen), research the given Operating System
+1. As a group (groups randomly chosen), research the given Hardware Part
 2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
 
 ###Hardware Parts
