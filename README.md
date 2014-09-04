@@ -10,3 +10,13 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
 ###Mr Seidel's Class
 =================
 * [Intake Survey](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5A/viewform)
+* Due dates added for assignments 1-4
+  * Post Secondary: Sept 8
+  * Hardware Presentations: Sept 10, 11, 12
+  * Acronyms: Sept 15
+  * Bin/Oct/Hex Worksheet: Sept 18
+  * Bin/Oct/Hex _QUIZ_: Sept 19
+
+###Mr Ghorvei's Class
+=================
+_See Mr. Ghorvei for all due dates and specifics_
