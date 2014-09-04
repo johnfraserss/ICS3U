@@ -15,4 +15,5 @@ Submit all of your work to the IN drive (S:\IN\Seidel\course code\01 - Post Seco
 Due Date
 --------
 September 8th (Mr. Seidel's class)
+
 September 9th (Mr. Ghorvei's class)
