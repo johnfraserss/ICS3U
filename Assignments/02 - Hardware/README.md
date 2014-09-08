@@ -21,3 +21,7 @@ Presentation Schedule
 - September 10th: Group #1, 4, 7
 - September 11th: Group #2, 5, 8
 - September 12th: Group #3, 6, 9
+
+Rubric(s)
+---------
+[Presentation Rubric] (http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
