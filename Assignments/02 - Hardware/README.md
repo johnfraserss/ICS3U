@@ -10,8 +10,8 @@ Task(s)
 4. Video Card (Daniel, Martin, Wendy)
 5. Sound Card (Emily, Max, Rafay)
 6. Power Supplies (Fatima, Mustafa, Nina)
-7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Frederick, Larry)
-8. Output devices (monitor, projector, printer, etc.) (Mankaran, Omer)
+7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Frederick, Larry, Ghazi)
+8. Output devices (monitor, projector, printer, etc.) (Mankaran, Omer, Hai Ruo)
 9. Hard Disk Drives, Solid State Drives, and any other storage drives (Mishaal, Murtuza)
 
 Presentation Schedule
