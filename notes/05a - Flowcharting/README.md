@@ -32,11 +32,11 @@ A parallelogram is used to show input or output. Examples of input are receiving
 ###Examples
 
 Check out the following links for some sample flowcharts:
-[Sample #1](http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/500px-LampFlowchart.svg.png)
-[Sample #2] (http://www.farshadoo.com/p/diagram-ring/images/diagram-sample1.jpg)
-[Sample #3] (http://philosophy.hku.hk/think/strategy/flow-eg.gif)
-[Sample #4] (http://www.edrawsoft.com/images/examples/Basic-Flowchart-elements.gif)
-[Sample #5] (http://www.edrawsoft.com/images/examples/makeflowchart.png)
+* [Sample #1](http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/500px-LampFlowchart.svg.png)
+* [Sample #2] (http://www.farshadoo.com/p/diagram-ring/images/diagram-sample1.jpg)
+* [Sample #3] (http://philosophy.hku.hk/think/strategy/flow-eg.gif)
+* [Sample #4] (http://www.edrawsoft.com/images/examples/Basic-Flowchart-elements.gif)
+* [Sample #5] (http://www.edrawsoft.com/images/examples/makeflowchart.png)
 
 ###Sources
 [1] All information on symbols was taken directly from: http://www.rff.com/flowchart_shapes.htm (Retrieved: Feb 7, 2013)
