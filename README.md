@@ -8,7 +8,6 @@ In the following pages you will find the assignments as they are posted, and not
 Feel free to browse around the site.  Any PDF file will need to be downloaded to be viewed.
 
 ###Mr Seidel's Class
-=================
 * [Intake Survey](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5A/viewform)
 * Due dates added for assignments 1-4
   * Post Secondary: Sept 8
@@ -18,6 +17,5 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
   * Bin/Oct/Hex _QUIZ_: Sept 19
 
 ###References
-=============
 * [Processing] (http://www.processing.org/)
 * [Processing - Reference] (http://www.processing.org/reference/)
