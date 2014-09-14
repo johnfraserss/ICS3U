@@ -1,9 +1,10 @@
 Task(s)
 -------
-Using your knowledge of Processing so far, recreate the picture in [this] (https://www.mrseidel.com/images/Processing/olympic_rings.jpg)
+Using your knowledge of Processing so far, recreate the picture in [this] (http://www.mrseidel.com/images/Processing/olympic_rings.jpg)
+
 Use a screen size of at least 640 pixels wide
 
-_The original image was found at: http://www.markmatters.com/wp-content/uploads/2014/02/olympic_flag.jpg _
+*The original image was found at: http://www.markmatters.com/wp-content/uploads/2014/02/olympic_flag.jpg*
 
 Submissables
 ------------
