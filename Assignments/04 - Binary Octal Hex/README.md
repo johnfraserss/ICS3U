@@ -32,6 +32,4 @@ Do _not_ hand in this work.  It will just be checked for understanding and compl
 
 Due Date(s)
 ------------------
-_These dates are for Mr. Seidel's class.  For Mr. Ghorvei's class, see Mr. Ghorvei!_
-
 It will be assumed that you have completed this worksheet as of September 18th.  There will be a quiz on the material on September 19th.
