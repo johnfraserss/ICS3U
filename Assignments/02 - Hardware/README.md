@@ -16,7 +16,7 @@ Task(s)
 
 Presentation Schedule
 ------------------
-*These dates and groups are for Mr. Seidel's class only.  For Mr. Ghorvei's class, see Mr. Ghorvei*
+*These dates and groups are for Mr. Seidel's morning class only.  For the afternoon class, see your teacher.
 
 - September 10th: Group #1, 4, 7
 - September 11th: Group #2, 5, 8
