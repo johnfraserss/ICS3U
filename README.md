@@ -1,7 +1,7 @@
 ICS3U
 =====
 
-ICS3U Course for Mr. Seidel and Mr. Ghorvei's classes (2014-2015 school year)
+ICS3U Course for Mr. Seidel (2014-2015 school year)
 
 In the following pages you will find the assignments as they are posted, and notes as they are posted as well.
 
@@ -17,6 +17,7 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
   * Bin/Oct/Hex Worksheet: Sept 18
   * Bin/Oct/Hex _QUIZ_: Sept 19
 
-###Mr Ghorvei's Class
-=================
-_See Mr. Ghorvei for all due dates and specifics_
+###References
+=============
+* [Processing] (http://www.processing.org/)
+* [Processing - Reference] (http://www.processing.org/reference/)
