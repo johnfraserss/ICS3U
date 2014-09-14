@@ -17,7 +17,7 @@ Rubric(s)
 This rubric is out of a total of 36, with the blue circle being worth a total bonus of 2 marks available (1 for proper sporadic, 1 for binding within circle)
 
 | | 0 | 1 | 2 | 3 | 4 |
-|-| - | - | - | - | - |
+|---| --- | --- | --- | --- | --- |
 |A1.1: Use constants and variables, including floats and Boolean values correctly | | | | | |
 |A1.3: Use assignment statements correctly | | | | | |
 |A1.4: Use Boolean operators (AND, OR, and NOT) and comparison operators (>=, ==, <=, <, etc.)  | | | | | |
