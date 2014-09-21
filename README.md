@@ -9,6 +9,14 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
 
 ###Mr Seidel's Class
 * [Intake Survey](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5A/viewform)
+* Due dates added for assignments 5-10:
+  * SDLC and Flowcharting: Sept 29th
+  * Processing - Exercise 1: Oct 6th
+  * Processing - Exercise 2: Oct 9th
+  * Processing - Exercise 2b: Oct 14th
+  * Processing - Exercise 3: Oct 17th
+  * Processing - Assignment 1: Oct 29th
+
 * Due dates added for assignments 1-4
   * Post Secondary: Sept 8
   * Hardware Presentations: Sept 10, 11, 12
