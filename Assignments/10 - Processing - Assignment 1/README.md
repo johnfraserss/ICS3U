@@ -10,7 +10,7 @@ Hand this work in to the IN drive.
 
 Due Date(s)
 ----------
-Due by October 31st.
+Due by October 29th.
 
 Rubric(s)
 ---------
