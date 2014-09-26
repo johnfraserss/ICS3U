@@ -7,7 +7,11 @@ In the following pages you will find the assignments as they are posted, and not
 
 Feel free to browse around the site.  Any PDF file will need to be downloaded to be viewed.
 
-###Mr Seidel's Class
+####Programming Language and Resources
+* [Processing.org] (http://www.processing.org/) (download, references and examples available on the same site)
+* [Daniel Shiffman - Introductory Videos for Processing] (http://vimeo.com/channels/introcompmedia)
+
+###Announcements
 * [Intake Survey](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5A/viewform)
 * Due dates added for assignments 5-10:
   * SDLC and Flowcharting: Sept 29th
@@ -24,6 +28,4 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
   * Bin/Oct/Hex Worksheet: Sept 18
   * Bin/Oct/Hex _QUIZ_: Sept 19
 
-###References
-* [Processing] (http://www.processing.org/)
-* [Processing - Reference] (http://www.processing.org/reference/)
+
