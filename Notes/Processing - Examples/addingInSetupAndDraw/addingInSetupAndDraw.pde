@@ -15,4 +15,5 @@ void draw() { //Runs 30 times per second
   stroke(50, 50, 150); 
   strokeWeight(5);  
   line(0, 0, width/2, height/2);
+  //line(mouseX, mouseY, width/2, height/2);
 }
