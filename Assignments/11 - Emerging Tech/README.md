@@ -4,14 +4,14 @@ Task(s)
 2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
 
 ###Emerging Technology Topics
-- Business rules management
-- Cloudbursting
-- Organ Printing
-- Appliance Robots
-- Augmented Reality
-- Swarm Robotics
-- Hybrid-assisted limbs
-- Artificial Retinas
+- Business rules management (AM | PM)
+- Cloudbursting (AM | PM)
+- Organ Printing (AM | ~~PM~~)
+- Appliance Robots (AM | PM)
+- Augmented Reality (AM | ~~PM~~)
+- Swarm Robotics (AM | PM)
+- Hybrid-assisted limbs (AM | PM)
+- Artificial Retinas (AM | PM)
 - Other: Teacher approved topics - check [here] (http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
 
 ###Groups
@@ -30,8 +30,8 @@ Task(s)
 #### Afternoon
 | Names | Topics |
 |-------|--------|
-| | |
-| | |
+| Michael, Colin, Joshua, Chris | Augmented Reality |
+| Sarah, Sally, Minha | Organ Printing |
 | | |
 | | |
 | | |
