@@ -8,19 +8,19 @@ Task(s)
 - Cloudbursting (AM | PM)
 - Organ Printing (AM | ~~PM~~)
 - Appliance Robots (AM | PM)
-- Augmented Reality (AM | ~~PM~~)
-- Swarm Robotics (AM | PM)
+- Augmented Reality (~~AM~~ | ~~PM~~)
+- Swarm Robotics (~~AM~~ | PM)
 - Hybrid-assisted limbs (AM | PM)
-- Artificial Retinas (AM | PM)
+- Artificial Retinas (~~AM~~ | PM)
 - Other: Teacher approved topics - check [here] (http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
 
 ###Groups
 #### Morning
 | Names | Topics |
 |-------|--------|
-| | |
-| | |
-| | |
+| Murtuza, Amin, Safra, Omer | Swarm Robotics |
+| Martin, Mankiran, James | Artificial Retinas |
+| Larry, Omar, Ibraheem | Augmented Reality |
 | | |
 | | |
 | | |
