@@ -9,9 +9,9 @@ Task(s)
 - Organ Printing (~~AM~~ | ~~PM~~)
 - Appliance Robots (AM | PM)
 - Augmented Reality (~~AM~~ | ~~PM~~)
-- Swarm Robotics (~~AM~~ | PM)
-- Hybrid-assisted limbs (~~AM~~ | PM)
-- Artificial Retinas (~~AM~~ | PM)
+- Swarm Robotics (~~AM~~ | ~~PM~~)
+- Hybrid-assisted limbs (~~AM~~ | ~~PM~~)
+- Artificial Retinas (~~AM~~ | ~~PM~~)
 - Other: Teacher approved topics - check [here] (http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
 
 ###Groups
@@ -36,7 +36,7 @@ Task(s)
 | Felix, Jack, Aditya | Artificial Retinas |
 | Ali, Atyeb, Tarun, Mohammad | Shawarma Robotics |
 | Avantik, Tarek, Victor | Artificial Photosynthesis |
-| | |
+| Ahmed, Ghazi, Krish | Hybrid-Assisted Limbs |
 | | |
 | | |
 
