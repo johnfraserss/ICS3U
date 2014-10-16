@@ -10,7 +10,7 @@ Task(s)
 - Appliance Robots (AM | PM)
 - Augmented Reality (~~AM~~ | ~~PM~~)
 - Swarm Robotics (~~AM~~ | PM)
-- Hybrid-assisted limbs (AM | PM)
+- Hybrid-assisted limbs (~~AM~~ | PM)
 - Artificial Retinas (~~AM~~ | PM)
 - Other: Teacher approved topics - check [here] (http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
 
@@ -22,7 +22,7 @@ Task(s)
 | Martin, Mankiran, James | Artificial Retinas |
 | Larry, Omar, Ibraheem | Augmented Reality |
 | Wendy, Emily, Hai Ruo | Organ Printing |
-| | |
+| Fatima, Nina, Kevin | Hybrid Assisted Limbs |
 | | |
 | | |
 | | |
