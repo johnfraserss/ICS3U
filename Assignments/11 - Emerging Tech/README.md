@@ -35,7 +35,7 @@ Task(s)
 | Sarah, Sally, Minha | Organ Printing |
 | Felix, Jack, Aditya | Artificial Retinas |
 | Ali, Atyeb, Tarun, Mohammad | Shawarma Robotics |
-| | |
+| Avantik, Tarek, Victor | Artificial Photosynthesis |
 | | |
 | | |
 | | |
