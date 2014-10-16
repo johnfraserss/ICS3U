@@ -20,7 +20,7 @@ Task(s)
 |-------|--------|
 | Amin, Safra, Omer | Swarm Robotics |
 | Martin, Mankiran, James | Artificial Retinas |
-| Larry, Omar, Ibraheem | Augmented Reality |
+| Larry, Omar, Ibraheem | Augmented Reality (NO GOOGLE GLASS) |
 | Wendy, Emily, Hai Ruo | Organ Printing |
 | Fatima, Nina, Kevin | Hybrid Assisted Limbs |
 | Max, Frederick, Murtuza | Artificial Photosynthesis |
@@ -31,13 +31,13 @@ Task(s)
 #### Afternoon
 | Names | Topics |
 |-------|--------|
-| Michael, Colin, Joshua, Chris | Augmented Reality |
+| Michael, Colin, Joshua, Chris | Augmented Reality (NO GOOGLE GLASS) |
 | Sarah, Sally, Minha | Organ Printing |
 | Felix, Jack, Aditya | Artificial Retinas |
 | Ali, Atyeb, Tarun, Mohammad | Shawarma Robotics |
 | Avantik, Tarek, Victor | Stealth Technology |
 | Ahmed, Ghazi, Krish | Hybrid-Assisted Limbs |
-| | |
+| Amin, Daniyal, Syed, Shariq | Unmanned-Vehicles (No GOOGLE CAR) |
 | | |
 
 Presentation Schedule
