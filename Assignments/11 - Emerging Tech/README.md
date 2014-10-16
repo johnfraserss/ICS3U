@@ -33,8 +33,8 @@ Task(s)
 |-------|--------|
 | Michael, Colin, Joshua, Chris | Augmented Reality |
 | Sarah, Sally, Minha | Organ Printing |
-| | |
-| | |
+| Felix, Jack, Aditya | Artificial Retinas |
+| Ali, Atyeb, Tarun, Mohammad | Shawarma Robotics |
 | | |
 | | |
 | | |
