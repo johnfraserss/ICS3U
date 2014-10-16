@@ -18,13 +18,14 @@ Task(s)
 #### Morning
 | Names | Topics |
 |-------|--------|
-| Murtuza, Amin, Safra, Omer | Swarm Robotics |
+| Amin, Safra, Omer | Swarm Robotics |
 | Martin, Mankiran, James | Artificial Retinas |
 | Larry, Omar, Ibraheem | Augmented Reality |
 | Wendy, Emily, Hai Ruo | Organ Printing |
 | Fatima, Nina, Kevin | Hybrid Assisted Limbs |
-| | |
+| Max, Frederick, Murtuza | Artificial Photosynthesis |
 | Rafay, Mustafa, Brandon, Daniel | 3D Displays |
+| | |
 | | |
 
 #### Afternoon
