@@ -6,7 +6,7 @@ Task(s)
 ###Emerging Technology Topics
 - Business rules management (AM | PM)
 - Cloudbursting (AM | PM)
-- Organ Printing (AM | ~~PM~~)
+- Organ Printing (~~AM~~ | ~~PM~~)
 - Appliance Robots (AM | PM)
 - Augmented Reality (~~AM~~ | ~~PM~~)
 - Swarm Robotics (~~AM~~ | PM)
