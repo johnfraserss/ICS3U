@@ -21,7 +21,7 @@ Task(s)
 | Murtuza, Amin, Safra, Omer | Swarm Robotics |
 | Martin, Mankiran, James | Artificial Retinas |
 | Larry, Omar, Ibraheem | Augmented Reality |
-| | |
+| Wendy, Emily, Hai Ruo | Organ Printing |
 | | |
 | | |
 | | |
