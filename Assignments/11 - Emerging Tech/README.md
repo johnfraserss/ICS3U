@@ -24,7 +24,7 @@ Task(s)
 | Wendy, Emily, Hai Ruo | Organ Printing |
 | Fatima, Nina, Kevin | Hybrid Assisted Limbs |
 | | |
-| | |
+| Rafay, Mustafa, Brandon, Daniel | 3D Displays |
 | | |
 
 #### Afternoon
