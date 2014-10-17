@@ -25,8 +25,8 @@ Task(s)
 | Fatima, Nina, Kevin | Hybrid Assisted Limbs |
 | Max, Frederick, Murtuza | Artificial Photosynthesis |
 | Rafay, Mustafa, Brandon, Daniel | 3D Displays |
-| | |
-| | |
+| Anusha, Mishaal, Hojae, Preston | Nanotechnology |
+| Deep, Ghazi, Ismael | **Need Topic** |
 
 #### Afternoon
 | Names | Topics |
@@ -38,11 +38,11 @@ Task(s)
 | Avantik, Tarek, Victor | Stealth Technology |
 | Ahmed, Ghazi, Krish | Hybrid-Assisted Limbs |
 | Amin, Daniyal, Syed, Shariq | Unmanned-Vehicles (No GOOGLE CAR) |
-| | |
+| Atif, Andrew, Kyle | **Need Topics** |
 
 Presentation Schedule
 ------------------
-- October 30th: Group #2, 4, 6, 8
+- October 30th: Group #2, 4, 6, 8, 9
 - October 31st: Group #1, 3, 5, 7
 
 Rubric(s) and Expectations
