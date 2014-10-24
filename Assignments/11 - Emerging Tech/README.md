@@ -26,7 +26,7 @@ Task(s)
 | Max, Frederick, Murtuza | Artificial Photosynthesis |
 | Rafay, Mustafa, Brandon, Daniel | 3D Displays |
 | Anusha, Mishaal, Hojae, Preston | Nanotechnology |
-| Deep, Ghazi, Ismael | **Need Topic** |
+| Deep, Ghazi, Ismael | Jet Packs |
 
 #### Afternoon
 | Names | Topics |
