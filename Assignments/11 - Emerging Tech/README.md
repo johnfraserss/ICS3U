@@ -38,7 +38,7 @@ Task(s)
 | Avantik, Tarek, Victor | Stealth Technology |
 | Ahmed, Ghazi, Krish | Hybrid-Assisted Limbs |
 | Amin, Daniyal, Syed, Shariq | Unmanned-Vehicles (No GOOGLE CAR) |
-| Atif, Andrew, Kyle | **Need Topic** |
+| Atif, Andrew, Kyle | Domed City |
 
 Presentation Schedule
 ------------------
