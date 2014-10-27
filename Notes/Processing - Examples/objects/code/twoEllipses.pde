@@ -1,16 +1,19 @@
+//moving ball variable creation
 float x, y;
 float xspeed, yspeed;
 
+//second moving ball variable creation
 float x2, y2;
 float x2speed, y2speed;
 
 void setup() {
   size(600, 600);
+  
+  //setting the variables' initial values
   x = width/2;
   y = height/2;
   x2 = x;
   y2 = y;
-
   xspeed = random(-10, 10);
   yspeed = random(-10, 10);
   x2speed = random(-10, 10);
@@ -24,6 +27,7 @@ void draw() {
   checkEdges();
 }
 
+//displaying both moving balls at the same time
 void display() {
   fill(255);
   noStroke();
@@ -31,6 +35,7 @@ void display() {
   ellipse(x2, y2, 50, 50);
 }
 
+//update both moving balls at the same time
 void update() {
   x = x + xspeed;
   y = y + yspeed;
@@ -39,6 +44,7 @@ void update() {
   y2 = y2 + y2speed;
 }
 
+//check the edges of both moving balls at the same time
 void checkEdges() {
   if (x < 25 || x > width - 25) {
     xspeed = xspeed * -1;
