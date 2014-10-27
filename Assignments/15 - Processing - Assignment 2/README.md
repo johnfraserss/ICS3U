@@ -23,7 +23,7 @@ Hand this work in to the IN drive.
 
 Due Date(s)
 ----------
-Due by December 1st.
+Due by November 24th - **no exceptions**
 
 Rubric(s)
 ---------
