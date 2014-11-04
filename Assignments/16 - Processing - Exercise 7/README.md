@@ -1,6 +1,6 @@
 Task(s)
 -------
-* Using your knowledge of sprite sheets, complete the following task using the [walk_cycle.png](www.mrseidel.com/images/Processing/walk_cycle.png):
+* Using your knowledge of sprite sheets, complete the following task using the [walk_cycle.png](http://www.mrseidel.com/images/Processing/walk_cycle.png):
   1. Create a basic sketch that has the walker walking when a key is pressed, but standing still when the computer is idle.
   2. Use the template files given to alleviate the amount of work to do
 
