@@ -1,3 +1,8 @@
+**------------------------------------------------------------------------**
+
+**-----This task might be modified completely-------**
+
+**------------------------------------------------------------------------**
 Task(s)
 -------
 * Using your knowledge of sprite sheets, complete the following task using the [walk_cycle.png](http://www.mrseidel.com/images/Processing/walk_cycle.png):
