@@ -1,10 +1,11 @@
 Task(s)
 -------
-Answer the questions for all the topics below:
-  * Environmental Negativity: Create a list of 3 negative effects of computer use on the environment
+Answer the questions for all the topics below in a word processing document in **bullet point form**:
+
+  * Environmental Negativity: Create a list of 3 negative effects of computer use on the environment.
   * Environmental Impact: Find 3 measures that help reduce the impact of computers on the environment.
-  * Environmental Positivity: Create a list of 3 ways computers can be used to reduce resource use (excluding paper saving)
-  * Governmental Agencies: Find 3 goverment agencies and community partners that provide resources and guidance for environmental stewardship
+  * Environmental Positivity: Create a list of 3 ways computers can be used to reduce resource use (excluding paper saving).
+  * Governmental Agencies: Find 3 government agencies and community partners that provide resources and guidance for environmental stewardship.
 
 Submissables
 ------------------
