@@ -44,15 +44,15 @@ Presentation Information
 ### Afternoon
 | Names | Game Name |
 |-------|--------|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|  Sarah, Colin |  |
+|  Aditya, Felix |  |
+|  Ahmed, Tarun |  |
+|  Josh, Chris |  |
+|  Michael, ? |  |
+|  Shariq, Amin |  |
+|  Ghazi, Daniyal |  |
+|  Kyle, Mohammad |  |
+|  Syed, Atif |  |
 |  |  |
 |  |  |
 |  |  |
