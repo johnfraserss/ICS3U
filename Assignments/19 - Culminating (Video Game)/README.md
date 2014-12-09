@@ -7,7 +7,7 @@ Task(s)
 Criteria
 --------
 1. You **must** work in **groups of 2** to complete this project (**NO exceptions**)
-2. You **must** use the animation artwork given by Ms. McInnis' class.  The artwork can be found in the folder: **OUT | SEIDEL | ICS3U | CULMINATING | ARTWORK**
+2. You **must** use the animation artwork given by Ms. McInnis' class.  The artwork ~~can~~ **will** be found in the folder: **OUT | SEIDEL | ICS3U | CULMINATING | ARTWORK**
 
 Submissables
 ------------
