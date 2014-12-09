@@ -27,10 +27,10 @@ Presentation Information
 |  |  |
 |  |  |
 | Rafay, Brandon |  |
+| Kevin, Hai Ruo |  |
 |  |  |
 |  |  |
-|  |  |
-|  |  |
+| Safra, Omer  |  |
 | Martin, Mustafa |  |
 | Mishaal, Anusha |  |
 | Fatima, Nina |  |
