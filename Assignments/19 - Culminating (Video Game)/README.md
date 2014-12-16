@@ -25,7 +25,7 @@ Presentation Information
 | Names | Game Name |
 |-------|--------|
 | James, ? |  |
-|  |  |
+| Frederick, Max |  |
 | Rafay, Brandon |  |
 | Kevin, Hai Ruo |  |
 |  |  |
