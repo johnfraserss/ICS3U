@@ -28,7 +28,7 @@ Presentation Information
 | Frederick, Max |  |
 | Rafay, Brandon |  |
 | Kevin, Hai Ruo |  |
-|  |  |
+| Emily, Wendy |  |
 |  |  |
 | Safra, Omer  |  |
 | Martin, Mustafa |  |
