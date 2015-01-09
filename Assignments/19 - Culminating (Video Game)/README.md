@@ -24,40 +24,39 @@ Presentation Information
 ### Morning
 | Names | Game Name |
 |-------|--------|
-| James, ? |  |
-| Frederick, Max |  |
-| Rafay, Brandon |  |
-| Kevin, Hai Ruo |  |
-| Emily, Wendy |  |
-|  |  |
-| Safra, Omer  |  |
-| Martin, Mustafa |  |
-| Mishaal, Anusha |  |
-| Fatima, Nina |  |
-|  |  |
-|  |  |
-|  |  |
-| Larry, Omar |  |
-|  |  |
-| Amin, Murtuza |  |
+| 1. James, ? |  |
+| 2. Frederick, Max |  |
+| 3. Rafay, Brandon |  |
+| 4. Kevin, Hai Ruo |  |
+| 5. Daniel, Mankaran |  |
+| 6. Preston, Hojae |  |
+| 7. Safra, Omer  |  |
+| 8. Martin, Mustafa |  |
+| 9. Mishaal, Anusha |  |
+| 10. Fatima, Nina |  |
+| 11. Emily, Wendy |  |
+| 12. Hai Ruo, Kevin |  |
+| 13.  |  |
+| 14. Larry, Omar, Ibraheem |  |
+| 15. Amin, Murtuza |  |
 
 ### Afternoon
 | Names | Game Name |
 |-------|--------|
-|  Sarah, Colin |  |
-|  Aditya, Felix |  |
-|  Ahmed, Tarun |  |
-|  Josh, Chris |  |
-|  Michael, ? |  |
-|  Shariq, Amin |  |
-|  Ghazi, Daniyal |  |
-|  Kyle, Mohammad |  |
-|  Syed, Atif |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| 1. Sarah, Colin |  |
+| 2. Aditya, Felix |  |
+| 3. Ahmed, Tarun |  |
+| 4. Josh, Chris |  |
+| 5. Michael, ? |  |
+| 6. Shariq, Amin |  |
+| 7. Ghazi, Daniyal |  |
+| 8. Kyle, Mohammad |  |
+| 9. Syed, Atif |  |
+| 10. Sally, Avantik |  |
+| 11. Krish, Andrew |  |
+| 12. Jack, Atyeb, Ali |  |
+| 13. |  |
+| 14. |  |
 
 ### Presentation Schedule
 | Date | Groups |
@@ -65,7 +64,7 @@ Presentation Information
 |January 13th | Groups #1, 4, 5, 6 |
 |January 14th | Groups #2, 7, 10, 11 |
 |January 15th | Groups #3, 8, 9, 14 |
-|January 16th | Groups #12, 13, 15, 16 |
+|January 16th | Groups #12, 13, 15 |
 |January 19th | Any leftover groups, including those there was no time for. |
 
 ###Attendance Requirement and Expectations
