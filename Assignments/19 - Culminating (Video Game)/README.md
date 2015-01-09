@@ -56,7 +56,7 @@ Presentation Information
 | 11. Krish, Andrew |  |
 | 12. Jack, Atyeb, Ali |  |
 | 13. |  |
-| 14. |  |
+| 14. Tarek, Victor |  |
 
 ### Presentation Schedule
 | Date | Groups |
