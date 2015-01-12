@@ -1,79 +1,24 @@
 Task(s)
 -------
 1. Create a 2D game using the Processing programming environment
-2. Present your project in a 10-15 minute seminar style presentation.  Expect questions from the audience.
-3. Complete a reflection of the whole process (individually).
+2. Complete a reflection of the whole process (individually).
+
+~~3. Present your project in a 10-15 minute seminar style presentation. Expect questions from the audience.~~ **CANCELLED for Semester 1**
 
 Criteria
 --------
 1. You **must** work in **groups of 2** to complete this project (**NO exceptions**)
-2. You **must** use the animation artwork given by Ms. McInnis' class.  The artwork ~~can~~ **will** be found in the folder: **OUT | SEIDEL | ICS3U | CULMINATING | ARTWORK**
+2. You **must** use the animation artwork given by Ms. McInnis' class.  The artwork can be found in the folder: **OUT | SEIDEL | ICS3U | CULMINATING | ARTWORK**
 
 Submissables
 ------------
-Hand your program and reflection in to the IN drive.
+Hand in your program and reflection to the IN drive.
 
 Due Date(s)
 ----------
-* Program due by January 12th by 3pm
-* Presentations begin January 13th
+* Program due by January ~~12th~~ 19th by 3pm **NEW DUE DATE**
+* ~~Presentations begin January 13th~~
 * Reflection due by January 20th by 4pm
-
-Presentation Information
-------------------------
-### Morning
-| Names | Game Name |
-|-------|--------|
-| 1. James, ? |  |
-| 2. Frederick, Max |  |
-| 3. Rafay, Brandon |  |
-| 4. Kevin, Hai Ruo |  |
-| 5. Daniel, Mankaran |  |
-| 6. Preston, Hojae |  |
-| 7. Safra, Omer  |  |
-| 8. Martin, Mustafa |  |
-| 9. Mishaal, Anusha |  |
-| 10. Fatima, Nina |  |
-| 11. Emily, Wendy |  |
-| 12. Hai Ruo, Kevin |  |
-| 13.  |  |
-| 14. Larry, Omar, Ibraheem |  |
-| 15. Amin, Murtuza |  |
-
-### Afternoon
-| Names | Game Name |
-|-------|--------|
-| 1. Sarah, Colin |  |
-| 2. Aditya, Felix |  |
-| 3. Ahmed, Tarun |  |
-| 4. Josh, Chris |  |
-| 5. Michael, ? |  |
-| 6. Shariq, Amin |  |
-| 7. Ghazi, Daniyal |  |
-| 8. Kyle, Mohammad |  |
-| 9. Syed, Atif |  |
-| 10. Sally, Avantik |  |
-| 11. Krish, Andrew |  |
-| 12. Jack, Atyeb, Ali |  |
-| 13. |  |
-| 14. Tarek, Victor |  |
-
-### Presentation Schedule
-| Date | Groups |
-| ---- | ------ |
-|January 13th | Groups #1, 4, 5, 6 |
-|January 14th | Groups #2, 7, 10, 11 |
-|January 15th | Groups #3, 8, 9, 14 |
-|January 16th | Groups #12, 13, 15 |
-|January 19th | Any leftover groups, including those there was no time for. |
-
-###Attendance Requirement and Expectations
-1. If you are absent without a legitimate reason (a doctor's note required), you will receive a mark of zero on your presentation without the option to present again.
-
-2. If at least one member of the group is available, that person will be expected to present, and will receive full marks for their work. For those that are absent, see #1 above.
-
-3. All group members are expected to contribute equally in all aspects of this project.
-
 
 Rubric(s)
 ---------
@@ -107,16 +52,16 @@ Rubric(s)
 | C3.2: Work independently using support documentation to create program | | | | | |
 
 
-**Presentation Rubric ( /8)**
+**Presentation Rubric ( /8)** **CANCELLED -  for Semester 1 the 8 marks have been pushed down to the reflection instead**
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-| Meets time constraints (L4: on time, L3: forced on time, L2: +/- 1 min, L1: +/- 2 min) | | | | | |
-| Explains difficulties and challenges from the creation of the software | | | | | |
-| Demonstrates game | | | | | |
+| ~~Meets time constraints (L4: on time, L3: forced on time, L2: +/- 1 min, L1: +/- 2 min)~~ | | | | | |
+| ~~Explains difficulties and challenges from the creation of the software~~ | | | | | |
+| ~~Demonstrates game~~ | | | | | |
 
 
-**Reflection Rubric ( /4)**
+**Reflection Rubric ( /12)**
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
