@@ -13,3 +13,4 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
 
 ###Announcements
 * [Intake Survey - Invalid Link](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5Aa/viewform)
+* [Outtake Survey](http://goo.gl/forms/WepiyTc8Hy)
