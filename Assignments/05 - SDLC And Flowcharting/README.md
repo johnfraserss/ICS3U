@@ -1,5 +1,9 @@
 Task(s)
 -------
+
+**This task is currently being modified - do NOT begin working on it.**
+
+
 You have been asked to create a computer program based on the following:
 
 _A representative from the Canadian Government wants you to create an online voting system for provincial and federal elections._
