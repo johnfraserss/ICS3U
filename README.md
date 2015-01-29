@@ -11,6 +11,3 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
 * [Processing.org] (http://www.processing.org/) (download, references and examples available on the same site)
 * [Daniel Shiffman - Introductory Videos for Processing] (http://vimeo.com/channels/introcompmedia)
 
-###Announcements
-* [Intake Survey - Invalid Link](https://docs.google.com/forms/d/1L3RliOHHLfAlCdnqRfsVPs3v2EgrA9q4NAeOPllJC5Aa/viewform)
-* [Outtake Survey](http://goo.gl/forms/WepiyTc8Hy)
