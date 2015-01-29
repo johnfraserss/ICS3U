@@ -1,8 +1,8 @@
 Task(s)
 -------
-Find out what each of the following acronyms stands for, and their meanings.  
-Create an organizational device to show your understanding and research.  
-These acronyms will be referenced in class, be prepared to know what they are.
+* Find out what each of the following acronyms stands for, and their meanings.  
+* Create an organizational device to show your understanding and research.  
+* These acronyms will be referenced in class, be prepared to know what they are.
 
 Acronyms
 ------
@@ -16,4 +16,4 @@ Do _not_ hand in this work.  It will just be checked for completion.
 
 Due Date(s)
 -----------
-This work will be assumed to have been completed as of September 15th.  There will be a random check no earlier than this date.
+This work will be assumed to have been completed as of February 13th.  There will be a random check no earlier than this date.
