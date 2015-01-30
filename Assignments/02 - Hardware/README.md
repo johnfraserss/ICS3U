@@ -16,8 +16,6 @@ Task(s)
 
 Presentation Schedule
 ------------------
-*These dates and groups are for Mr. Seidel's morning class only.  For the afternoon class, see your teacher.
-
 - February 4th: Group #1, 4, 7
 - February 5th: Group #2, 5, 8
 - February 6th: Group #3, 6, 9
