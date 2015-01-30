@@ -12,7 +12,7 @@ Task(s)
 6. Power Supplies (Shubham, Sean Wa.., Rohan T.)
 7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Ting, Eric, Mason, Richard)
 8. Output devices (monitor, projector, printer, etc.) (Meghana, Kevin)
-9. Hard Disk Drives, Solid State Drives, and any other storage drives (araa, Javaughn)
+9. Hard Disk Drives, Solid State Drives, and any other storage drives (Baraa, Javaughn)
 
 Presentation Schedule
 ------------------
