@@ -13,11 +13,12 @@ Task(s)
 7. Input devices (keyboard, mouse, scanner, webcams, etc.) (Ting, Eric, Mason, Richard)
 8. Output devices (monitor, projector, printer, etc.) (Meghana, Kevin)
 9. Hard Disk Drives, Solid State Drives, and any other storage drives (Baraa, Javaughn)
+10. Wifi, Network Cards, Modems, etc. (Victoria, Roshni, Rafay, Thomas)
 
 Presentation Schedule
 ------------------
 - February 5th: Group #1, 3, 4, 7, 9
-- February 6th: Group #2, 5, 6, 8
+- February 6th: Group #2, 5, 6, 8, 10
 
 Rubric(s)
 ---------
