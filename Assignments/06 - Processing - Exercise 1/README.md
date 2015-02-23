@@ -12,4 +12,4 @@ Do **not** hand this in, just ensure your teacher see the work.
 
 Due Date(s)
 ----------
-Due by October 6th.
+Due by Feb 26
