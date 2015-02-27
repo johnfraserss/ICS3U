@@ -12,7 +12,7 @@ Do **not** hand this work in - your teacher will mark this at your computer near
 
 Due Date(s)
 ----------
-Due March 9th by 3pm
+Marking will begin at the beginning of class on March 10th.
 
 Rubric(s)
 ---------
