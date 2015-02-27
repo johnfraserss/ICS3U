@@ -2,27 +2,27 @@
  * Example of using variables
  */
 
-//Integers - whole numbers, positive or negative
-int w;
-
 //Real numbers - numbers that include decimals
-float h;
+float diameter; //diameter of circle
 
 void setup() {
   size(500, 500);
-  h = 5;
+  diameter = 5;
 }
 
+//draw an ever-growing circle
 void draw() {
   background(0);
-  ellipse(width/2, height/2, h, h);
-  h = h + 1;
+  ellipse(width/2, height/2, diameter, diameter);
+  diameter = diameter + 1;
 }
 
+//change diameter back to 5 on mouse click
 void mousePressed() {
-  h = 5;
+  diameter = 5;
 }
 
+//pick a new colour based on key press
 void keyPressed() {
   fill(random(255), random(255), random(255));
 }
