@@ -31,6 +31,7 @@ Presentation Schedule
 You will start presenting your findings as of April 7th:
 
 Formal presentations to the entire class are marked with a '+' sign in the schedule below:
+
 | Date | Name(s) |
 |-------|--------|
 | April 8th | |
