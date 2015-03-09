@@ -23,12 +23,13 @@ Task(s)
 ###Groups
 | Name(s) | Topics |
 |-------|--------|
-| Kevin, Meghana | Augmented Reality+ |
+| Kevin, Meghana | Augmented Reality (No Google Glass)+ |
 | Amr, William | Genetic Engineering |
 | Amin | Bioinformatics |
 | Rafay, Roshni | Invisibility Cloak |
 | Marc | Cryptocurrency | 
 | Thomas | Virtual Reality |
+| Baraa, Jad | Driverless Cars (No Google Car) |
 
 Presentation Schedule
 ------------------
