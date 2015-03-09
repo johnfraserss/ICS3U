@@ -30,6 +30,7 @@ Task(s)
 | Marc | Cryptocurrency | 
 | Thomas | Virtual Reality |
 | Baraa, Jad | Driverless Cars (No Google Car) |
+| Eric, Ting | Flying Cars+ |
 
 Presentation Schedule
 ------------------
