@@ -27,8 +27,8 @@ Task(s)
 | Amr, William | Genetic Engineering |
 | Amin | Bioinformatics |
 | Rafay, Roshni | Invisibility Cloak |
-| Marc | Cryptocurrency
-
+| Marc | Cryptocurrency | 
+| Thomas | Virtual Reality |
 
 Presentation Schedule
 ------------------
