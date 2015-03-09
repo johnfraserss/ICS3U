@@ -33,6 +33,7 @@ Task(s)
 | Eric, Ting | Flying Cars+ |
 | Sean Wu, Saeed | 3D Printing |
 | Taimoor, Yousuf | Swarm Robotics |
+| Sean Wa, Ronnie | Hololens |
 
 Presentation Schedule
 ------------------
