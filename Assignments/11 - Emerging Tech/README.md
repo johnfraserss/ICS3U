@@ -23,7 +23,10 @@ Task(s)
 ###Groups
 | Name(s) | Topics |
 |-------|--------|
-| | |
+| Kevin, Meghana | Augmented Reality+ |
+| Amr, William | Genetic Engineering |
+| Amin | Bioinformatics |
+| Rafay, Roshni | Invisibility Cloak |
 
 
 Presentation Schedule
