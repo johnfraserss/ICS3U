@@ -32,6 +32,7 @@ Task(s)
 | Baraa, Jad | Driverless Cars (No Google Car) |
 | Eric, Ting | Flying Cars+ |
 | Sean Wu, Saeed | 3D Printing |
+| Taimoor, Yousuf | Swarm Robotics |
 
 Presentation Schedule
 ------------------
