@@ -34,6 +34,7 @@ Task(s)
 | Sean Wu, Saeed | 3D Printing |
 | Taimoor, Yousuf | Swarm Robotics |
 | Sean Wa, Ronnie | Hololens |
+| Richard, Mason | Jet Packs+ |
 
 Presentation Schedule
 ------------------
