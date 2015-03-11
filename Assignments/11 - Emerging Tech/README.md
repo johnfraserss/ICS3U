@@ -35,6 +35,7 @@ Task(s)
 | Taimoor, Yousuf | Swarm Robotics |
 | Sean Wa, Ronnie | Hololens |
 | Richard, Mason | Jet Packs+ |
+| Shubham, Rohan T. | Anti gravity |
 
 Presentation Schedule
 ------------------
