@@ -36,6 +36,9 @@ Task(s)
 | Sean Wa, Ronnie | Hololens |
 | Richard, Mason | Jet Packs+ |
 | Shubham, Rohan T. | Anti gravity |
+| Hamza, Rohan S. | Artificial Intelligence |
+| Jason C. | Artificial Gravity |
+
 
 Presentation Schedule
 ------------------
