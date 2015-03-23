@@ -38,6 +38,7 @@ Task(s)
 | Shubham, Rohan T. | Anti gravity |
 | Hamza, Rohan S. | Artificial Intelligence |
 | Jason C. | Artificial Gravity |
+| Bob | Brain Computer Interface (BCI)+ |
 
 
 Presentation Schedule
