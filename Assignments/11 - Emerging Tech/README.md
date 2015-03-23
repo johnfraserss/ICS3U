@@ -39,6 +39,7 @@ Task(s)
 | Hamza, Rohan S. | Artificial Intelligence |
 | Jason C. | Artificial Gravity |
 | Bob | Brain Computer Interface (BCI)+ |
+| Victoria, Jason B | 3D Displays |
 
 
 Presentation Schedule
