@@ -48,21 +48,29 @@ You will start presenting your findings as of April 7th:
 
 Formal presentations to the entire class are marked with a '+' sign in the schedule below:
 
-| Date | Name(s) |
+| Date | Topic(s) |
 |-------|--------|
-| April 8th | |
-| April 9th | |
-| April 10th | |
-| April 13th | |
-| April 14th | |
-| April 15th | |
-| April 16th | |
-| April 17th | |
+| April 8th | Augmented Reality+, Virtual Reality, 3D Printing, 3D Displays,  |
+| April 9th | Jet Packs+, Driverless Cars, , Swarm Robotics |
+| April 10th | Flying Cars+, Invisibility Cloak, Hololens |
+| April 13th | BCI+, Genetic Engineering, Bioinformatics, Cryptocurrency |
+| April 14th | Anti-Gravity, Artificial Gravity, Artificial Intelligence  |
+| April 15th | Any presentation there wasn't time for on the given day |
 
 
 Rubric(s) and Expectations
 --------------------------
-**Rubric to follow**
+This rubric is out of a total of 28
+
+| | 0 | 1 (limited) | 2 (some) | 3 | 4 (high quality) |
+|---| --- | --- | --- | --- | --- |
+| K: Demonstrates knowledge of topic | | | | | |
+| K: Information relevant to topic (and appropriate) | | | | | |
+| A: Transfers knowledge of topic to presentation  | | | | | |
+| C: Terminology and conventions appropriate to target audience  | | | | | |
+| C: Sources cited using APA/MLA format  | | | | | |
+| T: Presentation is an appropriate amount of time based on topic coverage (i.e. doesn't drag on, or is too short)  | | | | | |
+| T: Information is organized logically | | | | | |
 
 1. If you are absent on your date of presentation without a legitimate reason (a doctor's note required), you will receive a mark of zero on your presentation without the option to present again.
 2. If at least one member of the group is available, that person will be expected to present their work, and will receive full marks. For those that are absent, see #1 above.
