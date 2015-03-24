@@ -7,7 +7,7 @@ You are to complete this task on your own (i.e. no group submissions, or no plag
 
 Submissables
 ------------
-Hand in a copy of your work to the IN\SEIDEL\ICS3U\Assignment2 folder - your teacher will mark this at your computer near the due date.
+Hand in a copy of your work to the IN\SEIDEL\ICS3U\Assign2 folder - your teacher will mark this at your computer near the due date.
 
 Due Date(s)
 ----------
