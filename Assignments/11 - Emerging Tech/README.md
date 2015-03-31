@@ -28,7 +28,7 @@ Task(s)
 | Amin | Bioinformatics |
 | Rafay, Roshni | Invisibility Cloak |
 | Marc | Cryptocurrency | 
-| Thomas | Virtual Reality |
+| Thomas | Virtual Reality +|
 | Baraa, Jad | Driverless Cars (No Google Car) |
 | Eric, Ting | Flying Cars+ |
 | Sean Wu, Saeed | 3D Printing |
@@ -50,7 +50,7 @@ Formal presentations to the entire class are marked with a '+' sign in the sched
 
 | Date | Topic(s) |
 |-------|--------|
-| April 8th | Augmented Reality+, Virtual Reality, 3D Printing, 3D Displays,  |
+| April 8th | Augmented Reality+, Virtual Reality+, 3D Printing, 3D Displays,  |
 | April 9th | Jet Packs+, Driverless Cars, , Swarm Robotics |
 | April 10th | Flying Cars+, Invisibility Cloak, Hololens |
 | April 13th | BCI+, Genetic Engineering, Bioinformatics, Cryptocurrency |
