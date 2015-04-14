@@ -23,18 +23,18 @@ Task(s)
 ###Groups
 | Name(s) | Topics |
 |-------|--------|
-| Kevin, Meghana | Augmented Reality (No Google Glass)+ |
+| Kevin, Meghana | Augmented Reality (No Google Glass) |
 | Amr, William | Genetic Engineering |
 | Amin | Bioinformatics |
 | Rafay, Roshni | Invisibility Cloak |
 | Marc | Cryptocurrency | 
 | Thomas | Virtual Reality +|
 | Baraa, Jad | Driverless Cars (No Google Car) |
-| Eric, Ting | Flying Cars+ |
+| Eric, Ting | Flying Cars |
 | Sean Wu, Saeed | 3D Printing |
 | Taimoor, Yousuf | Swarm Robotics |
 | Sean Wa, Ronnie | Hololens |
-| Richard, Mason | Jet Packs+ |
+| Richard, Mason | Jet Packs |
 | Shubham, Rohan T. | Anti gravity |
 | Hamza, Rohan S. | Artificial Intelligence |
 | Jason C. | Artificial Gravity |
@@ -44,18 +44,18 @@ Task(s)
 
 Presentation Schedule
 ------------------
-You will start presenting your findings as of April 7th:
+You will start presenting your findings as of April 8th:
 
 Formal presentations to the entire class are marked with a '+' sign in the schedule below:
 
 | Date | Topic(s) |
 |-------|--------|
 | April 8th | ~~Augmented Reality, 3D Printing, 3D Displays~~  |
-| April 9th | NO PRESENTATIONS - Test on this day |
-| April 10th | ~~Flying Cars~~, Invisibility Cloak, ~~Hololens~~ |
-| April 13th | BCI+, Genetic Engineering, Bioinformatics, Cryptocurrency |
-| April 14th | Anti-Gravity, Artificial Gravity, Artificial Intelligence  |
-| April 15th | Virtual Reality+, Jet Packs, Swarm Robotics, Driverless Cars |
+| April 10th | ~~Flying Cars, Invisibility Cloak, Hololens~~ |
+| April 13th | ~~BCI+, Genetic Engineering~~, Bioinformatics, Cryptocurrency |
+| April 15th | Anti-Gravity, Artificial Gravity, Artificial Intelligence  |
+| April 16th | Virtual Reality+, Jet Packs, Swarm Robotics, Driverless Cars |
+| April 17th | Any leftover or missed presentations |
 
 
 Rubric(s) and Expectations
