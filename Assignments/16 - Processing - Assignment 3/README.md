@@ -18,9 +18,14 @@ Due by April 15th - **no exceptions**
 
 Rubric(s)
 ---------
-This rubric is out of a total of ??
+This rubric is out of a total of 28
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-| Rubric to follow | | | | | |
-
+|A1.1: Use variables (including floats and PVectors) correctly in your program  | | | | | |
+|A1.5: Use one-dimensional arrays properly within a program  | | | | | |
+|A4.2: Use workplace conventions (naming, commenting, indenting, etc.)  | | | | | |
+|B1.2: Demonstrate ability to solve the problem independently | | | | | |
+|B2.1: Design the program from the template provided  | | | | | |
+|B2.3: Create a modular program (i.e. broken into functions)  | | | | | |
+|B3.2: Apply the mathematical formula for calculating the area of the triangle (worth 0 or 4) | | | | | |
