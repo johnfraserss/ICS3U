@@ -13,7 +13,7 @@ Hand in a copy of your work to the IN\SEIDEL\ICS3U\Assign4 folder - your teacher
 
 Due Date(s)
 ----------
-Due by April 30th - **no exceptions**
+Due by May 1st - **no exceptions**
 
 Rubric(s)
 ---------
