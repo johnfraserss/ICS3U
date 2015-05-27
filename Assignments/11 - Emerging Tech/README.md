@@ -50,12 +50,12 @@ Formal presentations to the entire class are marked with a '+' sign in the sched
 
 | Date | Topic(s) |
 |-------|--------|
-| April 8th | ~~Augmented Reality, 3D Printing, 3D Displays~~  |
+| April 8th | Augmented Reality+, 3D Printing, 3D Displays,  |
 | April 9th | NO PRESENTATIONS - Test on this day |
-| April 10th | ~~Flying Cars~~, Invisibility Cloak, ~~Hololens~~ |
+| April 10th | Flying Cars+, Invisibility Cloak, Hololens |
 | April 13th | BCI+, Genetic Engineering, Bioinformatics, Cryptocurrency |
 | April 14th | Anti-Gravity, Artificial Gravity, Artificial Intelligence  |
-| April 15th | Virtual Reality+, Jet Packs, Swarm Robotics, Driverless Cars |
+| April 15th | Virtual Reality+, Jet Packs+, Swarm Robotics, Driverless Cars |
 
 
 Rubric(s) and Expectations
