@@ -4,7 +4,7 @@ Task(s)
 Choose **one** of the two options below to complete.
 
 1. Create a **simple** 2D game using the Processing programming environment (teacher approval required).
-2. Create a program that replicates a real life simulation (teacher approval required).
+2. Create a program that simulates a real life event: e.g. water pooling, wind resistance on a ball, etc. (teacher approval required).
 
 Feel free to complete this on your own, or complete this project in pairs (no more than 2 people per group).
 
