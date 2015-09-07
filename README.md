@@ -1,7 +1,7 @@
 ICS3U
 =====
 
-ICS3U Course for Mr. Seidel (2014-2015 school year)
+ICS3U Course for Mr. Seidel (2015-2016 school year)
 
 In the following pages you will find the assignments as they are posted, and notes as they are posted as well.
 
