@@ -11,3 +11,23 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
 * [Processing.org] (http://www.processing.org/) (download, references and examples available on the same site)
 * [Daniel Shiffman - Introductory Videos for Processing] (http://vimeo.com/channels/introcompmedia)
 
+####Tentative Topics
+_Note: Some of these topics may be assigned as homework throughout the course, and the order may change as the course progresses_
+* Computer Hardware
+* Coding, Compiling, and Components
+* Emerging Technology and Collaborative Research
+* SDLC and Flowcharting
+* Programming in Processing
+  * Variables
+  * Conditionals
+  * Repetition Structures
+  * Documentation
+  * Arrays
+  * Functions and Encapsulation
+  * PVectors
+  * Introduction to Objects
+* Algorithm Design
+* Tracing Techniques
+* Environmental Stewardship
+* Postsecondary Opportunities
+* Final Assessment (see course outline for more information on this topic)
