@@ -1,6 +1,6 @@
 Task(s)
 -------
-1. As a group (groups will be assigned per teacher discretion), research the given Hardware Part
+1. As a group, research the given Hardware Part
 2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
 
 ###Hardware Parts
