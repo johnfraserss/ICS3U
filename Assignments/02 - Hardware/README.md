@@ -14,7 +14,7 @@ Task(s)
 8. Output devices (monitor, projector, printer, etc.) (Kevin, Russel, Xiao)
 9. Hard Disk Drives, Solid State Drives, and any other storage drives (Tabrez, Peter, Brayden)
 10. Cases, Cabling, Fans, Heatsinks, Watercooling (Philip, Simon, Daniel)
-11. Quantum Computing (Patrick, Bill, Mohamed)
+11. Quantum Computing (Patrick, Bill, Mohammed)
 
 Presentation Schedule
 ------------------
