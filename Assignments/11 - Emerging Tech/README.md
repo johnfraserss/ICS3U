@@ -36,6 +36,7 @@ Task(s)
 | Molly, QianQian | Powered Exoskeleton |
 | Russell, Tabrez | Modular Technology |
 | Brayden, Peter | Space Elevator |
+| Philip, Laith | Digital Genome |
 
 Presentation Schedule
 ------------------
