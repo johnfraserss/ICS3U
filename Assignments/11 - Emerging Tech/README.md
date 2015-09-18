@@ -15,9 +15,9 @@ Task(s)
 ###Emerging Technology Topics
 - Business rules management
 - Cloudbursting
-- Appliance Robots
-- Augmented Reality (No Google Glass)
-- Swarm Robotics
+- ~~Appliance Robots~~
+- ~~Augmented Reality (No Google Glass)~~
+- ~~Swarm Robotics~~
 - Other: Teacher approved topics - check [here] (http://en.wikipedia.org/wiki/List_of_emerging_technologies) for ideas
 
 ###Groups
@@ -28,6 +28,7 @@ Task(s)
 | Anil | Anti-gravity |
 | Rahul, Fayez | Flying Car |
 | Mohammed | Appliance Robots |
+| Patrick | Printed Food |
 
 
 
