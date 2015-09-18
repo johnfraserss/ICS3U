@@ -49,11 +49,17 @@ Formal presentations to the entire class are marked with a '+' sign in the sched
 
 | Date | Topic(s) |
 |-------|--------|
-| September 28th |   |
-| September 29th |   |
-| September 30th |   |
-| October 1st |   |
-| October 2nd |   |
+| September 28th | Flying cars, Anti-gravity |
+| September 29th | Augmented Reality, 3D Displays  |
+| September 30th | 3D Printing, Printed Food |
+| October 1st | Nanotechnology, Swarm Robotics |
+| October 2nd | Recyclable Thermoset Plastics  |
+| October 5th | Appliance Robots, Powered Exoskeleton |
+| October 6th | High Temp. Superconductivity, Space Elevator |
+| October 7th | Invisibility Cloak, Modular Technology |
+| October 8th | Neuromorphic Technology, Digital Genome |
+| October 9th |  |
+
 
 
 
