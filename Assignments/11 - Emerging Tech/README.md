@@ -37,6 +37,7 @@ Task(s)
 | Russell, Tabrez | Modular Technology |
 | Brayden, Peter | Space Elevator |
 | Philip, Laith | Digital Genome |
+| Alaana | Recyclable Thermoset Plastics |
 
 Presentation Schedule
 ------------------
