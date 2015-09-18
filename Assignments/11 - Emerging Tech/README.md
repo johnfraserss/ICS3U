@@ -32,8 +32,8 @@ Task(s)
 | Jason, Kasun | High Temperature Superconductivity |
 | Olivia, Kayenaat | Invisibility Cloak |
 | Daniel | 3D Displays |
-
-
+| Kevin, Xiao | Neuromorphic Technology |
+| Molly, QianQian | Powered Exoskeleton |
 
 Presentation Schedule
 ------------------
