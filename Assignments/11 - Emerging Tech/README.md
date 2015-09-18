@@ -34,6 +34,8 @@ Task(s)
 | Daniel | 3D Displays |
 | Kevin, Xiao | Neuromorphic Technology |
 | Molly, QianQian | Powered Exoskeleton |
+| Russell, Tabrez | Modular Technology |
+| Brayden, Peter | Space Elevator |
 
 Presentation Schedule
 ------------------
