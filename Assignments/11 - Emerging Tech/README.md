@@ -40,7 +40,7 @@ Task(s)
 | Alaana | Recyclable Thermoset Plastics |
 | Kevin H., Simon | 3D Printing |
 | Obayed, Hashir | Nanotechnology |
-| Bill | |
+| Bill | Application of Lasers |
 
 Presentation Schedule
 ------------------
@@ -54,10 +54,10 @@ You will start presenting your findings as of September 28th:
 | October 1st | Nanotechnology, Swarm Robotics |
 | October 2nd | Recyclable Thermoset Plastics  |
 | October 5th | Appliance Robots, Powered Exoskeleton |
-| October 6th | High Temp. Superconductivity, Space Elevator |
+| October 6th | Application of Lasers |
 | October 7th | Invisibility Cloak, Modular Technology |
 | October 8th | Neuromorphic Technology, Digital Genome |
-| October 9th | ```Bill's topic here``` |
+| October 9th | High Temp. Superconductivity, Space Elevator |
 
 
 Rubric(s) and Expectations
