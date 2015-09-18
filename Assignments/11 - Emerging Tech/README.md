@@ -39,6 +39,7 @@ Task(s)
 | Philip, Laith | Digital Genome |
 | Alaana | Recyclable Thermoset Plastics |
 | Kevin H., Simon | 3D Printing |
+| Obayed, Hashir | Nanotechnology |
 
 Presentation Schedule
 ------------------
