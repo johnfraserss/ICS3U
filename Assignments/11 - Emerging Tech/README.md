@@ -30,6 +30,9 @@ Task(s)
 | Mohammed | Appliance Robots |
 | Patrick | Printed Food |
 | Jason, Kasun | High Temperature Superconductivity |
+| Olivia, Kayenaat | Invisibility Cloak |
+| Daniel | 3D Displays |
+
 
 
 Presentation Schedule
