@@ -40,12 +40,11 @@ Task(s)
 | Alaana | Recyclable Thermoset Plastics |
 | Kevin H., Simon | 3D Printing |
 | Obayed, Hashir | Nanotechnology |
+| Bill | |
 
 Presentation Schedule
 ------------------
 You will start presenting your findings as of September 28th:
-
-Formal presentations to the entire class are marked with a '+' sign in the schedule below:
 
 | Date | Topic(s) |
 |-------|--------|
@@ -58,9 +57,7 @@ Formal presentations to the entire class are marked with a '+' sign in the sched
 | October 6th | High Temp. Superconductivity, Space Elevator |
 | October 7th | Invisibility Cloak, Modular Technology |
 | October 8th | Neuromorphic Technology, Digital Genome |
-| October 9th |  |
-
-
+| October 9th | ```Bill's topic here``` |
 
 
 Rubric(s) and Expectations
