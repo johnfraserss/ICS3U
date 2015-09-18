@@ -32,12 +32,13 @@ Task(s)
 | Jason, Kasun | High Temperature Superconductivity |
 | Olivia, Kayenaat | Invisibility Cloak |
 | Daniel | 3D Displays |
-| Kevin, Xiao | Neuromorphic Technology |
+| Kevin L., Xiao | Neuromorphic Technology |
 | Molly, QianQian | Powered Exoskeleton |
 | Russell, Tabrez | Modular Technology |
 | Brayden, Peter | Space Elevator |
 | Philip, Laith | Digital Genome |
 | Alaana | Recyclable Thermoset Plastics |
+| Kevin H., Simon | 3D Printing |
 
 Presentation Schedule
 ------------------
