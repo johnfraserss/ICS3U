@@ -23,6 +23,11 @@ Task(s)
 ###Groups
 | Name(s) | Topics |
 |-------|--------|
+| Roy, Wayne | Swarm Robotics |
+| Jyoti, Raahim | Augmented Reality (No Google Glass) |
+| Anil | Anti-gravity |
+| Rahul, Fayez | Flying Car |
+| Mohammed | Appliance Robots |
 
 
 
