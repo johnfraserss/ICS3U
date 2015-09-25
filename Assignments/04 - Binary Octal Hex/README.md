@@ -32,4 +32,4 @@ Do _not_ hand in this work.  It will just be checked for understanding and compl
 
 Due Date(s)
 ------------------
-It will be assumed that you have completed this worksheet as of September 24th.  There will be a quiz on the material on September 25th.
+It will be assumed that you have completed this worksheet as of September 28th.  There will be a quiz on the material on September 29th.
