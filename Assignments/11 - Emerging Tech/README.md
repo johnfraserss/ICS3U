@@ -26,7 +26,7 @@ Task(s)
 | Roy, Wayne | Swarm Robotics |
 | Jyoti, Raahim | Augmented Reality (No Google Glass) |
 | Anil | Anti-gravity |
-| Rahul, Fayez | Flying Car |
+| ~~Rahul, Fayez~~ | ~~Flying Car~~ |
 | Mohammed | Appliance Robots |
 | Patrick | Printed Food |
 | Jason, Kasun | High Temperature Superconductivity |
@@ -48,7 +48,7 @@ You will start presenting your findings as of September 28th:
 
 | Date | Topic(s) |
 |-------|--------|
-| September 28th | Flying cars, Anti-gravity |
+| September 28th | ~~Flying cars~~, Anti-gravity |
 | September 29th | Augmented Reality, 3D Displays  |
 | September 30th | 3D Printing, Printed Food |
 | October 1st | Nanotechnology, Swarm Robotics |
