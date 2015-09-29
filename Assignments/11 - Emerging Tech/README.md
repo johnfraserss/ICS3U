@@ -31,7 +31,7 @@ Task(s)
 | Patrick | Printed Food |
 | Jason, Kasun | High Temperature Superconductivity |
 | Olivia, Kayenaat | Invisibility Cloak |
-| Daniel | 3D Displays |
+| ~~Daniel~~ | ~~3D Displays~~ |
 | Kevin L., Xiao | Neuromorphic Technology |
 | Molly, QianQian | Powered Exoskeleton |
 | Russell, Tabrez | Modular Technology |
@@ -49,7 +49,7 @@ You will start presenting your findings as of September 28th:
 | Date | Topic(s) |
 |-------|--------|
 | September 28th | ~~Flying cars~~, Anti-gravity |
-| September 29th | Augmented Reality, 3D Displays  |
+| September 29th | Augmented Reality, ~~3D Displays~~  |
 | September 30th | 3D Printing, Printed Food |
 | October 1st | Nanotechnology, Swarm Robotics |
 | October 2nd | Recyclable Thermoset Plastics  |
