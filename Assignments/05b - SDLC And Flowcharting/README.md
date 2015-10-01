@@ -11,6 +11,10 @@ Using your knowledge of flowcharting and the SDLC complete the following tasks:
 
 Do **not** hand in this work - it will be marked in-class.
 
+For creating flowcharts, there are some tools available online such as:
+* [Create.ly](http://creately.com/tour) - you will have to sign up for an account to save work
+* [Lucidchart](https://www.lucidchart.com/) - you will have to sign up for an account to save work
+
 Due Date(s)
 -----------
 The earliest this will be marked is October 8th.
