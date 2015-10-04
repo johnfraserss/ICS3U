@@ -25,7 +25,7 @@ Task(s)
 |-------|--------|
 | Roy, Wayne | Swarm Robotics |
 | ~~Jyoti, Raahim~~ | ~~Augmented Reality (No Google Glass)~~ |
-| Anil | Anti-gravity |
+| ~~Anil~~ | ~~Anti-gravity~~ |
 | ~~Rahul, Fayez~~ | ~~Flying Car~~ |
 | Mohammed | Appliance Robots |
 | ~~Patrick~~ | ~~Printed Food~~ |
@@ -37,9 +37,9 @@ Task(s)
 | Russell, Tabrez | Modular Technology |
 | Brayden, Peter | Space Elevator |
 | Philip, Laith | Digital Genome |
-| Alaana | Recyclable Thermoset Plastics |
-| Kevin H., Simon | 3D Printing |
-| Obayed, Hashir | Nanotechnology |
+| ~~Alaana~~ | ~~Recyclable Thermoset Plastics~~ |
+| ~~Kevin H., Simon~~ | ~~3D Printing~~ |
+| ~~Obayed, Hashir~~ | ~~Nanotechnology~~ |
 | Bill | Application of Lasers |
 
 Presentation Schedule
@@ -48,11 +48,11 @@ You will start presenting your findings as of September 28th:
 
 | Date | Topic(s) |
 |-------|--------|
-| September 28th | ~~Flying cars~~, Anti-gravity |
+| September 28th | ~~Flying cars~~, ~~Anti-gravity~~ |
 | September 29th | ~~Augmented Reality~~, ~~3D Displays~~  |
-| September 30th | 3D Printing, ~~Printed Food~~ |
-| October 1st | Nanotechnology, Swarm Robotics |
-| October 2nd | Recyclable Thermoset Plastics  |
+| September 30th | ~~3D Printing~~, ~~Printed Food~~ |
+| October 1st | ~~Nanotechnology~~, Swarm Robotics |
+| October 2nd | ~~Recyclable Thermoset Plastics~~  |
 | October 5th | Appliance Robots, Powered Exoskeleton |
 | October 6th | Application of Lasers |
 | October 7th | Invisibility Cloak, Modular Technology |
