@@ -27,7 +27,6 @@ Task(s)
 | ~~Jyoti, Raahim~~ | ~~Augmented Reality (No Google Glass)~~ |
 | ~~Anil~~ | ~~Anti-gravity~~ |
 | ~~Rahul, Fayez~~ | ~~Flying Car~~ |
-| Mohammed | Appliance Robots |
 | ~~Patrick~~ | ~~Printed Food~~ |
 | Jason, Kasun | High Temperature Superconductivity |
 | Olivia, Kayenaat | Invisibility Cloak |
@@ -53,7 +52,7 @@ You will start presenting your findings as of September 28th:
 | September 30th | ~~3D Printing~~, ~~Printed Food~~ |
 | October 1st | ~~Nanotechnology~~, Swarm Robotics |
 | October 2nd | ~~Recyclable Thermoset Plastics~~  |
-| October 5th | Appliance Robots, Powered Exoskeleton |
+| October 5th | ~~Powered Exoskeleton~~ |
 | October 6th | Application of Lasers |
 | October 7th | Invisibility Cloak, Modular Technology |
 | October 8th | Neuromorphic Technology, Digital Genome |
