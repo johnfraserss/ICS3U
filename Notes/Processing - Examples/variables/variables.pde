@@ -5,8 +5,11 @@
 //Real numbers - numbers that include decimals
 float diameter; //diameter of circle
 
-void setup() {
+void settings() {
   size(500, 500);
+}
+
+void setup() {
   diameter = 5;
 }
 
