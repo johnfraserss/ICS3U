@@ -10,7 +10,7 @@ void setup() {
   
 }
 
-//draw an ever-growing circle
+//draw two circles of different colors
 void draw() {
   background(0);
   fill(25, 255, 255);
