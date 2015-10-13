@@ -23,19 +23,19 @@ Task(s)
 ###Groups
 | Name(s) | Topics |
 |-------|--------|
-| Roy, Wayne | Swarm Robotics |
+| ~~Roy, Wayne~~ | ~~Swarm Robotics~~ |
 | ~~Jyoti, Raahim~~ | ~~Augmented Reality (No Google Glass)~~ |
 | ~~Anil~~ | ~~Anti-gravity~~ |
 | ~~Rahul, Fayez~~ | ~~Flying Car~~ |
 | ~~Patrick~~ | ~~Printed Food~~ |
-| Jason, Kasun | High Temperature Superconductivity |
+| ~~Jason, Kasun~~ | ~~High Temperature Superconductivity~~ |
 | ~~Olivia, Kayenaat~~ | ~~Metamaterials (including Invisibility Cloak)~~ |
 | ~~Daniel~~ | ~~3D Displays~~ |
-| Kevin L., Xiao | Neuromorphic Technology |
+| ~~Kevin L., Xiao~~ | ~~Neuromorphic Technology~~ |
 | ~~Molly, QianQian~~ | ~~Powered Exoskeleton~~ |
 | ~~Russell, Tabrez~~ | ~~Modular Technology~~ |
 | Brayden, Peter | Space Elevator |
-| Philip, Laith | Digital Genome |
+| ~~Philip, Laith~~ | ~~Digital Genome~~ |
 | ~~Alaana~~ | ~~Recyclable Thermoset Plastics~~ |
 | ~~Kevin H., Simon~~ | ~~3D Printing~~ |
 | ~~Obayed, Hashir~~ | ~~Nanotechnology~~ |
@@ -55,8 +55,8 @@ You will start presenting your findings as of September 28th:
 | October 5th | ~~Powered Exoskeleton~~ |
 | October 6th | ~~Application of Lasers~~ |
 | October 7th | ~~Metamaterials (including Invisibility Cloak)~~, ~~Modular Technology~~ |
-| October 8th | Neuromorphic Technology, Digital Genome |
-| October 9th | High Temp. Superconductivity, Space Elevator |
+| October 8th | ~~Neuromorphic Technology~~, ~~Digital Genome~~ |
+| October 9th | ~~High Temp. Superconductivity~~, Space Elevator |
 
 
 Rubric(s) and Expectations
