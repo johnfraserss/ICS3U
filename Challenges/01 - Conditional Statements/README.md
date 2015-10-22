@@ -1,4 +1,4 @@
-Task(s)
+Challenge Task(s)
 -------
 
 The following challenges will give you practice with _if statements_
