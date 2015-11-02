@@ -20,10 +20,10 @@ This rubric is out of a total of 36
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
-|A1.1: Use constants and variables, including floats and Boolean values (if necessary) correctly | | | | | |
-|A1.3: Use assignment statements correctly | | | | | |
-|A1.4: Use Boolean operators (AND, OR, and NOT) and comparison operators (>=, ==, <=, <, etc.)  | | | | | |
-|A2.2: Use selection control structures to create programming solutions  | | | | | |
+|A1.1: Use constants (if necessary) and variables, including floats and Boolean values (if necessary) correctly | | | | | |
+|A1.3: Use assignment statements correctly (e.g. x = 5;) | | | | | |
+|A1.4: Use Boolean operators (AND, OR, and NOT) and comparison operators (>=, ==, <=, <, etc.) (if necessary)  | | | | | |
+|A2.2: Use selection control structures to create programming solutions (if statements)  | | | | | |
 |A4.1: Identify and correct syntax, logic, and run-time errors  | | | | | |
 |A4.2: Use workplace conventions (naming, indenting, etc.)  | | | | | |
 |A4.3: Interpret error messages  | | | | | |
