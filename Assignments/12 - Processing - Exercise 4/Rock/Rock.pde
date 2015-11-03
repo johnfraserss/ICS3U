@@ -25,6 +25,7 @@ void setup() {
   * DO NOT CHANGE THIS CODE
   */
 void draw() {
+ background(0);
   sketch();
   checkEdges();
   update();
