@@ -1,12 +1,11 @@
-void setup() {
+void settings() {
   size(600, 600);
 }
 
+void setup() {
+}
+
 void draw() {
-  //count up version using lines
-  for (int i = 0; i < width/2; i = i + 50) {
-    line(0, 0, i+5, height);
-  }
   
   //another count up example using rectangles
   for (int i = width/2; i < width - 50; i = i + 50) {
@@ -32,7 +31,7 @@ for (int i = startValue; i < endValue; i = i + increment) {
                        hold different values within the for 
                        loop, starting at "startValue"
 
-"i < endValue;": is the condition (life an if statement)
+"i < endValue;": is the condition (like an if statement)
                  where "while this is true, keep going"
               
 "i = i + increment;": is the section where the 'i' value
