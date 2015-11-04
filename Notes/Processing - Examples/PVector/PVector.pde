@@ -1,10 +1,13 @@
 PVector location; //float x, y;
 PVector velocity; //float xspeed, yspeed;
 
-void setup() {
+void settings() {
   size(600, 600);
-  location = new PVector(width/2, height/2);
-  velocity = new PVector(0, 0);
+}
+
+void setup() {
+  location = new PVector(width/2, height/2); //used to be x and y
+  velocity = new PVector(0, 0);              //used to be xspeed, yspeed
   //x = width/2;
   //y = height/2;
   //xspeed = 0;
