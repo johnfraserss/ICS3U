@@ -1,8 +1,11 @@
 float x, y;   //position variables
 float xspeed; //speed variable
 
-void setup() {
+void settings() {
   size(640, 480);
+}
+
+void setup() {
   x = width/2;
   y = 100;
   xspeed = 5;
