@@ -1,10 +1,13 @@
 float [] randomXValues;
 float [] randomYValues;
 
-void setup() {
+void settings() {
   size(600, 600);
-  randomXValues = new float[int(random(50, 100))];
-  randomYValues = new float[randomXValues.length];
+}
+
+void setup() {
+  randomXValues = new float[50];
+  randomYValues = new float[50];
 
   //since we know the X and Y values arrays are the same length, we can
   //combine the two for loops into one
