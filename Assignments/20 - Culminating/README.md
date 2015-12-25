@@ -9,7 +9,7 @@ Software Criteria
 1. Use ```size(displayWidth, displayHeight)``` as your sizing for the window (can use smaller for testing)
 2. The program will run in full screen mode (use Ctrl+Shift+R during testing).
 3. Your program must be able to run on it's own when you hit the play button.
-4. Your program must have an interactivity part with the mouse or keyboard.
+4. Your program must have an interactivity part with the mouse or keyboard (**must** also work **without** user input)
 5. Your program must include the following concepts:
   * If statements
   * Looping
@@ -17,7 +17,6 @@ Software Criteria
   * Objects
   * PVectors
 6. Your program **cannot** be similar to any previous assignments.
-7. Your screensaver **can** be interactive (mouse movement, keyboard input, etc.), but must work on it's own as well
 7. Your reflection is to include answer to **at least** the following:
   * What would you do differently if you could redo the project?
   * What improvements would you make to this project if you had another month to work on it?
