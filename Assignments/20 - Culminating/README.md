@@ -37,6 +37,7 @@ How will the gallery walk work?
 Reflection Criteria
 ---------
 In a 1-page document, include answers to **at least** the following questions:
+
 1. What would you do differently if you had to do this assignment over again?
 2. What would you do to your program if you had another month to work on it?
 3. What difficulties and challenges did you encounter?
