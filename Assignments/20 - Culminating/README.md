@@ -28,7 +28,7 @@ If you are looking to expand your knowledge of PVectors and using them in creati
 Gallery Walk
 ------------
 How will the gallery walk work?
-* At the begining of class on January 18th, 2016 you are going to log in and run your program.  
+* At the begining of class on January 21st, 2016 you are going to log in and run your program.  
 * The program should run on its own.
 * If you have interactivity in your program you will be responsible to:
   * Print out a sheet with instructions for interactivity
@@ -48,9 +48,9 @@ Hand in your program and reflection to the IN drive.
 
 Due Date(s)
 ----------
-* Program due January 15th, 2016 by 2:46pm
-* A gallery walk will be completed at the beginning of class on January 18th, 2016 to show off everyone's screensaver.
-* Reflection due by January 18th, 2016 by 2:46pm
+* Program due January 20th, 2016 by 2:46pm
+* A gallery walk will be completed at the beginning of class on January 21st, 2016 to show off everyone's screensaver.
+* Reflection due by January 21st, 2016 by 2:46pm
 
 Rubric(s)
 ---------
