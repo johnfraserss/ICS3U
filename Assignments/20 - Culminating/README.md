@@ -1,3 +1,5 @@
+**The culminating is worth 20% of your final mark.  The remaining 10% will be the exam.**
+
 Task(s)
 -------
 1. Using the knowledge you've acquired from the course, create a screensaver-like program.
