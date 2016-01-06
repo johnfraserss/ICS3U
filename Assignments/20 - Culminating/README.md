@@ -37,7 +37,7 @@ How will the gallery walk work?
 
 Reflection Criteria
 ---------
-In a 1-page document, include answers to **at least** the following questions:
+Using a word processor, write a maximum of 1-page (11-12 sized font), include answers to **at least** the following questions:
 
 1. What would you do differently if you had to do this assignment over again?
 2. What would you do to your program if you had another month to work on it?
@@ -50,9 +50,9 @@ Hand in your program and reflection to the IN drive.
 
 Due Date(s)
 ----------
-* Program due January 20th, 2016 by 2:46pm
-* A gallery walk will be completed at the beginning of class on January 21st, 2016 to show off everyone's screensaver.
-* Reflection due by January 21st, 2016 by 2:46pm
+* Program due January 19th, 2016 by 2:46pm
+* A gallery walk will be completed at the beginning of class on January 20th, 2016 to show off everyone's screensaver.
+* Reflection due by January 20th, 2016 by 2:46pm
 
 Rubric(s)
 ---------
