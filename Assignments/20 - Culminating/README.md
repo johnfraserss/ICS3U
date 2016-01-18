@@ -19,10 +19,6 @@ Software Criteria
   * Objects
   * PVectors
 6. Your program **cannot** be similar to any previous assignments.
-7. Your reflection is to include answer to **at least** the following:
-  * What would you do differently if you could redo the project?
-  * What improvements would you make to this project if you had another month to work on it?
-  * What challenged you during the creation of the project.
 
 If you are looking to expand your knowledge of PVectors and using them in creative ways, you can find more information [here](http://natureofcode.com/book/chapter-1-vectors/) and [here](http://natureofcode.com/book/chapter-2-forces/)
 
