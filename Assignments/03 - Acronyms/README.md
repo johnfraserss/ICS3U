@@ -16,4 +16,4 @@ Do _not_ hand in this work.  It will just be checked for completion.
 
 Due Date(s)
 -----------
-This work will be assumed to have been completed as of September 22nd.  There will be a random check no earlier than this date.
+This work will be assumed to have been completed as of February 15th.  There will be a random check no earlier than this date.

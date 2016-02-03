@@ -17,7 +17,7 @@ For creating flowcharts, there are some tools available online such as:
 
 Due Date(s)
 -----------
-The earliest this will be marked is October 8th.
+The earliest this will be marked is February 29th.
 
 Rubric(s)
 ---------

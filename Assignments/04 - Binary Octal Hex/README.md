@@ -28,8 +28,8 @@ Conversions
 
 Submissables
 ------------------
-Do _not_ hand in this work.  It will just be checked for understanding and completion.
+Do _not_ hand in this work.  There will be a short test on this material in the future.
 
 Due Date(s)
 ------------------
-It will be assumed that you have completed this worksheet as of September 28th.  There will be a quiz on the material on September 29th.
+It will be assumed that you have completed this worksheet as of February 18th as there will be a test on this material on February 19th.

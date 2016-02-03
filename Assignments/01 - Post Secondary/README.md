@@ -17,7 +17,7 @@ Do **not** hand this work in - your teacher will mark this at your computer near
 
 Due Date(s)
 ----------
-Marking will begin at the beginning of class on December 2nd.
+Marking will begin at the beginning of class on February 12th.
 
 
 Rubric(s)

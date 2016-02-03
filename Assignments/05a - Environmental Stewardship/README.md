@@ -23,23 +23,23 @@ No matter which method you choose, you will have to:
 ###Criteria
 If you are creating a __written__ piece, you are to follow these criteria:
 
-* No longer than 3 pages single spaced.  
+* No longer than 2 pages single spaced.  
 * Include a descriptive title for your article
 
 If you are creating an __audio__ piece, you are to follow these criteria:
 
-* No shorter than 7 minutes, and no longer than 20 minutes.
+* No shorter than 4 minutes, and no longer than 10 minutes.
 
 If you are creating a __video__ piece, you are to follow these criteria:
 
-* No shorter than 7 minutes, and no longer than 20 minutes.
+* No shorter than 4 minutes, and no longer than 10 minutes.
 * Imagery to justify your opinion. 
 
 
 
 Submissables/Due Date(s)
 ------------------
-Your file(s) are due by 3pm on Friday, October 30th, 2015 (long timeline, high expectations)
+Your file(s) are due by 3pm on Friday, March 11th, 2015 (long timeline, high expectations)
 
 
 Rubric(s)
