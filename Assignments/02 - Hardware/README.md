@@ -3,18 +3,20 @@ Task(s)
 1. As a group, research the given Hardware Part
 2. Present your findings to the class in a 5-10 minute presentation on your scheduled day
 
-###Hardware Parts
-1. Motherboard 
-2. CPU 
-3. RAM, ROM and general memory 
-4. Video Card 
-5. Sound Card 
-6. Power Supplies 
-7. Input devices (keyboard, mouse, scanner, webcams, etc.) 
-8. Output devices (monitor, projector, printer, etc.) 
-9. Hard Disk Drives, Solid State Drives, and any other storage drives 
-10. Cases, Cabling, Fans, Heatsinks, Watercooling 
-11. Quantum Computing
+| Hardware Part | AM | PM |
+|---|---|---|
+| Motherboard | Ruaridh, Guiliano | Hadi, Noor, Julia | 
+| CPU | Brian, Emad | Inshira, Chris, Deven | 
+| RAM and ROM | Ashlee, Sorin | Hassan, Amy | 
+| Video Card | Jaweria, Bhavin | Yan Chun, Kevin | 
+| Sound Card | Samuel, Jenny | Sakina, Nimirita, Anas | 
+| Power Supplies | George, Ashar | Nikhil, David, Eddy | 
+| Input devices (keyboard, mouse, scanner, webcams, etc.) | Zayeem, Bhavya | Prince, Jawad, Matteo | 
+| Output devices (monitor, projector, printer, etc.) | Mobin, Omar | Victoria, Edward | 
+| Hard Disk Drives, Solid State Drives, and any other storage drives | Danny, Ahmed | David, Shaheer | 
+| Cases, Cabling, Fans, Heatsinks, Watercooling | Anudha, Arva | Mohamad, Hazem | 
+| Quantum Computing | Rick, Steven | Arshad, Kareem, Wen Qin | 
+
 
 Presentation Schedule
 ------------------
