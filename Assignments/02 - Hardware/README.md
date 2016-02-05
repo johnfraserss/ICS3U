@@ -5,24 +5,29 @@ Task(s)
 
 | Hardware Part | AM | PM |
 |---|---|---|
-| Motherboard | Ruaridh, Guiliano | Hadi, Noor, Julia | 
-| CPU | Brian, Emad | Inshira, Chris, Deven | 
-| RAM and ROM | Ashlee, Sorin | Hassan, Amy | 
-| Video Card | Jaweria, Bhavin | Yan Chun, Kevin | 
-| Sound Card | Samuel, Jenny | Sakina, Nimirita, Anas | 
-| Power Supplies | George, Ashar | Nikhil, David, Eddy | 
-| Input devices (keyboard, mouse, scanner, webcams, etc.) | Zayeem, Bhavya | Prince, Jawad, Matteo | 
-| Output devices (monitor, projector, printer, etc.) | Mobin, Omar | Victoria, Edward | 
-| Hard Disk Drives, Solid State Drives, and any other storage drives | Danny, Ahmed | David, Shaheer | 
-| Cases, Cabling, Fans, Heatsinks, Watercooling | Anudha, Arva | Mohamad, Hazem | 
-| Quantum Computing | Rick, Steven | Arshad, Kareem, Wen Qin | 
+| 1. Motherboard | Ruaridh, Guiliano | Hadi, Noor, Julia | 
+| 2. CPU | Brian, Emad | Inshira, Chris, Deven | 
+| 3. RAM and ROM | Ashlee, Sorin | Hassan, Amy | 
+| 4. Video Card | Jaweria, Bhavin | Yan Chun, Kevin | 
+| 5. Sound Card | Samuel, Jenny | Sakina, Nimirita, Anas | 
+| 6. Power Supplies | George, Ashar | Nikhil, David, Eddy | 
+| 7. Input devices (keyboard, mouse, scanner, webcams, etc.) | Zayeem, Bhavya | Prince, Jawad, Matteo | 
+| 8. Output devices (monitor, projector, printer, etc.) | Mobin, Omar | Victoria, Edward | 
+| 9. Hard Disk Drives, Solid State Drives, and any other storage drives | Danny, Ahmed | David, Shaheer | 
+| 10. Cases, Cabling, Fans, Heatsinks, Watercooling | Anudha, Arva | Mohamad, Hazem | 
+| 11. Quantum Computing | Rick, Steven | Arshad, Kareem, Wen Qin | 
 
 
-Presentation Schedule
+AM Presentation Schedule
 ------------------
 - February 9th: Group #1, 3, 4, 7, 9
 - February 10th: Group #2, 5, 6, 8, 10
 - Group 11 will go on the earliest day that there is sufficient time to allocate their presentation.
+
+PM Presentation Schedule
+------------------
+- February 9th: Group #2, 3, 4, 5, 6, 7
+- February 10th: Group #1, 8, 9, 10, 11
 
 Rubric(s)
 ---------
