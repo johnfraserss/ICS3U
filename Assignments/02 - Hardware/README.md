@@ -20,9 +20,8 @@ Task(s)
 
 AM Presentation Schedule
 ------------------
-- February 9th: Group #1, 3, 4, 7, 9
-- February 10th: Group #2, 5, 6, 8, 10
-- Group 11 will go on the earliest day that there is sufficient time to allocate their presentation.
+- February 9th: Group #1, 3, 4, 7, 11
+- February 10th: Group #2, 5, 6, 8, 9, 10
 
 PM Presentation Schedule
 ------------------
