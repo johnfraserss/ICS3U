@@ -9,7 +9,7 @@ Task(s)
 | 2. CPU | Brian, Emad | Inshira, Chris, Deven | 
 | 3. RAM and ROM | Ashlee, Sorin | Hassan, Amy | 
 | 4. Video Card | Jaweria, Bhavin | Yan Chun, Kevin | 
-| 5. Sound Card | Samuel, Jenny | Sakina, Nimirita, Anas | 
+| 5. Sound Card | Sheryar, Jenny | Sakina, Nimirita, Anas | 
 | 6. Power Supplies | George, Ashar | Nikhil, David, Eddy | 
 | 7. Input devices (keyboard, mouse, scanner, webcams, etc.) | Zayeem, Bhavya | Prince, Jawad, Matteo | 
 | 8. Output devices (monitor, projector, printer, etc.) | Mobin, Omar | Victoria, Edward | 
