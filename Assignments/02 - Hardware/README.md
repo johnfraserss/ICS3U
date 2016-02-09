@@ -5,22 +5,22 @@ Task(s)
 
 | Hardware Part | AM | PM |
 |---|---|---|
-| 1. Motherboard | Ruaridh, Guiliano | Hadi, Noor, Julia | 
+| 1. Motherboard | ~~Ruaridh, Guiliano~~ | Hadi, Noor, Julia | 
 | 2. CPU | Brian, Emad | Inshira, Chris, Deven | 
-| 3. RAM and ROM | Ashlee, Sorin | Hassan, Amy | 
-| 4. Video Card | Jaweria, Bhavin | Yan Chun, Kevin | 
+| 3. RAM and ROM | ~~Ashlee~~, Sorin | Hassan, Amy | 
+| 4. Video Card | ~~Jaweria, Bhavin~~ | Yan Chun, Kevin | 
 | 5. Sound Card | Sheryar, Jenny | Sakina, Nimirita, Anas | 
 | 6. Power Supplies | George, Ashar | Nikhil, David, Eddy | 
-| 7. Input devices (keyboard, mouse, scanner, webcams, etc.) | Zayeem, Bhavya | Prince, Jawad, Matteo | 
+| 7. Input devices (keyboard, mouse, scanner, webcams, etc.) | ~~Zayeem, Bhavya~~ | Prince, Jawad, Matteo | 
 | 8. Output devices (monitor, projector, printer, etc.) | Mobin, Omar | Victoria, Edward | 
 | 9. Hard Disk Drives, Solid State Drives, and any other storage drives | Danny, Ahmed | David, Shaheer | 
 | 10. Cases, Cabling, Fans, Heatsinks, Watercooling | Anudha, Arva | Mohamad, Hazem | 
-| 11. Quantum Computing | Rick, Steven | Arshad, Kareem, Wen Qin | 
+| 11. Quantum Computing | ~~Rick, Steven~~ | Arshad, Kareem, Wen Qin | 
 
 
 AM Presentation Schedule
 ------------------
-- February 9th: Group #1, 3, 4, 7, 11
+- February 9th: Group ~~#1, 3, 4, 7, 11~~
 - February 10th: Group #2, 5, 6, 8, 9, 10
 
 PM Presentation Schedule
