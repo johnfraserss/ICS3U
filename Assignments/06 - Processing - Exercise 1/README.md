@@ -12,4 +12,4 @@ Do **not** hand this in, just ensure your teacher see the work.
 
 Due Date(s)
 ----------
-Your teacher will check this work no earlier than Oct 15
+Your teacher will check this work no earlier than March 3
