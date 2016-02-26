@@ -9,6 +9,7 @@ Feel free to browse around the site.  Any PDF file will need to be downloaded to
 
 ####Programming Language and Resources
 * [Processing.org] (http://www.processing.org/) (download, references and examples available on the same site)
+* [Processing Cloud Program](http://sketchpad.cc/) (online version of Processing to quickly test sketches)
 * [Daniel Shiffman - Introductory Videos for Processing] (http://vimeo.com/channels/introcompmedia)
 
 ####Tentative Topics
