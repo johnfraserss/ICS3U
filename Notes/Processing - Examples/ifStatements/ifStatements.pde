@@ -19,7 +19,7 @@ void draw() {
 
 
   if (diameter > 300) {
-    diameter = 5; //when the diameter goes above 100 reset it back to 5
+    diameter = 5; //when the diameter goes above 300 reset it back to 5
   }
   if (diameter > 75 && diameter < 100) {
     fill(random(255), random(255), random(255));
