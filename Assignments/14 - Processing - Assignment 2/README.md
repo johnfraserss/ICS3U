@@ -26,7 +26,7 @@ Marking will begin at the beginning of class on April 12th.
 
 Rubric(s)
 ---------
-This rubric is out of 40
+This rubric is out of 36
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
