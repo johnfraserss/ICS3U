@@ -37,7 +37,6 @@ This rubric is out of 40
 |A4.1: Identify and correct syntax, logic, and run-time errors  | | | | | |
 |A4.2: Use workplace conventions (naming, commenting, indenting, etc.)  | | | | | |
 |A4.3: Demonstrate the ability to interpret error messages  | | | | | |
-|B2.1: Design the program from the template provided (use template for free marks)  | | | | | |
 |B1.2: Demonstrate ability to solve the problem independently | | | | | |
 |C3.2: Work independently, using support documentation to design and write a functioning computer program  | | | | | |
 
