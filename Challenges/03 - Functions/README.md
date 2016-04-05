@@ -3,7 +3,7 @@ Challenge Task(s)
 
 The following challenges will give you practice with _Functions_.  These go beyond void.
 
-1. Generate a rectangle on the screen.  Create a function that calculates the perimeter around that rectangle, and returns the answer as a float.  Display that information on the screen.
+1. Generate a rectangle on the screen, with one corner being at ```(mouseX, mouseY)```.  Create a function that calculates the perimeter around that rectangle, and returns the answer as a float.  Display that information on the screen.  The function should update the answer as you move the mouse.
 
 2. Generate 4 different-coloured rectangles that have one of their points meet at mouseX, mouseY.  Have the areas of all 4 rectangles display on the screen.  Use a function to calculate the area and return that information to the ```text()``` function.
 
