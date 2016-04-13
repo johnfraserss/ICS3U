@@ -16,10 +16,10 @@ Recreate the sketch found in the OUT\SEIDEL\ICS3U\Assign3 folder
 
 ###Option B
 * Create a simulation of a chemistry or biology concept.  Your simulation must have the following:
-* Uses PVectors.
-* Uses arrays.
-* When you click on the screen, something either gets added to or subtracted from the screen.
-* Must apply a formula, or align properly (such as chain diagrams in chemistry) based on the dynamic information produced when you click on the screen.  This information needs to be displayed to the screen.
+  * Uses PVectors.
+  * Uses arrays.
+  * When you click on the screen, something either gets added to or subtracted from the screen.
+  * Must apply a formula, or align properly (such as chain diagrams in chemistry) based on the dynamic information produced when you click on the screen.  This information needs to be displayed to the screen.
 
 * A maximum mark of level 3 is available if you do not include calculations or alignment information.
 * A maximum mark of level 4 is available if you accurately include calculations and alignment information
