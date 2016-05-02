@@ -34,7 +34,7 @@ Marking will begin at the beginning of class on April 25th.
 
 Rubric(s)
 ---------
-This rubric is out of a total of 28
+This rubric is out of a total of 24
 
 | | 0 | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
@@ -42,6 +42,5 @@ This rubric is out of a total of 28
 |A1.5: Use one-dimensional arrays properly within a program  | | | | | |
 |A4.2: Use workplace conventions (naming, commenting, indenting, etc.)  | | | | | |
 |B1.2: Demonstrate ability to solve the problem independently | | | | | |
-|B2.1: Design the program from the template provided  | | | | | |
 |B2.3: Create a modular program (i.e. broken into functions)  | | | | | |
 |B3.2: Apply formulae to calculate area of triangle (option A), or regarding your chemistry simulation (option b) | | | | | |
