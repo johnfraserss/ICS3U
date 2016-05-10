@@ -20,8 +20,6 @@ Your group is to answer the following questions in your presentation.
 
 All sources used must be cited in APA or MLA format.
 
-Any deliverables (e.g., PowerPoint files, video files) must be submitted by 11:59 on May 16 to the /IN folder.
-
 Use the rubric to guide the development of your presentation.
 
 ###Emerging Technology Topics
@@ -29,24 +27,39 @@ Use the rubric to guide the development of your presentation.
 
 All topics must be approved by the teacher.
 
-###Groups
-| Name(s) | Topics |
-|-------|--------|
+###Tentative Groups and Presentation Schedule
 
-Presentation Schedule
-------------------
+Morning Class:
 
-Presentations will start on May 17. All presentation dates will be finalized by May 12.
+| Names | Topic | Presentation Order |
+| --- | --- | --- |
+| Brian, George, Steven | Holograms | 1 |
+| Ashar, Danny | Reusable Rockets (SpaceX) | 2 |
+| Anudha, Bhavya, Mobin,  Zayeem | Quantum Computers | 3 |
+| Ahmed, Emad, Omar, Rick | Virtual Reality | 4 |
+| Arva, Ashlee, Jenny | Artificial Intelligence | 5 |
 
-| Date | Topic(s) |
-|-------|--------|
+Afternoon Class:
+
+| Names | Topic | Presentation Order |
+|---| --- | --- |
+
+###Due Dates
+
+The presentation orders and topics will be finalized by **May 12**. If you want to change group members or topics, you have until then.
+
+Any deliverables (e.g., PowerPoint files, video files) must be submitted by **11:59 on May 16** to the /IN folder.
+
+Presentations will start on **May 17**.
 
 
 Rubric and Expectations
 --------------------------
 
+Each member of your group will be evaluated according to the following rubric. Depending on which group members cover which portions of the assignments, not every row may be applicable to every member. Overall, your group must demonstrate all of the following criteria.
+
 | | 0 (non-existent) | 1 (limited) | 2 (some) | 3 (expected quality) | 4 (outstanding quality) |
-|---| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | K: Knowledge of what the technology is | | | | | |
 | K: Understanding of how the technology is used | | | | | |
 | A: Purposes and uses of the technology | | | | | |
