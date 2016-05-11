@@ -27,7 +27,9 @@ Use the rubric to guide the development of your presentation.
 
 All topics must be approved by the teacher.
 
-###Tentative Groups and Presentation Schedule
+###Tentative Groups and Presentation Schedules
+
+The presentation orders have been chosen at random using ```.random()```. 
 
 Morning Class:
 
@@ -35,14 +37,21 @@ Morning Class:
 | --- | --- | --- |
 | Brian, George, Steven | Holograms | 1 |
 | Ashar, Danny | Reusable Rockets (SpaceX) | 2 |
-| Anudha, Bhavya, Mobin,  Zayeem | Quantum Computers | 3 |
+| Anudha, Bhavya, Mobin, Zayeem | Quantum Computers | 3 |
 | Ahmed, Emad, Omar, Rick | Virtual Reality | 4 |
 | Arva, Ashlee, Jenny | Artificial Intelligence | 5 |
 
 Afternoon Class:
 
 | Names | Topic | Presentation Order |
-|---| --- | --- |
+| --- | --- | --- |
+| Arshad, Eddy, Nikhil, Wen Qin | Nanotechnology | 1 |
+| Amy, Inshira, Nimirita, Sakina | Neuromorphic Technology | 2 |
+| David, Hasaan, Julia, Victoria | 3D Printing | 3 |
+| Deven, Kevin, Hadi, Yan Chun | Self-driving Cars | 4 |
+| Gurman, Hazzem, Mohamad, Prince | Drones | 5 |
+| Edward, Jawad, Kareem, Shaheer | Wearable Technology | 6 |
+| Chris, Jingshu, Matteo, Noor | Powered Exoskeleton | 7 |
 
 ###Due Dates
 
@@ -56,7 +65,7 @@ Presentations will start on **May 17**.
 Rubric and Expectations
 --------------------------
 
-Each member of your group will be evaluated according to the following rubric. Depending on which group members cover which portions of the assignments, not every row may be applicable to every member. Overall, your group must demonstrate all of the following criteria.
+Each member of your group will be evaluated individually according to the following rubric. Depending on which group members cover which portions of the assignment, not every row may be applicable to every member. Overall, your group must demonstrate all of the following criteria.
 
 | | 0 (non-existent) | 1 (limited) | 2 (some) | 3 (expected quality) | 4 (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
