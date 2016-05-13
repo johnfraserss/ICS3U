@@ -47,9 +47,9 @@ Afternoon Class:
 | --- | --- | --- |
 | Arshad, Eddy, Nikhil, Wen Qin | Nanotechnology | 1 |
 | Amy, Inshira, Nimirita, Sakina | Neuromorphic Technology | 2 |
-| David, Hasaan, Julia, Victoria | 3D Printing | 3 |
+| David, Hassan, Julia, Victoria | 3D Printing | 3 |
 | Deven, Kevin, Hadi, Yan Chun | Self-driving Cars | 4 |
-| Gurman, Hazzem, Mohamad, Prince | Drones | 5 |
+| Gurman, Hazem, Mohamad, Prince | Drones | 5 |
 | Edward, Jawad, Kareem, Shaheer | Wearable Technology | 6 |
 | Chris, Jingshu, Matteo, Noor | Powered Exoskeleton | 7 |
 
