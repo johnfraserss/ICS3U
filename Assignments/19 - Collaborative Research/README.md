@@ -19,7 +19,7 @@ This is an individual research assignment.
 	
 ###Due Date
 
-All documents must be submitted by **11:59 PM on May 23** to the /IN folder. This includes your two responses and the citations.
+All documents must be submitted by **4:00 PM on May 24** to the /IN folder. This includes your two responses and the citations.
 
 
 ###Rubric and Expectations
