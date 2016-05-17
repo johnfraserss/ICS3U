@@ -29,7 +29,7 @@ You will be evaluated according to the following rubric.
 | | 0 (non-existent) | 1 (limited) | 2 (some) | 3 (expected quality) | 4 (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
 | K: Understanding of what the area of collaborative research is | | | | | |
-| A: Depth of relevance between the two fields | | | | | |
+| A: Explanation of the collaboration between the two fields | | | | | |
 | T: Reasoning behind why computer science plays an integral role in the area of collaborative research | | | | | |
 | C: Appropriateness of written language for target audience | | | | | |
 | C: Variety and reliability of sources used | | | | | |
