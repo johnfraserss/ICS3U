@@ -1,4 +1,4 @@
-The purpose of this assignment is understand and appreciate an area of collaborative research between computer science and another field.
+The purpose of this assignment is to understand and appreciate an area of collaborative research between computer science and another field.
 
 Task(s)
 -------
