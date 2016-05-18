@@ -11,8 +11,8 @@ This is an individual research assignment.
 
 * Write responses to the statements below. The target audience is your ICS 3U classmates.
 
-1. In fewer than 30 words, explain what the research within your subject area is. 
-2. In fewer than 150 words, answer the following question: "What would this field of research look like if no one knew how to program computers?". Justify your answer.
+  1. In fewer than 30 words, explain what the research within your subject area is. 
+  2. In fewer than 150 words, answer the following question: "What would this field of research look like if no one knew how to program computers?". Justify your answer.
 
 * **Do not use any URLs as a part of your writing**.
 * Cite all your sources in MLA or APA format.
