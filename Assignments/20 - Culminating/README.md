@@ -90,23 +90,23 @@ Rubric and Expectations
 
 The rubric below will be used to evaluate your program.
 
-| | 0 (non-existent) | 1 (not effective) | 2 (somewhat effective) | 3 (effective) | 4 (very effective) |
+| | 0 <br> (non-existent) | 1 <br> (not effective) | 2 <br> (somewhat effective) | 3 <br> (effective) | 4 <br> (very effective) |
 | --- | --- | --- | --- | --- | --- |
 | K: Use of constants and variables  | | | | | |
 | K: Use of conditional statements  | | | | | |
 | K: Use of arithmetic operators and/or comparison operators  | | | | | |
 | A: Use of loops  | | | | | |
-| A: Use of Functions (including mouse and keyboard interaction)  | | | | | |
+| A: Use of functions (including mouse and keyboard interaction)  | | | | | |
 | T: Use of Arrays and/or ArrayLists  | | | | | |
 | T: Use of PVectors and other objects  | | | | | |
 | T: Use of existing modules  | | | | | |
+| C: Use of conventions in documentation  | | | | | |
 | C: Clarity of game instructions  | | | | | |
 | C: User-friendliness of game interface  | | | | | |
-| C: Use of conventions in documentation  | | | | | |
 
 The rubric below will be used to evaluate your reflection paper.
 
-| | 0 (non-existent) | 1 (limited) | 2 (some) | 3 (expected quality) | 4 (outstanding quality) |
+| | 0 <br> (non-existent) | 1 <br> (limited) | 2 <br> (some) | 3 <br> (expected quality) | 4 <br> (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
 | K: Identifying syntax, logic, and run-time errors  | | | | | |
 | A: Debugging and planning strategies  | | | | | |
