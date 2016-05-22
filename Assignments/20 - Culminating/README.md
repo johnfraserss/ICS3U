@@ -59,7 +59,7 @@ void draw() {
 
 The Play Day will be June 17th, 2016.
 
-At the beginning of class, you are going to log in and open your program. After everyone has logged in, you will have time to all of your everyone's game. Specific instructions for how to progress through the room will be given on the play day.
+At the beginning of class, you are going to log in and open your program. After everyone has logged in, you will have time to try all your classmates' games. Specific instructions for how to progress through the room will be given.
 
 
 ###Reflection Paper
