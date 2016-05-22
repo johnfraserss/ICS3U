@@ -19,7 +19,7 @@ Here are the criteria for your game:
 
 In addition to those criteria, your program must include **all** of the following:
 * Conditional statements
-* Arithmetic operators
+* Arithmetic operators and/or comparison operators
 * Looping
 * Functions (including ```random()```)
 * Arrays and/or ArrayLists
@@ -31,7 +31,7 @@ In addition to those criteria, your program must include **all** of the followin
 ###Additional Game Information
 
 ####Screen Size
-To make the game to take up the full screen, you can use ```size(displayWidth, displayHeight);```.
+To make your game to take up the full screen, you can use ```size(displayWidth, displayHeight);```.
 
 ####Timer
 Here is an example how to create a running timer in Processing. You may modify it for you program if needed.
@@ -88,11 +88,28 @@ Reflection due date: TBA
 Rubric and Expectations
 -----------------------
 
-The rubric will be available soon.
+The rubric below will be used to evaluate your program.
+
+| | 0 (non-existent) | 1 (not effective) | 2 (somewhat effective) | 3 (effective) | 4 (very effective) |
+| --- | --- | --- | --- | --- | --- |
+| K: Use of constants and variables  | | | | | |
+| K: Use of conditional statements  | | | | | |
+| K: Use of arithmetic operators and/or comparison operators  | | | | | |
+| A: Use of loops  | | | | | |
+| A: Use of Functions (including mouse and keyboard interaction)  | | | | | |
+| T: Use of Arrays and/or ArrayLists  | | | | | |
+| T: Use of PVectors and other objects  | | | | | |
+| T: Use of existing modules  | | | | | |
+| C: Clarity of game instructions  | | | | | |
+| C: User-friendliness of game interface  | | | | | |
+| C: Use of conventions in documentation  | | | | | |
+
+The rubric below will be used to evaluate your reflection paper.
 
 | | 0 (non-existent) | 1 (limited) | 2 (some) | 3 (expected quality) | 4 (outstanding quality) |
 | --- | --- | --- | --- | --- | --- |
-| K:  | | | | | |
-| A:  | | | | | |
-| T:  | | | | | |
-| C:  | | | | | |
+| K: Identifying syntax, logic, and run-time errors  | | | | | |
+| A: Debugging and planning strategies  | | | | | |
+| T: Amount of insight and thought put into writing about the final product | | | | | |
+| T: Amount of insight and thought put into writing about others' games | | | | | |
+| C: Appropriateness of written language for target audience (teacher) | | | | | |
