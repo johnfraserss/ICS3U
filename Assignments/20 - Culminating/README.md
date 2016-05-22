@@ -57,7 +57,7 @@ void draw() {
 
 ###Play Day
 
-The date of the play day will be announced further into this project.
+The Play Day will be June 17th, 2016.
 
 At the beginning of class, you are going to log in and open your program. After everyone has logged in, you will have time to all of your everyone's game. Specific instructions for how to progress through the room will be given on the play day.
 
@@ -79,11 +79,9 @@ Hand in your program and reflection paper to the /IN folder.
 
 ###Due Date(s)
 
-Program due date: TBA
+Program due June 16th, 2016 by 2:46 PM.
 
-Play Day: TBA (it will be soon after the game is due)
-
-Reflection due date: TBA
+Reflection due by June 17th, 2016 by 4:00 PM.
 
 
 Rubric and Expectations
