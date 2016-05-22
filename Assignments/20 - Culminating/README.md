@@ -13,9 +13,9 @@ When your program is run, the instructions of your game will show up. Your instr
 Here are the criteria for your game:
 * Is designed to be played in full screen mode (use Ctrl+Shift+R to run the program).
 * Is not similar to any exercises or assignments from this course.
-* Includes a scoring system (e.g., score as many points as you can, complete a task a quickly as you can).
+* Includes a scoring system (e.g., score as many points as you can, complete a task as quickly as you can).
 * Includes both mouse and keyboard interaction.
-* Lasts at most one minute.
+* Lasts one minute or less.
 
 In addition to those criteria, your program must include **all** of the following:
 * Conditional statements
@@ -36,7 +36,7 @@ To make the game to take up the full screen, you can use ```size(displayWidth, d
 ####Timer
 Here is an example how to create a running timer in Processing. You may modify it for you program if needed.
 
-```java
+```processing
 int start;
 
 void setup() {
@@ -73,7 +73,8 @@ In fewer than 500 words, respond to the following:
 
 ###Submissables
 
-Hand in your program and reflection to the /IN folder.
+Hand in your program and reflection paper to the /IN folder.
+
 
 ###Due Date(s)
 
