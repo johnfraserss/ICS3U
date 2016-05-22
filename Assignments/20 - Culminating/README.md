@@ -11,9 +11,10 @@ Using the knowledge you've acquired from this course, create a one-minute game f
 When your program is run, the instructions of your game will show up. Your instruction page will include a button with the label "Start Game". When "Start Game" is clicked, the game will begin.
 
 Here are the criteria for your game:
+* Has your name printed in the instruction page.
 * Is designed to be played in full screen mode (use Ctrl+Shift+R to run the program).
 * Is not similar to any exercises or assignments from this course.
-* Includes a scoring system (e.g., score as many points as you can, complete a task as quickly as you can).
+* Includes a scoring system (e.g., score as many points as you can, complete a task as quickly as you can, etc.).
 * Includes both mouse and keyboard interaction.
 * Lasts one minute or less.
 
@@ -31,22 +32,22 @@ In addition to those criteria, your program must include **all** of the followin
 ###Additional Game Information
 
 ####Screen Size
-To make your game to take up the full screen, you can use ```size(displayWidth, displayHeight);```.
+To make your game take up the full screen, you can use ```size(displayWidth, displayHeight);```.
 
 ####Timer
-Here is an example how to create a running timer in Processing. You may modify it for you program if needed.
+Here is an example of how to create a running timer in Processing. You may modify it for your program if needed.
 
 ```processing
 int start;
 
 void setup() {
   size(500, 500);
-  start = millis();
+  startTime = millis(); // millis() returns the number of milliseconds that have passed since starting the program.
 }
 
 void draw() { 
   background(255);
-  int timer = (millis()-start)/1000;
+  int timer = (millis()-startTime)/1000; 
   textSize(50); 
   fill(0); 
   text(timer, 0, 40);
@@ -58,7 +59,7 @@ void draw() {
 
 The date of the play day will be announced further into this project.
 
-At the beginning of class, you are going to log in and open your program. You will sit at someone else's computer and play their game. After everyone has played the game in front of them,  the allotted minute, move on to the next computer, and repeat
+At the beginning of class, you are going to log in and open your program. After everyone has logged in, you will have time to all of your everyone's game. Specific instructions for how to progress through the room will be given on the play day.
 
 
 ###Reflection Paper
@@ -66,7 +67,7 @@ At the beginning of class, you are going to log in and open your program. You wi
 In fewer than 500 words, respond to the following:
 
 * Describe any differences between your final program and what you envisioned when you first started planning your game. What caused some of these differences?
-* Describe some of the strategies you used to overcome challenge and difficulties when writing your program.
+* Describe some of the strategies you used to overcome challenges and difficulties when writing your program.
 * Choose one of the games you played (other than your own) and describe what impressed you the most about it.
 * Choose one of the games you played (other than your own, and the one you previously wrote about) and describe how you would change it if you were the programmer.
 
