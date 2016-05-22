@@ -11,7 +11,7 @@ Using the knowledge you've acquired from this course, create a one-minute game f
 When your program is run, the instructions of your game will show up. Your instruction page will include a button with the label "Start Game". When "Start Game" is clicked, the game will begin.
 
 Here are the criteria for your game:
-* Has your name printed in the instruction page.
+* Has your name displayed on the instruction page.
 * Is designed to be played in full screen mode (use Ctrl+Shift+R to run the program).
 * Is not similar to any exercises or assignments from this course.
 * Includes a scoring system (e.g., score as many points as you can, complete a task as quickly as you can, etc.).
@@ -24,8 +24,8 @@ In addition to those criteria, your program must include **all** of the followin
 * Looping
 * Functions (including ```random()```)
 * Arrays and/or ArrayLists
-* Objects (other than PVectors)
 * PVectors
+* At least one object other than PVectors
 * Documentation
 
 
@@ -109,6 +109,6 @@ The rubric below will be used to evaluate your reflection paper.
 | --- | --- | --- | --- | --- | --- |
 | K: Identifying syntax, logic, and run-time errors  | | | | | |
 | A: Debugging and planning strategies  | | | | | |
-| T: Amount of insight and thought put into writing about the final product | | | | | |
+| T: Amount of insight and thought put into writing about your final product | | | | | |
 | T: Amount of insight and thought put into writing about others' games | | | | | |
 | C: Appropriateness of written language for target audience (teacher) | | | | | |
