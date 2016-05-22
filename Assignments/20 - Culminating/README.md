@@ -1,4 +1,4 @@
-*The culminating is worth 20% of your final mark. The remaining 10% will be the exam.*
+**The culminating is worth 20% of your final mark. The remaining 10% will be the exam.**
 
 Task(s)
 -------
@@ -58,7 +58,7 @@ void draw() {
 
 The date of the play day will be announced further into this project.
 
-At the beginning of class on the play day, you are going to log in and open your program. You will sit at someone else's computer and play their game. After everyone has played the game in front of them,  the allotted minute, move on to the next computer, and repeat
+At the beginning of class, you are going to log in and open your program. You will sit at someone else's computer and play their game. After everyone has played the game in front of them,  the allotted minute, move on to the next computer, and repeat
 
 
 ###Reflection Paper
@@ -78,8 +78,11 @@ Hand in your program and reflection to the /IN folder.
 ###Due Date(s)
 
 Program due date: TBA
+
 Play Day: TBA (it will be soon after the game is due)
+
 Reflection due date: TBA
+
 
 Rubric and Expectations
 -----------------------
