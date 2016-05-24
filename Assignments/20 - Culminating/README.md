@@ -91,16 +91,16 @@ The rubric below will be used to evaluate your program.
 
 | | 0 <br> (non-existent) | 1 <br> (not effective) | 2 <br> (somewhat effective) | 3 <br> (effective) | 4 <br> (very effective) |
 | --- | --- | --- | --- | --- | --- |
-| K: Use of constants and variables  | | | | | |
-| K: Use of conditional statements  | | | | | |
+| K: Use of constants and/or variables  | | | | | |
+| K: Use of conditional statements (if statements)  | | | | | |
 | K: Use of arithmetic operators and/or comparison operators  | | | | | |
-| A: Use of loops  | | | | | |
+| A: Use of loops (for, while, etc.)  | | | | | |
 | A: Use of functions (including mouse and keyboard interaction)  | | | | | |
 | T: Use of Arrays and/or ArrayLists  | | | | | |
-| T: Use of PVectors and other objects  | | | | | |
-| T: Use of existing modules  | | | | | |
-| C: Use of conventions in documentation  | | | | | |
-| C: Clarity of game instructions  | | | | | |
+| T: Use of PVectors and other objects/classes  | | | | | |
+| T: Use of existing modules (other tabs)  | | | | | |
+| C: Use of conventions in documentation (in-line commenting, etc.)  | | | | | |
+| C: Clarity of game instructions (on-screen)  | | | | | |
 | C: User-friendliness of game interface  | | | | | |
 
 The rubric below will be used to evaluate your reflection paper.
