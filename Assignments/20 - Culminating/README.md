@@ -38,7 +38,7 @@ To make your game take up the full screen, you can use ```size(displayWidth, dis
 Here is an example of how to create a running timer in Processing. You may modify it for your program if needed.
 
 ```processing
-int start;
+int startTime;
 
 void setup() {
   size(500, 500);
