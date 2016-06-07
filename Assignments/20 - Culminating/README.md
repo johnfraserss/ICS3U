@@ -54,6 +54,31 @@ void draw() {
 }
 ```
 
+Here is an alternative to the timer that will run based on the ```frameCount``` variable which has the information about how many frames have been drawn rather than the beginning of the game:
+```processing
+int startTime;
+
+void setup() {
+  size(500, 500);
+  startTime = frameCount; 
+}
+
+void draw() { 
+  background(255);
+  int timer = (frameCount-startTime)/60; //this is /60 because Processing defaults to 60 frames per second
+  textSize(50); 
+  fill(0); 
+  text(timer, 0, 40);
+}
+
+//You can reset the timer by updating the startTime information - example below
+void keyPressed() {
+  startTime = frameCount;
+}
+
+```
+
+
 
 ###Play Day
 
