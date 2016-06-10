@@ -34,3 +34,4 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * Final Assessment (see course outline for more information on this topic)
 
 Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
+Please complete this [outtake survey](http://goo.gl/forms/ZVqVzrGWijPfTKeq2)
