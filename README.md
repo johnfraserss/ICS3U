@@ -36,7 +36,10 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
 * [Markdown Cheat Sheet] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Github Flavoured Markdown] (https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 * [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
+
+Markdown Tools
 * [Typora] (https://www.typora.io/)
+* [Markdown Pad 2 - Portable] (http://markdownpad.com/faq.html#portable)
 * [Atom.io] (http://atom.io/)
 
 
