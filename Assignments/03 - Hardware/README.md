@@ -3,7 +3,7 @@ Task(s)
 1. As a group, research the given Hardware Part
 2. Present your findings to the class in a 3-8 minute presentation on your scheduled day.  Use any presentation method that you want.
 
-| Hardware Part | AM | PM |
+| Hardware Part | Split Class | Solo Class |
 |---|---|---|
 | 1. Motherboard |  |  | 
 | 2. CPU |  |  | 
