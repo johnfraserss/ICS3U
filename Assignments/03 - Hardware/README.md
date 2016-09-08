@@ -19,12 +19,12 @@ Task(s)
 AM Presentation Schedule
 ------------------
 Starting September 15th, 2016:
-Group #9, 3, 8, 4, 1, 7, 2, 5, 6 (randomly ordered as per [Random.org](https://www.random.org/lists/)]
+Group #9, 3, 8, 4, 1, 7, 2, 5, 6 (randomly ordered as per [Random.org](https://www.random.org/lists/))
 
 PM Presentation Schedule
 ------------------
 Starting September 15th, 2016:
-Group #2, 6, 7, 3, 9, 5, 1, 4, 8 (randomly ordered as per [Random.org](https://www.random.org/lists/)]
+Group #2, 6, 7, 3, 9, 5, 1, 4, 8 (randomly ordered as per [Random.org](https://www.random.org/lists/))
 
 
 Rubric(s)
