@@ -6,12 +6,12 @@ Task(s)
 | Hardware Part | Split Class | Solo Class |
 |---|---|---|
 | 1. Motherboard |  Omar, Giri, Adi |  Nimra, Naveen, Erin | 
-| 2. CPU | Seyon, Ahsan  | Rehan, Rohan, Parinita  | 
+| 2. CPU | Seyon, Ahsan  | Rehan, Rohan, Parinita, Shameer  | 
 | 3. RAM and ROM | Nikhil, Xin Yu  | Daniel, Frank, Yuan Kai | 
 | 4. Video Card | Yassin, Faria | Navya, Bilal, Bhoo | 
 | 5. Sound Card | Faiza, Shyam | Esha, Ateeb, Michael | 
 | 6. Power Supplies | Fatima, Chunlei | Davin, Tahir, Momin | 
-| 7. Input devices (keyboard, mouse, scanner, webcams, etc.) | Nasif, Eunice |  John, Ritam, Declan | 
+| 7. Input devices (keyboard, mouse, scanner, webcams, etc.) | Nasif, Eunice |  John, Ritam, Declan, Farida | 
 | 8. Output devices (monitor, projector, printer, etc.) | Aravind, Austin |  Hanna, Minza, Divya, Tina | 
 | 9. Hard Disk Drives, Solid State Drives, and any other storage drives | No one | Ahsan, Khalid, Richard  | 
 
