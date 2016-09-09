@@ -1,8 +1,6 @@
 Task(s)
 -------
-__Individually__, contact either: 
-
-1. Someone at an environmental group that is outside the Mississauga area.
+__Individually__, contact someone at an environmental group that is outside the Mississauga area.
 
 You are to gather information about what they are doing to help the environment.  
 
