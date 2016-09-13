@@ -19,7 +19,7 @@ Task(s)
 Split Class Presentation Schedule
 ------------------
 Starting September 15th, 2016:
-Group #9, 3, 8, 4, 1, 7, 2, 5, 6 (randomly ordered as per [Random.org](https://www.random.org/lists/))
+Group #9, 5, 3, 8, 4, 1, 7, 2, 5 (randomly ordered as per [Random.org](https://www.random.org/lists/)) (slight modification to accommodate student absences)
 
 Solo Class Presentation Schedule
 ------------------
