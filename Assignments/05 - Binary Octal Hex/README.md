@@ -32,4 +32,4 @@ Do _not_ hand in this work.  There will be a short test on this material in the 
 
 Due Date(s)
 ------------------
-It will be assumed that you have completed this worksheet as of September 22nd as there will be a test on this material on September 23rd.
+It will be assumed that you have completed this worksheet as of September 23rd as there will be a test on this material on September 26th.

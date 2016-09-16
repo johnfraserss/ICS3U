@@ -27,6 +27,10 @@ Starting September 15th, 2016:
 Group #2, 6, 7, 3, 9, 5, 1, 4, 8 (randomly ordered as per [Random.org](https://www.random.org/lists/))
 
 
+Both Classes
+------------
+Test on Monday, September 19th, 2016 on the material.
+
 Rubric(s)
 ---------
 [Presentation Rubric] (http://www.mrseidel.com/rubrics/Generic_Presentation_Rubric.pdf)
