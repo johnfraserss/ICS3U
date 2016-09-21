@@ -37,7 +37,7 @@ It will be assumed that you have completed this worksheet as of September 23rd a
 
 Answer Key 
 ----------
-**bold** is the original question
+**bold** is the original question  
 _italics_ are the answers
 
 |  Binary           | Octal  | Decimal | Hexadecimal |
@@ -52,9 +52,9 @@ _italics_ are the answers
 |    x              |   x    |_61453_  |   **F00D**  |
 |    x              |   x    |_65261_  |   **FEED**  |
 |_01101111_         |_157_   | **111** |_6F_         |
-|_101001101_        |_515_   | **333** |_14D_        |
+|_000101001101_     |_515_   | **333** |_14D_        |
 |_0001000101011100_ |_10534_ | **4444**|_115C_       |
 |    **10010010**   |_222_   |_146_    |_92_         |
-|_1011101010_       | **746**|_746_    |_2EA_        |
+|_001011101010_     | **746**|_746_    |_2EA_        |
 |_1010101111001101_ |_125715_|_43981_  |   **ABCD**  |
 |_0010101101100111_ |_25547_ |**11111**|_2B67_       |
