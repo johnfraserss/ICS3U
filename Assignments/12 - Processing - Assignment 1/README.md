@@ -1,7 +1,7 @@
 Task(s)
 -------
 You are to complete this task on your own (i.e. no group submissions, or no plagiarizing from each other (or internet), etc.)
-* Using your knowledge of programming and if statements you will recreate the sketch found in the OUT\Seidel\ICS3U\Assignment 1 folder (will be posted by Monday, October 3rd)
+* Using your knowledge of programming and if statements you will recreate the sketch found in the OUT\Seidel\ICS3U\Assignment 1 folder
 * You can use only **arc()** for the **moving** shapes.  _Hint: You can use stroke to your advantage to create a "circle" at the end of an arc_
 * You are **not** allowed to use translate(), rotate(), pushMatrix(), or popMatrix() - (**exception**: you can use translate(width/2, height/2) to place your origin in the center of the screen)
 
