@@ -13,7 +13,9 @@ Do **not** hand this work in - your teacher will mark this at your computer near
 
 Due Date(s)
 ----------
-Marking will begin at the beginning of class on November 2nd.
+Marking will begin at the beginning of class on ~~November 2nd~~ (changed due to time lost and post-secondary day)  
+**Solo Class**: November 3rd, 2016  
+**Split Class**: November 7th, 2016  
 
 
 Rubric(s)
