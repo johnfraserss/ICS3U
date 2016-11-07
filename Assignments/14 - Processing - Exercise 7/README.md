@@ -1,7 +1,7 @@
 
 Task(s)
 -------
-1. Recreate the sketch found [here](http://mrseidel.com/images/Processing/3U/Exercise7_3U.gif). Use ```for``` loops to complete this task.  You can technically complete this task using ```while``` loops, but it is expected that you practice using ```for``` loops.
+1. Recreate the sketch found [here](http://mrseidel.com/images/Processing/3U/Exercise7_3U.png). Use ```for``` loops to complete this task.  You can technically complete this task using ```while``` loops, but it is expected that you practice using ```for``` loops.
 
 
 
