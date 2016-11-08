@@ -5,6 +5,7 @@ You are to complete this task on your own (i.e. no group submissions, or no plag
 * Using your knowledge of programming, if statements, functions, and loops you will complete either below:
 
 Recreate the sketch found in the OUT\SEIDEL\ICS3U\Assignment2 folder
+* A maximum mark of level 2 is available if you do not use functions **effectively** to encapsulate your program
 * A maximum mark of level 3 is available if you do not include the text.
 * A maximum mark of level 4 is available if you include the text on both screens, and the text on the lines screen must *not* exit the screen, nor overlap any lines.
 
