@@ -2,7 +2,7 @@
 Task(s)
 -------
 You are to complete this task on your own (i.e. no group submissions, or no plagiarizing from each other (or internet), etc.)
-* Using your knowledge of programming, if statements, functions, and loops you will complete either below:
+* Using your knowledge of programming, if statements, functions, and loops you will complete:
 
 Recreate the sketch found in the OUT\SEIDEL\ICS3U\Assignment2 folder
 * A maximum mark of level 2 is available if you do not use functions **effectively** to encapsulate your program
