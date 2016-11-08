@@ -18,8 +18,7 @@ Do **not** hand this work in - your teacher will mark this at your computer near
 
 Due Date(s)
 ----------
-Marking will begin at the beginning of class on:
-**Both Classes:** November 21st, 2016
+Marking will begin at the beginning of class on November 21st, 2016 for **both classes**
 
 
 Rubric(s)
