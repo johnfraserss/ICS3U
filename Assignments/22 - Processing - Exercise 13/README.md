@@ -1,6 +1,6 @@
 Task(s)
 -------
-1. Create a program where you have 2 static points on a triangle, and on that follows the mouse.
+1. Create a program where you have 2 static points on a triangle, and one that follows the mouse.
 2. Create a function that calculates the hypotenuse of a triangle.
 3. Output the length of the hypotenuse to the screen somewhere.
 
