@@ -9,18 +9,16 @@ This is an individual research assignment.
 
 * Find an area of research within that field in which computer science plays an integral role.
 
-* Write responses to the statements below. The target audience is your ICS3U classmates.
+* In a single Markdown file, write responses to the statements below. The target audience is your ICS3U classmates.
 
-  1. In fewer than 30 words, explain what the research within your subject area is. 
-  2. In fewer than 150 words, answer the following question: "What would this field of research look like if no one knew how to program computers?". Justify your answer.
+  1. In fewer than 50 words, explain what the research within your subject area is. 
+  2. In fewer than 180 words, answer the following question: "What would this field of research look like if no one knew how to program computers?". Justify your answer.
 
 * **Do not use any URLs as a part of your writing**.
-* Cite all your sources in MLA or APA format. Use **at least 3** sources with different information.
+* Cite all your sources in MLA or APA format. Use **at least 3** sources with different information (Wikipedia doesn't count as a source for this project).
 
-	
 ###Due Date
-
-All documents must be submitted by **4:00 PM on May 24** to the /IN folder. This includes your two responses and the citations.
+Your Markdown file is due to the IN drive before December 23rd, at 12 NOON.
 
 
 ###Rubric and Expectations
