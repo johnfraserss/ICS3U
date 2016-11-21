@@ -1,4 +1,4 @@
-The purpose of this presentation is to further understand the relevance and the immediacy of this course by connecting what you are learning in class with real-world events or situations.
+The purpose of this infographic is to further understand the relevance and the immediacy of this course by connecting what you are learning in class with real-world events or situations.
 
 Task(s)
 -------
