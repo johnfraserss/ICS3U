@@ -30,9 +30,38 @@ There might be more tools available out there, but this is a place to start.
 
 All topics must be approved by the teacher.
 
+####Solo Class
+| Name(s) | Topic | 
+| --- | --- | 
+| Momin | Quantum Computing/Cryptography |
+| John | Unmanned Vehicles |
+| Richard | Virtual Reality | 
+| Bilal | Artificial Intelligence |
+| Khaled | Nanomedicine |
+| Ritam | Internet of Things |
+| Daniel | 5G |
+| Divya | SpaceX |
+| Parinita | Cryogenics |
+| Michael | Inflatable Habitat Space? |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
+####Split Class
+| Name(s) | Topic | 
+| --- | --- | 
+| Fatima | Virtual Reality |
+| Faiza | Fusion Power/De-Extinction |
+| Nikhil | Swarm Robotics |
+| | |
+| | |
+| | |
+
 ###Due Dates
 Download your infographic and submit it (along with your Markdown file) to the IN drive before December 23rd, at 12 NOON.
-
 
 Rubric and Expectations
 --------------------------
