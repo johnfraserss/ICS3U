@@ -54,8 +54,8 @@ All topics must be approved by the teacher.
 | Name(s) | Topic | 
 | --- | --- | 
 | Fatima | Virtual Reality |
-| Faiza | Fusion Power/De-Extinction |
-| Nikhil | Swarm Robotics |
+| Faiza | Fusion Power |
+| Nikhil | De-Extinction |
 | | |
 | | |
 | | |
