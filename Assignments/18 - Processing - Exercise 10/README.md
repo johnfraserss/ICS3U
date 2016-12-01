@@ -18,11 +18,11 @@ Task(s)
 2. The second line will contain the values _N_, _w\_min_, _w\_max_,_h\_min_,_h\_max_ where:
    * _N_ is the number of coordinates that will follow
    * _w\_min_ is the minimum random value for the width
-   * _w\_max_ is the maximum random value for the height
-   * _h\_min_ is the minimum random value for the width
+   * _w\_max_ is the maximum random value for the width
+   * _h\_min_ is the minimum random value for the height
    * _h\_max_ is the maximum random value for the height
 
-3. To create your own .txt file, run the program found in S:\OUT\SEIDEL\ICS3U\Exercise9
+3. To create your own .txt file, run the program found in S:\OUT\SEIDEL\ICS3U\Exercise_10
 
 Submissables
 ------------
