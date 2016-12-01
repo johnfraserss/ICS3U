@@ -18,7 +18,7 @@ void setup() {
 
   //convert the Strings to floats
   for (int i = 0; i < numbersString.length; i++) {
-    numbers[i] = Float.parseFloat(numbersString[i]); //convert a String to a float
+    numbers[i] = float(numbersString[i]); //convert a String to a float
   }
 
   for (int i = 0; i < numbers.length; i++) {
@@ -51,10 +51,10 @@ create an array of Strings.
   catchingString has the following array values: ["Hello"]["world!"], because it has
   broken the str variable at the space
 
-Converting a String into a number value has some funky syntax as shown below:
+Converting a String into a number value has syntax as shown below:
 
   String str = "5.0";
-  int intValue = Integer.parseInt(str);     //intValue will be 5
-  float floatValue = Float.parseFloat(str); //floatValue will be 5.0
+  int intValue = int(str);     //intValue will be 5
+  float floatValue = float(str); //floatValue will be 5.0
 
 */
