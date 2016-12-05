@@ -48,6 +48,11 @@ All topics must be approved by the teacher.
 | Ahsan | Stealth Tech |
 | Mubariz | Life Extension |
 | Navya | CGI |
+| Rehan | Brain-Computer Interface |
+| | |
+| | |
+| | |
+| | |
 | | |
 
 ####Split Class
