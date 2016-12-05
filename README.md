@@ -17,9 +17,9 @@ _Note: Some of these topics may be assigned as homework throughout the course, a
   * In-line Documentation
   * Arrays
   * Functions and Encapsulation
+  * ArrayLists
   * PVectors
   * **Enrichment:** Introduction to Objects
-  * **Enrichment:** ArrayLists
 * Tracing Techniques
 * Algorithm Design
 * Emerging Technology
