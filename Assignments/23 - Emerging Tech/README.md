@@ -42,8 +42,13 @@ All topics must be approved by the teacher.
 | Daniel | 5G |
 | Divya | SpaceX |
 | Parinita | Cryogenics |
-| Michael | Inflatable Habitat Space? |
+| Michael | Inflatable Habitat Space |
 | Tina | 3D Printing |
+| Ateeb | Portable Gaming |
+| Ahsan | Stealth Tech |
+| Mubariz | Life Extension |
+| Navya | CGI |
+| Rehan | Brain-Computer Interface |
 | | |
 | | |
 | | |
