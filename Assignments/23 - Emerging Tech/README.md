@@ -50,9 +50,9 @@ All topics must be approved by the teacher.
 | Navya | CGI |
 | Rehan | Brain-Computer Interface |
 | Esha | Amino Therapy|
-| | |
-| | |
-| | |
+| Declan | Bioplastic |
+| Farida | GMO |
+| Erin | Space Elevator |
 | | |
 | | |
 | | |
