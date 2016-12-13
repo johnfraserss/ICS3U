@@ -65,12 +65,12 @@ All topics must be approved by the teacher.
 | --- | --- | 
 | Fatima | Virtual Reality |
 | Faiza | Fusion Power |
+| Eunice | Magnetic Levitation |
 | Nikhil | De-Extinction |
 | Shyam | Graphene |
 | Nasif | Augmented Reality |
-| | |
-| | |
-| | |
+| Giri | Cultured Meat |
+| Seyon | Vehicular Communications Systems |
 | | |
 | | |
 | | |
