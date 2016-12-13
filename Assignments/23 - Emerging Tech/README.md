@@ -54,6 +54,11 @@ All topics must be approved by the teacher.
 | | |
 | | |
 | | |
+| | |
+| | |
+| | |
+| | |
+| | |
 
 ####Split Class
 | Name(s) | Topic | 
@@ -61,6 +66,14 @@ All topics must be approved by the teacher.
 | Fatima | Virtual Reality |
 | Faiza | Fusion Power |
 | Nikhil | De-Extinction |
+| Shyam | Graphene |
+| Nasif | Augmented Reality |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
 | | |
 | | |
 | | |
