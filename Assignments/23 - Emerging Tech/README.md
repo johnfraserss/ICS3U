@@ -49,7 +49,7 @@ All topics must be approved by the teacher.
 | Mubariz | Life Extension |
 | Navya | CGI |
 | Rehan | Brain-Computer Interface |
-| | |
+| Esha | Amino Therapy|
 | | |
 | | |
 | | |
