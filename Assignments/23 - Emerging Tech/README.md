@@ -71,7 +71,7 @@ All topics must be approved by the teacher.
 | Nasif | Augmented Reality |
 | Giri | Cultured Meat |
 | Seyon | Vehicular Communications Systems |
-| | |
+| Austin | Nanosensors |
 | | |
 | | |
 | | |
