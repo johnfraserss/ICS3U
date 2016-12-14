@@ -37,7 +37,7 @@ All topics must be approved by the teacher.
 | John | Unmanned Vehicles |
 | Richard | Virtual Reality | 
 | Bilal | Artificial Intelligence |
-| Kh4l3d | Nanomedicine |
+| Khaled | Nanomedicine |
 | Ritam | Internet of Things |
 | Daniel | 5G |
 | Divya | SpaceX |
@@ -57,7 +57,7 @@ All topics must be approved by the teacher.
 | Davin | Roboted Assisted Surgery |
 | Hanna | E-Nose |
 | Bhoo | Dark Web |
-| | |
+| Frank | Machine Translation |
 | | |
 
 ####Split Class
