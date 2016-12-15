@@ -72,7 +72,7 @@ All topics must be approved by the teacher.
 | Giri | Cultured Meat |
 | Seyon | Vehicular Communications Systems |
 | Austin | Nanosensors |
-| | |
+| Ahsan | Bio-printing |
 | | |
 | | |
 | | |
