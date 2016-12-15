@@ -58,7 +58,7 @@ All topics must be approved by the teacher.
 | Hanna | E-Nose |
 | Bhoo | Dark Web |
 | Frank | Machine Translation |
-| | |
+| Nimra | Agricultural Robotics |
 
 ####Split Class
 | Name(s) | Topic | 
