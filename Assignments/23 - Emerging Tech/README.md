@@ -59,6 +59,8 @@ All topics must be approved by the teacher.
 | Bhoo | Dark Web |
 | Frank | Machine Translation |
 | Nimra | Agricultural Robotics |
+| Yuan Kai | Bio-printing |
+| Shirley | Androids and Guinoid |
 
 ####Split Class
 | Name(s) | Topic | 
