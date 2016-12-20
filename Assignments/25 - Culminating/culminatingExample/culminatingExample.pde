@@ -242,7 +242,7 @@ void drawGameOverScreen() {
 void drawInstructionScreen() {
   background(255);
   fill(0);
-  textSize(50);
+  textSize(20);
   text("Click on the coloured, or white circles to gain points\n" +
     "you get more points if you click on the coloured circles\n" +
     "If you click on the black circles, you lose 2 points\n\n" +
