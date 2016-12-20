@@ -200,6 +200,7 @@ void reset() {
   blackClicks = 0;
 
   stopTime = 60;
+  radius = 25;
 }
 
 void textArea() {
