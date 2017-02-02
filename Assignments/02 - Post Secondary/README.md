@@ -1,13 +1,7 @@
 Task(s)
 -------
-1. Choose a single career related to Computer Science.  In one paragraph, describe what would pull you into this career, and what pushes you away from the same career.
-2. Choose a single college or university program related to Computer Science.  In one paragraph, ensure you cover the following information:
-  1. Courses of Study (at the col/uni)
-  2. Entrance requirements
-  3. Length of program
-  4. Costs
-
-To complete the tasks above, you are to be concise and accurate with your information.  You are limited to 2 paragraphs (no more than 150 words per paragraph).
+1. Choose a single career related to Computer Science.  In **two sentences**, describe what would pull you into this career, and what pushes you away from the same career.  You are limited to 150 characters per sentence.
+2. Create a list of 5 colleges and 5 universities that offer a Computer Studies/Programming course.  Only 1 college, and 1 university can be in Canada.  The rest must be international programs.
 
 Cite your sources (APA or MLA format accepted).
 
@@ -17,7 +11,7 @@ Complete this work using your newly found Markdown knowledge.  Your work must be
 
 Due Date(s)
 ----------
-Hand in your work by 3pm on September 13th, 2016 to the IN drive.
+Hand in your work by 3pm on February 9th, 2017 to the IN drive.
 
 
 Rubric(s)
