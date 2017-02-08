@@ -6,7 +6,7 @@ Task(s)
 | Hardware Part |  Group  |
 |---|---|---|
 | 1. Motherboard | Ahmad, Mostafa, Talha, Kaan | 
-| 2. CPU | Ayat, Alex, Sarah | 
+| 2. CPU | Ayat, Alex, Sarah, Apoorva | 
 | 3. RAM and ROM | Faris, Omar, Emily | 
 | 4. Video Card | Ulric, Haad, Kareem | 
 | 5. Sound Card | Azan, William, Jayce | 
@@ -15,16 +15,16 @@ Task(s)
 | 8. Output devices (monitor, projector, printer, etc.) | Mason, Abdul, Adam | 
 | 9. Hard Disk Drives, Solid State Drives, and any other storage drives | Anusha, Ali, Vinay | 
 
-Groups were randomly assigned by placing your name in a list at https://www.random.org/lists/.  The first 4 people were chosen for Hardware Item #1, then 3 people per part thereafter.
+Groups were randomly assigned by placing your name in a list at https://www.random.org/lists/.  The first 4 people were chosen for Hardware Item # 1, then 3 people per part thereafter.
 
 Class Presentation Schedule
 ------------------
-Starting February 9th, 2017:
-Group #5,8,3,4,9,2,7,1,6 (randomly ordered as per [Random.org](https://www.random.org/lists/)) 
+Starting February 10th, 2017:
+Group # 8,4,9,2,7,6,1,5,3 (randomly ordered as per [Random.org](https://www.random.org/lists/)) 
 
 Test
 ------------
-Test on Monday, February 13th, 2017 on the material presented + 1 thinking question.
+Test on Tuesday, February 14th, 2017 on the material presented + 1 thinking question.
 
 The thinking question is not related to the materials presented; however, it is there to test your ability to break down a problem and think it through.
 
