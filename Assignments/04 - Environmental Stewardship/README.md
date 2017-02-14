@@ -21,7 +21,7 @@ No matter which method you choose, you will have to:
 ###Criteria
 If you are creating a __written__ piece, you are to follow these criteria:
 
-* No longer than 1000 words.
+* No longer than 800 words.
 * Include a descriptive title for your article
 
 If you are creating an __audio__ piece, you are to follow these criteria:
