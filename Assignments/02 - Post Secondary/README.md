@@ -16,9 +16,8 @@ Hand in your work by 3pm on February 9th, 2017 to the IN drive.
 
 Rubric(s)
 ---------
-This rubric is out of a total of 8
 
-| | 0 | 1 | 2 | 3 | 4 |
+| | R | 1 | 2 | 3 | 4 |
 |---| --- | --- | --- | --- | --- |
 |D3.1: research and describe a career choice in computer science, at either the local, national, and international levels | | | | | |
 |D3.3: research and report on postsecondary educational programs leading to careers in information systems and computer science | | | | | |

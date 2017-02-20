@@ -47,7 +47,7 @@ Your mark will be calculated as follows: __Mark = R * C__ where R is the value o
 
 Your opinion piece must include clear solutions to the rubric items below.
 
-| Expectation                              | 4    | 3    | 2    | 1    | R    |
+| Expectation                              | R    | 1    | 2    | 3    | 4    |
 | ---------------------------------------- | ---- | ---- | ---- | ---- | ---- |
 | **D1 - assess strategies and initiatives that promote environmental stewardship with respect to e-waste for the foreseeable future** |      |      |      |      |      |
 | D1.2 - identify measures that help reduce the impact of computers on the environment |      |      |      |      |      |
