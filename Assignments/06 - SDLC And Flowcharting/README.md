@@ -31,7 +31,7 @@ Rubric(s)
 ---------
 Example of how to read the rubric below:
 * The overall sections (_B2_, and _B4_) will be used to generate a mark
-* The subsections (e.g. _B2.2_, _B2.4, etc.) will be used to assess your understanding of the overall sections.
+* The subsections (e.g. _B2.2_, _B2.4_, etc.) will be used to assess your understanding of the overall sections.
   * For example, _B2.2_, _B2.4_, and _B2.5_ will be used to generate a level for section _B2_. and so on through the various sections.
 
 | | R | 1 | 2 | 3 | 4 |
