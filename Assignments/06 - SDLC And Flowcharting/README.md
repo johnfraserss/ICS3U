@@ -17,7 +17,7 @@ Using your knowledge of flowcharting and the SDLC complete the following tasks:
 * Create a flowchart of how this system would work 
 * Create a **basic** sample design of how the system would look (Visual depiction of a few screens (3-5 of the system).  
  
-Do **not** use the example program that was given to 
+Do **not** use the [example program - to follow]() that was given
 
 For creating flowcharts, there are some tools available online such as:
 * [Create.ly](http://creately.com/) - you will have to sign up for an account to save work
