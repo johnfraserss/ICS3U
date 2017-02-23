@@ -43,5 +43,4 @@ Markdown Tools
 * [Atom.io] (http://atom.io/)
 
 
-Please complete this [intake survey](https://www.surveymonkey.com/r/TN2JR3P)
-[Rules/Regs Survey](https://www.surveymonkey.com/r/W8NQ3Z7)
+Please see the [GitHub Wiki](https://github.com/mrseidel-classes/ICS3U/wiki) for the rules and regulations of the classroom as decided by your peers.
