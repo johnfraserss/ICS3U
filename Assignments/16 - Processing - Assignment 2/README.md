@@ -1,8 +1,9 @@
 
 Task(s)
 -------
-You are to complete this task on your own (i.e. no group submissions, or no plagiarizing from each other (or internet), etc.)
-1. Using your knowledge of programming, if statements, functions, and loops _create an assignment that satisfies the rubric and criteria below_.
+You are to complete this task on your own (i.e. no group submissions, or no plagiarizing from each other (or internet), etc.)  
+
+1. Using your knowledge of programming, if statements, functions, and loops _create an assignment that satisfies the rubric and criteria below_.  
 2. Create a flowchart of your program.
 
 
