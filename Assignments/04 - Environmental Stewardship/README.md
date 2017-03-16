@@ -18,7 +18,7 @@ No matter which method you choose, you will have to:
 * Justify your opinion
 
 
-###Criteria
+### Criteria
 If you are creating a __written__ piece, you are to follow these criteria:
 
 * No longer than 800 words.
