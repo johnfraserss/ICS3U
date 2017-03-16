@@ -5,14 +5,10 @@ Task(s)
 1. Choose an emerging technology and its related field of study that is not Computer Science (i.e. if _animation_ were an emerging technology, then the related field of study would be art).
 2. Create a report of any style, using any method of delivery (excluding a word processing document), that focuses on the societal, economic, and environmental impacts of the technology, and how the related field of study is collaborating with the Computer Science field.
 
-Emerging Technology Topics
---------------------------
-[Here](http://en.wikipedia.org/wiki/List_of_emerging_technologies) is a recommended place to start looking for ideas.
+#### Emerging Technology Topics
+[Here](http://en.wikipedia.org/wiki/List_of_emerging_technologies) is a recommended place to start looking for ideas.  All topics must be approved by the teacher.
 
-All topics must be approved by the teacher.
-
-Report Criteria
-----------------
+#### Report Criteria
 If you are creating a __written__ piece, you are to follow these criteria:
 * No longer than 800 words.
 * Include a descriptive title for your article
