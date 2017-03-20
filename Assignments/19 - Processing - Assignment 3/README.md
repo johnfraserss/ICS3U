@@ -18,20 +18,20 @@ Reminder:
 > * Visually display the files that do not match the criteria, so that the programmer can go and fix these issues.
 >
 
-* Create an instructions file by running the program found in S:\OUT\SEIDEL\ICS3U\Assignment_3  
-* Create a Processing program that:  
+* Create an instructions file by running the program found in ```OUT\SEIDEL\ICS3U\Assignment_3```
+* Create a Processing program that:
   * Reads the instructions file given for the _rules_ to follow.
   * Reads the file that contains folder/file information.
   * Compare the file information against the _rules_ given.
   * Visually display the files that do not match the criteria.
-* All _rules_ will be based on 5 instructions:  
-  * There will be a maximum length of a filename.  For example, "8.3" would state the maximum length of the file name is 8, plus a 3 character extension (i.e. "hello.jpg" would be okay, but "hello.jpeg" would not be okay.)
-  * There will be a list of allowable file extensions. For example, "PNG JPG GIF" would list 3 options
-  * There will be a list of unallowable characters. For example, "A0-\_" would list 4 options
-  * There will be a list of allowable start-of-file names.  For example, "IM5" would match "IM5_2010.jpg" as a proper file.
-  * There will be a maximum file size.  For example, "1000000" would mark any file above 1000000 to be fixed.
-  * The values for each of the above will be randomized per person/group
-* Your "folder" will be another file with a listing of files.  It is up to you to figure out how to parse through the data.
+* All _rules_ will be based on 5 instructions, separated over 5 lines as follows:  
+  * There will be a maximum length of a filename.  For example, ```8.3``` would state the maximum length of the file name is 8, plus a 3 character extension (i.e. ```hello.jpg``` would be okay, but ```hello.jpeg``` would not be okay.)
+  * There will be a list of allowable file extensions. For example, ```PNG JPG GIF``` would list 3 options
+  * There will be a list of unallowable characters. For example, ```A0-\_``` would list 4 options
+  * There will be a list of allowable start-of-file names.  For example, ```IM5``` would match ```IM5_2010.jpg``` as a proper file.
+  * There will be a maximum file size.  For example, ```1000000``` would mark any file above 1000000 to be fixed.
+  * The values for each of the above will be randomized per person/group, and your program should work for **any** randomized set of values that can be created.
+* Your "folder" will be another file with a listing of files.  It is up to you to figure out how to parse through the data. This file can also be created by running the program found in ```OUT\SEIDEL\ICS3U\Assignment_3```
 
 Submissables
 ------------

@@ -4,12 +4,12 @@ Task(s)
 You have been asked to create a computer program based on the following:
 
 > A local gaming company is looking for a program that will complete the following tasks:
-  * Read a file that contains instructions:
-    * a maximum length of a filename
-    * a list of allowable file extensions (e.g. .jpg, .png, .gif, etc.)
-    * a list of unallowable characters for filenames (e.g. spaces, underscores, etc.)
-  * Compares all the files found in a folder to see if they match the criteria in the previous point
-  * Visually display the files that do **not** match the criteria, so that the programmer can go and fix these issues.
+>  * Read a file that contains instructions:
+>    * a maximum length of a filename
+>    * a list of allowable file extensions (e.g. .jpg, .png, .gif, etc.)
+>    * a list of unallowable characters for filenames (e.g. spaces, underscores, etc.)
+>  * Compares all the files found in a folder to see if they match the criteria in the previous point
+>  * Visually display the files that do **not** match the criteria, so that the programmer can go and fix these issues.
 >
 > **Note:** This will eventually become an assignment (with modifications), so ensure you complete this task to the best of your abilities.  It will help with the assignment later.
 

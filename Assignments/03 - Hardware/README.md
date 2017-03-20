@@ -4,7 +4,7 @@ Task(s)
 2. Present your findings to the class in a 3-8 minute presentation on your scheduled day.  Use any presentation method that you want.
 
 | Hardware Part |  Group  |
-|---|---|---|
+| --- | --- |
 | 1. Motherboard | Ahmad, Mostafa, Talha, Kaan | 
 | 2. CPU | Ayat, Alex, Sarah, Apoorva | 
 | 3. RAM and ROM | Faris, Omar, Emily | 
