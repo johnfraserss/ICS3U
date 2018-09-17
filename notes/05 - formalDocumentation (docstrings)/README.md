@@ -82,4 +82,4 @@ The example above includes extra sections based on what you will need to include
 * Parameter list
 * Returns
 
-See the ```formalDocumentation.py``` for examples of what you are responsible to include in your docstrings going forward.
+See the ```formalDocumentation_ex#.py``` files above for examples of what you are responsible to include in your docstrings going forward.
