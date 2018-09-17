@@ -73,6 +73,7 @@ def functionName(parameter1, parameter2, parameter3=0, ...):
 	------
 	ExceptionType
 		Describe why/how this exception gets raised
+	'''
 ```
 
 The example above includes extra sections based on what you will need to include in the future (post-Exercise 11).  For now, **you are required to include the following sections**:
