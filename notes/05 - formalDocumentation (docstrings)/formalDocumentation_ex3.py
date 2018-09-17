@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
 # Name:        Formal Documentation i.e. docstrings (formalDocumentation_ex3.py)
 # Purpose:     Provides an example of how to create docstrings in Python using
-#			   formal documentation standards.				
+#		formal documentation standards.				
 #
 # Author:      Mr. Seidel
 # Created:     22-Aug-2018
