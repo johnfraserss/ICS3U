@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Formal Documentation i.e. docstrings (formalDocumentation.py)
+# Name:        Formal Documentation i.e. docstrings (formalDocumentation_ex2.py)
 # Purpose:     To provides an example of how to create docstrings in Python using
 #			            formal documentation standards.				
 #
