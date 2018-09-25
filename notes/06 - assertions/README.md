@@ -7,6 +7,18 @@ def hypotenuse(sideA, sideB):
     '''Calculates the hypotenuse and returns it to the sender based on
        sideA and sideB given
 
+    Parameters
+    ----------
+    sideA : float
+        The first side of the right-angled triangle (non-hypotenuse)
+    sideB : float
+        The second side of the right-angled triangle (non-hypotenuse)
+        
+        
+    Returns
+    -------
+    float
+        The length of the third side of the right-angled triangle (hypotenuse) as per the Pythagorean Theorem
     '''
 
     cSquare = sideA**2 + sideB**2	  # local variable used to hold information
