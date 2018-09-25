@@ -10,7 +10,7 @@ def hypotenuse(sideA, sideB):
     '''
 
     cSquare = sideA**2 + sideB**2	  # local variable used to hold information
-    hypotenuseValue = cSquare**0.5 	# takes the square root
+    hypotenuseValue = cSquare**0.5 	  # takes the square root
     return hypotenuseValue
 
 # Check to make sure the function is working
@@ -28,7 +28,7 @@ To check to see if something is of a particular data type, you use the ```isinst
 
 ```python
 x = 3.5
-assert isinstance(x, float), "Expecting a float"
+assert isinstance(x, float), 'Expecting a float'
 ```
 
 **Important note:** Assertions are used when developing a program, and will be required for all future programming work.  However, whenever complete programs going forward will need to have asserts commented out by starting the line with a ```#```. 
