@@ -40,7 +40,7 @@ greeting = 'Hello'
 print(greeting)
 ```
 
-When printing out variables, you will want to wrap the text with a ```str()``` function if you know that the values might be numeric.  If you know they are strings you can print out the information directly.
+When printing out variables, you will want to wrap the text with a ```str()``` function if you know that the values might be numeric.  If you know they are strings you can print out the information directly to the ```print()``` function.
 
 
 ### Mathematical Operations
@@ -76,3 +76,16 @@ print(str(integerConversion))
 floatConversion = float(2)
 print(str(floatConversion))
 ```
+
+### Receiving input from the user
+
+Sometimes you will want to ask someone to enter information for you so that you can process that information and print it back out.  This is useful if you are, for example, receiving information to create a database, or to calculate the hypotenuse of a right-angle triangle, etc.
+
+To do so, we use the ```input()``` function.  The ```input()``` function takes one argument (information in the parentheses) which is typically the question that we would ask the user to help guide them, as a string.  For example:
+
+```python
+name = input('Enter your name: ')
+print(name)
+```
+
+The above program prompts the user with ```Enter your name: ``` and waits for the user to enter information to continue.  Afterwards, it will then just print out the name entered.  For more examples, check the ```basics.py``` file above.

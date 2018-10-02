@@ -4,7 +4,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     14-Aug-2018
-# Updated:     22-Aug-2018
+# Updated:     28-Sep-2018
 #-----------------------------------------------------------------------------
 
 # Printing the addition of two integers
@@ -49,3 +49,10 @@ print(str(float(integerOne)))
 
 # Equation
 print(str(4 * 2 / 8))
+
+# Getting input from the user using input('Question goes here')
+# Then formatting and printing back out the user input.
+name = input('Enter your name: ')  # Note: This asks the user to 'Enter your name: '.  Do NOT change this to your name directly
+age = input('Enter your age: ')
+print('Hello ' + str(name) + ', you are ' + str(age) + ' years old.')
+
