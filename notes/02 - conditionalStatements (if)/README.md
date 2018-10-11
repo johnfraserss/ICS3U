@@ -8,7 +8,7 @@ To check whether a condition is false, it is found within the brackets of the if
 
 x = 1
 if x == 1:
-	print("It's ONE!")
+  print("It's ONE!")
 ```
 
 Note the indenting of the ```print()``` command in the code above.  The indenting is required for the program to understand that the ```print()``` command is part of the ```if``` statement.  Anytime you have an ```if``` statement, you will need to indent any code that you want run under those conditions.  Typically you use the ```TAB``` key to indent, or use 4 spaces as a Python convention.
@@ -29,9 +29,9 @@ If statements can combine to check ```if``` something is true, ```else``` do som
 
 x = 1
 if x == 2:
-	print("It's TWO!")
+  print("It's TWO!")
 else:
-	print("It's NOT TWO!")
+  print("It's NOT TWO!")
 ```
 
 This will check to see if the value of ```x``` is the same as ```2``` and if it isn't, the program will jump down to the ```else``` statement and run the code found within that block.
@@ -42,11 +42,11 @@ You can also chain a variety of ```if``` statements together; however, every ```
 
 x = 1
 if x > 10:
-	print('The number is at least two digits long')
+  print('The number is at least two digits long')
 elif x < 10:
-	print('The number is less than 10')
+  print('The number is less than 10')
 else:
-	print('The number IS 10!')
+  print('The number IS 10!')
 
 ```
 
@@ -61,9 +61,9 @@ x = 1
 y = 2
 
 if x == 1 and y == 2:
-	print('Yay!')
+  print('Yay!')
 else:
-	print('Nay!')
+  print('Nay!')
 ```
 
 or
@@ -74,9 +74,9 @@ x = 1
 y = 2
 
 if x == 1 or y == 1:
-	print('Yay!')
+  print('Yay!')
 else:
-	print('Nay!')
+  print('Nay!')
 
 ```
 
@@ -89,10 +89,10 @@ y = 2
 z = 3
 
 if (x == 1 and y == 1) or (z == 1):
-	print('Yay!')
+  print('Yay!')
 elif (x == 1 and y == 2) and (y == 3 or z == 3):
-	print('WOOHOO!')
+  print('WOOHOO!')
 else:
-	print('Nay!')
+  print('Nay!')
 
 ```
