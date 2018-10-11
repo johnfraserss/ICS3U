@@ -71,12 +71,12 @@ or
 ```python
 
 x = int(input('Enter a number: '))
-y = int(input('Enter the same number: '))
+y = int(input('Enter another number: '))
 
 if x == 1 or y == 1:
-  print('Yay! Both numbers are the same!')
+  print('Yay! One of the numbers was a one!')
 else:
-  print('Nay! Both numbers are not the same...')
+  print('Nay! Neither number was the number one...')
 
 ```
 
