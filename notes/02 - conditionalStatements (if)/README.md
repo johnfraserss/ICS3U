@@ -40,7 +40,7 @@ You can also chain a variety of ```if``` statements together; however, every ```
 
 ```python
 
-x = 1
+x = int(input('Enter a number between 1 and 100'))
 if x > 10:
   print('The number is at least two digits long')
 elif x < 10:
@@ -70,13 +70,13 @@ or
 
 ```python
 
-x = 1
-y = 2
+x = int(input('Enter a number: '))
+y = int(input('Enter the same number: '))
 
 if x == 1 or y == 1:
-  print('Yay!')
+  print('Yay! Both numbers are the same!')
 else:
-  print('Nay!')
+  print('Nay! Both numbers are not the same...')
 
 ```
 
