@@ -10,8 +10,8 @@ This looping structure will continue doing something **while** a condition is ``
 ```python
 count = 1
 while count < 10:
-	print(str(count))
-	count = count + 1
+  print(str(count))
+  count = count + 1
 ```
 
 The structure of a ```while``` loop is very similar to an ```if``` statement as shown above.  You can use anything that you can with an ```if``` to check whether the condition is ```True``` or ```False```.  
@@ -28,7 +28,7 @@ This looping structure will count from one value to another by a particular incr
 
 ```python
 for iterator in range(start, stop, step):
-	pass
+  pass
 ```
 
 The above has some new concepts such as:
@@ -41,7 +41,7 @@ The above has some new concepts such as:
 ```python
 # Count up
 for count in range(0, 5, 1):
-	print(str(count))
+  print(str(count))
 
 # Output
 # 0
@@ -53,7 +53,7 @@ for count in range(0, 5, 1):
 
 # Count down
 for count in range(5, 0, -1):
-	print(str(count))
+  print(str(count))
 
 # Output
 # 5
