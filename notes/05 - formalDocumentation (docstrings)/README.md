@@ -7,7 +7,7 @@ When you are given a piece of code that you are to implement into your own work,
 
 ```python
 def foo():
-	return 5 * 8 / 10 ** 9 % 2 + 1
+  return 5 * 8 / 10 ** 9 % 2 + 1
 
 xyzzy = 5
 corge = xyzzy ** 5 + foo()
@@ -16,18 +16,18 @@ print(str(corge))
 
 ```python
 def seidelonianConstant():
-	'''
-	This function calculates the Seidelonian constant and returns that value to the caller
+  '''
+  This function calculates the Seidelonian constant and returns that value to the caller
+  
+  Parameters
+  ----------
+  None
 
-	Parameters
-	----------
-	None
-
-	Returns
-	-------
-	float
-		The value of the Seidelonian constant.
-	'''
+  Returns
+  -------
+  float
+    The value of the Seidelonian constant.
+  '''
 
 	return 5 * 8 / 10 ** 9 % 2 + 1
 
@@ -45,36 +45,36 @@ Docstrings are used in Python as a formal documentation method for functions and
 
 
 def functionName(parameter1, parameter2, parameter3=0, ...):
-	'''
-	Short summary of the use of the function
+  '''
+  Short summary of the use of the function
+  
+  Longer description of the use of the function.  This is an area where you can 
+  expand on the short summary.
 
-	Longer description of the use of the function.  This is an area where you can 
-	expand on the short summary.
+  Parameters
+  ----------
+  parameter1 : type
+    description of parameter1
+  parameter2 : type
+    description of parameter2
+  parameter3 : type, optional
+    description of parameter3
+  
+  Returns
+  -------
+  type
+    description of what's being returned
+  
+  Warnings (this section is optional)
+  --------
+  This is a free-text area that describes any warnings that could propogate
+  in this program
 
-	Parameters
-	----------
-	parameter1 : type
-		description of parameter1
-	parameter2 : type
-		description of parameter2
-	parameter3 : type, optional
-		description of parameter3
-
-	Returns
-	-------
-	type
-		description of what's being returned
-
-	Warnings (this section is optional)
-	--------
-	This is a free-text area that describes any warnings that could propogate
-	in this program
-
-	Raises (this section is only applicable if your function raises an exception)
-	------
-	ExceptionType
-		Describe why/how this exception gets raised
-	'''
+  Raises (this section is only applicable if your function raises an exception)
+  ------
+  ExceptionType
+    Describe why/how this exception gets raised
+  '''
 ```
 
 The example above includes extra sections based on what you will need to include in the future (post-Exercise 11).  For now, **you are required to include the following sections**:
