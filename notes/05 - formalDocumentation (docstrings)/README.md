@@ -27,6 +27,7 @@ def seidelonianConstant():
 	-------
 	float
 		The value of the Seidelonian constant.
+	'''
 
 	return 5 * 8 / 10 ** 9 % 2 + 1
 
