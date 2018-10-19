@@ -6,11 +6,11 @@ Functions have a different structure from anything you've done previously, and w
 
 ```python
 def functionName( parameter1, parameter2, ... ):
-	'''Description of what the function does
+  '''Description of what the function does
 
-	'''
-	# body of the function
-	return expression
+  '''
+  # body of the function
+  return expression
 ```
 
 The above concepts break down as follows:
@@ -27,14 +27,14 @@ Before being able to use a function, it must be defined.  As such, you will need
 
 ```python
 def menu():
-	'''Displays a basic menu of options
+  '''Displays a basic menu of options
 
-	'''
+  '''
 
-	print('Menu')
-	print('Vegetables')
-	print('Fruit')
-	return
+  print('Menu')
+  print('Vegetables')
+  print('Fruit')
+  return
 
 # Program runs starting here.  Above this line, the functions are just defined.
 menu()	# Calls the function to run
@@ -44,14 +44,14 @@ menu()	# Calls the function to run
 
 ```python
 def hypotenuse(sideA, sideB):
-	'''Calculates the hypotenuse and returns it to the sender based on
-	   sideA and sideB given
+  '''Calculates the hypotenuse and returns it to the sender based on
+     sideA and sideB given
 
-	'''
+  '''
 
-	cSquare = sideA**2 + sideB**2	  # local variable used to hold information
-	hypotenuseValue = cSquare**0.5 	# takes the square root
-	return hypotenuseValue
+  cSquare = sideA**2 + sideB**2	  # local variable used to hold information
+  hypotenuseValue = cSquare**0.5 	# takes the square root
+  return hypotenuseValue
 
 # Program runs starting here.  Above this line, the functions are just defined.
 hyp = hypotenuse(3, 4)
