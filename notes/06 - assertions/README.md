@@ -4,26 +4,26 @@ Assertions are used in-code for you to check a function, variable, etc. to ensur
 
 ```python
 def hypotenuse(sideA, sideB):
-    '''Calculates the hypotenuse and returns it to the sender based on
-       sideA and sideB given
+  '''Calculates the hypotenuse and returns it to the sender based on
+     sideA and sideB given
 
-    Parameters
-    ----------
-    sideA : float
-        The first side of the right-angled triangle (non-hypotenuse)
-    sideB : float
-        The second side of the right-angled triangle (non-hypotenuse)
+  Parameters
+  ----------
+  sideA : float
+    The first side of the right-angled triangle (non-hypotenuse)
+  sideB : float
+    The second side of the right-angled triangle (non-hypotenuse)
         
         
-    Returns
-    -------
-    float
-        The length of the third side of the right-angled triangle (hypotenuse) as per the Pythagorean Theorem
-    '''
+  Returns
+  -------
+  float
+    The length of the third side of the right-angled triangle (hypotenuse) as per the Pythagorean Theorem
+  '''
 
-    cSquare = sideA**2 + sideB**2	  # local variable used to hold information
-    hypotenuseValue = cSquare**0.5 	  # takes the square root
-    return hypotenuseValue
+  cSquare = sideA**2 + sideB**2	  # local variable used to hold information
+  hypotenuseValue = cSquare**0.5 	  # takes the square root
+  return hypotenuseValue
 
 # Check to make sure the function is working
 assert hypotenuse(3, 4) == 5, 'Expecting triangle with sides 3, 4 to have a hyp of 5'
