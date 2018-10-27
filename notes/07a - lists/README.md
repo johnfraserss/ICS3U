@@ -1,8 +1,8 @@
 # Notes (Lists)
 
-A list is a single variable that holds more than one piece of information.  Up until this point, each variable that you created held a unique **single** piece of information.
+A list is a single mutable variable that holds more than one piece of information.  Up until this point, each variable that you created held a unique **single** piece of information.
 
-Lists can hold any variable type in them.  Lists can also hold different data types, but this is high suggested against as it is very error prone.
+Lists can hold any variable type within them and will typically be the same type, making them _homogeneous_ in nature.  This means you will typically deal with list items individually, rather than as a whole list.
 
 ```python
 fruit = ['apple', 'pear', 'peach', 'banana', 'pineapple']
@@ -21,7 +21,7 @@ A list is structured using square brackets, and each item is held within it sepa
 ```python
 fruit = ['apple', 'pear', 'peach', 'banana', 'pineapple']
 
-for i in range(len(fruit)):
+for i in range(0, len(fruit), 1):
   print(fruit[i])
 
 
@@ -60,7 +60,7 @@ This way of using the for loop gives you the element itself and stores it in the
 ```python
 fruit = ['apple', 'pear', 'peach', 'banana', 'pineapple']
 
-for i in range(len(fruit)):
+for i in range(0, len(fruit), 1):
   fruit[i] = fruit[i] + "'s are great!"
 
 print(fruit)
@@ -72,8 +72,20 @@ print(fruit)
 
 ### Functions available
 
-Notes here about the functions available for lists.
+See the ```lists-functions.py``` file above for a functioning program that shows a lot of the functions and options that are available for lists.
 
 ### Converting a string into a list
 
-Notes here about conversion
+If you want to convert a string into a list, there is a quick function to do that for you.
+
+```python
+word = 'What do?'
+letters = list(word)
+
+print(letters)
+
+# Example Output
+>>> ['W', 'h', 'a', 't', ' ', 'd', 'o', '?'] 
+
+
+```
