@@ -1,3 +1,3 @@
-# Notes (Debugging)
+# Notes (Debugging and Logging)
 
-Notes about debugging will be here.
+Notes about debugging and logging will be here.
