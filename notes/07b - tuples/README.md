@@ -57,4 +57,9 @@ Note the ```year, month, day = date``` section of the program.  This creates 3 d
 
 ### Functions available
 
-Most of the functions that exist for lists are also available for tuples, as long as they do not attempt to change the values within the tuple.
+Most of the functions that exist for lists are also available for tuples, as long as they do not attempt to change the values within the tuple.  See the example ```tuples.py``` files above.
+
+
+### isinstance()
+
+Tuples can be used in the ```isinstance()``` function to provide multiple choices for ```isinstance()``` to check for equality.  
