@@ -1,10 +1,10 @@
 #-----------------------------------------------------------------------------
-# Name:        Debugging and Logging (debugging_ex4.py)
+# Name:        Logging (logging_ex5.py)
 # Purpose:     To provide examples of how to debug and log information in 
 #              Python programs.
 #              Important: 
-#              This version disables debugging with one line of code
-#              
+#              This version implicitly creates a CRITICAL error
+#              Commented out some of the debugging info to lower output.
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
@@ -13,8 +13,7 @@
 
 # These two lines are necessary to import the logging module
 import logging
-logging.basicConfig(filename='log_ex4.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
-logging.disable(logging.DEBUG)
+logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
 logging.debug('Start of program')
 
@@ -35,22 +34,25 @@ def multiply(numbers):
     logging.debug ('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
-    assert isinstance(numbers, list), 'Expecting a list'
+    assert isinstance(numbers, list), 'Expecting a float'
     logging.debug('Ensuring each item in the list is an int or float')
     for item in numbers:
-        logging.debug('Checking ' + str(item) + ' is an int or a float')
+        # logging.debug('Checking ' + str(item) + ' is an int or a float')
         assert isinstance(item, (int, float)), 'Expecting an int or float'
 
     logging.debug('All values are numbers, starting to multiply them all')
 
     total = 1.0 
     for item in numbers:
-        logging.debug('Total is ' + str(total) + ', now multiplying ' + str(item) + ' to the total.')
+        # logging.debug('Total is ' + str(total) + ', now multiplying ' + str(item) + ' to the total.')
         total *= item
-        logging.debug("Total's new value is " + str(total))
+        # logging.debug("Total's new value is " + str(total))
 
     logging.debug('Ensuring the final value is a float value')
     assert isinstance(total, float), 'Expecting a float'
+
+    if isinstance(total, float):
+        logging.critical('Critical error!')
 
     logging.debug('Final value of total is ' + str(total))
     return total
@@ -62,5 +64,17 @@ assert isinstance(product, float), 'Expecting a float'
 logging.debug('End of program')
 
 '''
- The output of this exercise goes to the debug.txt file
+ Note the usage of the logging.critical() function shows something slightly different
+ in the output below.
+
+ 2018-11-11 13:00:42,103 - DEBUG - Start of program
+ 2018-11-11 13:00:42,115 - DEBUG - Starting multiply function
+ 2018-11-11 13:00:42,120 - DEBUG - Ensuring input is a list
+ 2018-11-11 13:00:42,125 - DEBUG - Ensuring each item in the list is an int or float
+ 2018-11-11 13:00:42,131 - DEBUG - All values are numbers, starting to multiply them all
+ 2018-11-11 13:00:42,136 - DEBUG - Ensuring the final value is a float value
+ 2018-11-11 13:00:42,142 - CRITICAL - Critical error!
+ 2018-11-11 13:00:42,147 - DEBUG - Final value of total is 115200.0
+ 2018-11-11 13:00:42,152 - DEBUG - End of program
+ 
 '''

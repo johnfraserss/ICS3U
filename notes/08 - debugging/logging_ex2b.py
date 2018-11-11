@@ -1,9 +1,7 @@
 #-----------------------------------------------------------------------------
-# Name:        Debugging and Logging (debugging_ex3.py)
+# Name:        Logging (loggging_ex2b.py)
 # Purpose:     To provide examples of how to debug and log information in 
 #              Python programs.
-#              Important: 
-#              This version outputs to a file instead of to the console.
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
@@ -12,8 +10,7 @@
 
 # These two lines are necessary to import the logging module
 import logging
-logging.basicConfig(filename='log_ex3.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
-
+logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
 logging.debug('Start of program')
 
@@ -55,11 +52,30 @@ def multiply(numbers):
     return total
     
 
-nums = [1, 2, 3, 4, 5, 6, 20, 8]
+nums = [1, 2, 3, 4, 5, 6, '7', 8]  # This is an intentional error to check out assertions
+                                   # and how the debugging window can help us narrow down the error quickly
 product = multiply(nums)
 assert isinstance(product, float), 'Expecting a float'
 logging.debug('End of program')
 
 '''
- The output of this exercise goes to the debug_ex3.txt file
+ Below is the output from having one of the numbers be a string
+
+ 2018-11-11 12:53:33,460 - DEBUG - Start of program
+ 2018-11-11 12:53:33,472 - DEBUG - Starting multiply function
+ 2018-11-11 12:53:33,477 - DEBUG - Ensuring input is a list
+ 2018-11-11 12:53:33,482 - DEBUG - Ensuring each item in the list is an int or float
+ 2018-11-11 12:53:33,487 - DEBUG - Checking 1 is an int or a float
+ 2018-11-11 12:53:33,493 - DEBUG - Checking 2 is an int or a float
+ 2018-11-11 12:53:33,498 - DEBUG - Checking 3 is an int or a float
+ 2018-11-11 12:53:33,503 - DEBUG - Checking 4 is an int or a float
+ 2018-11-11 12:53:33,508 - DEBUG - Checking 5 is an int or a float
+ 2018-11-11 12:53:33,513 - DEBUG - Checking 6 is an int or a float
+ 2018-11-11 12:53:33,518 - DEBUG - Checking 7 is an int or a float
+Traceback (most recent call last):
+  File "X:/P/GitHub/ICS3U/notes/08 - debugging/debugging_ex2b.py", line 57, in <module>
+    product = multiply(nums)
+  File "X:/P/GitHub/ICS3U/notes/08 - debugging/debugging_ex2b.py", line 39, in multiply
+    assert isinstance(item, (int, float))
+AssertionError
 '''

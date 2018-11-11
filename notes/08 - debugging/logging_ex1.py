@@ -1,5 +1,5 @@
 #-----------------------------------------------------------------------------
-# Name:        Debugging and Logging (debugging_ex1.py)
+# Name:        Logging (logging_ex1.py)
 # Purpose:     To provide examples of how to debug and log information in 
 #              Python programs.
 #
