@@ -14,7 +14,7 @@
 # These two lines are necessary to import the logging module
 import logging
 logging.basicConfig(filename='log_ex4.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
-logging.disable(logging.CRITICAL)
+logging.disable(logging.DEBUG)
 
 logging.debug('Start of program')
 
