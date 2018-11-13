@@ -1,6 +1,6 @@
 # Notes (Tuples)
 
-A tuple is a variable that is **similar** in structure to a list; however, with three distinct differences.
+A tuple is a variable that is **similar** in structure to a list; however, with two distinct differences.
 1. They are immutable (cannot be changed once made)
 2. They are _heterogeneous_ in nature (treated as a single unit)
 
