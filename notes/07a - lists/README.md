@@ -16,7 +16,17 @@ print(numbers)
 >>> [5, 3, 2, 4, 1, 6, 8, 10]
 ```
 
-A list is structured using square brackets, and each item is held within it separated by commas.  We can access the information inside a list in multiple ways.
+A list is structured using square brackets, and each item is held within it separated by commas.  The data is stored in such a way that you can access the information by either **index** or  retrieving the **element** directly.  A visual way that a list is stored could be as follows (using our ```fruit``` example above):
+
+| | | | | |
+|-|-|-|-|-|
+| **index** | 0 | 1 | 2 | 3 | 4 |
+| **element** | 'apple' | 'pear' | 'peach' | 'banana' | 'pineapple' |   
+
+
+
+
+We can access the information inside a list in multiple ways.
 
 ```python
 fruit = ['apple', 'pear', 'peach', 'banana', 'pineapple']
