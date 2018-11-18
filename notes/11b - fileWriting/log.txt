@@ -1,0 +1,30 @@
+ 2018-11-18 15:28:32,556 - DEBUG - Program beginning
+ 2018-11-18 15:28:32,556 - DEBUG - Attempting: Reading in fruit.txt
+ 2018-11-18 15:28:32,556 - DEBUG - Pass: Reading in fruit.txt
+ 2018-11-18 15:28:32,584 - DEBUG - Attempting: Converting information to a dictionary
+ 2018-11-18 15:28:32,584 - DEBUG - Starting convertToDictionary function - passed in a list
+ 2018-11-18 15:28:32,584 - DEBUG - Attempting to create a dictionary from key:value pairs
+ 2018-11-18 15:28:32,584 - DEBUG - Attempting with: apple:10
+ 2018-11-18 15:28:32,584 - DEBUG - Attempting to convert 10 to an integer
+ 2018-11-18 15:28:32,584 - DEBUG - Attempting to insert the key: apple :with value: 10 :into a dictionary entry
+ 2018-11-18 15:28:32,584 - DEBUG - Attempting with: pear:20
+ 2018-11-18 15:28:32,584 - DEBUG - Attempting to convert 20 to an integer
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting to insert the key: pear :with value: 20 :into a dictionary entry
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting with: peach:5
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting to convert 5 to an integer
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting to insert the key: peach :with value: 5 :into a dictionary entry
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting with: banana:6
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting to convert 6 to an integer
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting to insert the key: banana :with value: 6 :into a dictionary entry
+ 2018-11-18 15:28:32,585 - DEBUG - Attempting with: pineapple:2
+ 2018-11-18 15:28:32,586 - DEBUG - Attempting to convert 2 to an integer
+ 2018-11-18 15:28:32,586 - DEBUG - Attempting to insert the key: pineapple :with value: 2 :into a dictionary entry
+ 2018-11-18 15:28:32,586 - DEBUG - Ending convertToDictionary - dictionary ready to be passed back
+ 2018-11-18 15:28:32,586 - DEBUG - Pass: Converting information to a dictionary
+ 2018-11-18 15:28:32,590 - DEBUG - Converting all values to zero
+ 2018-11-18 15:28:32,590 - DEBUG - Building output string from dictionary
+ 2018-11-18 15:28:32,590 - DEBUG - Starting convertDictionaryToString function
+ 2018-11-18 15:28:32,590 - DEBUG - convertDictionaryToString function completed.  Returning string
+ 2018-11-18 15:28:32,595 - DEBUG - Attempting: writing to output.txt
+ 2018-11-18 15:28:32,597 - DEBUG - Pass: writing to output.txt
+ 2018-11-18 15:28:32,597 - DEBUG - Program ended
