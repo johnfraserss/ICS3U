@@ -1,0 +1,5 @@
+apple:10
+pear:20
+peach:5
+banana:6
+pineapple:24
