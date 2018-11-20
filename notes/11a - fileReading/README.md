@@ -8,5 +8,7 @@ fileContents = file.readlines()
 file.close()
 ```
 
+Note the use of the ```'r'```.  This is used to denote to ```open()``` that we are going to **read** from the file.
+
 ### Examples
 See the ```fileReading.py``` example above.
