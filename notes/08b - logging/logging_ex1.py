@@ -5,13 +5,13 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     11-Nov-2018
+# Updated:     26-Nov-2018
 #-----------------------------------------------------------------------------
 
 # These two lines are necessary to import the logging module
 import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
-logging.debug('Start of program')
+logging.info('Start of program')
 
 def hypotenuse(sideA, sideB):
     '''
@@ -40,20 +40,21 @@ def hypotenuse(sideA, sideB):
     
     hypotenuseValue = cSquare**0.5 	# takes the square root
     logging.debug('hypotenuseValue == ' + str(hypotenuseValue))
-    
+    logging.info('End of function')
     return float(hypotenuseValue)
 
 
 hyp = hypotenuse(3,4)
 assert isinstance(hyp, float), 'Expecting a float'
-logging.debug('End of program')
+logging.info('End of program')
 
 '''
  This is what the output of the program was after running.
 
- 2018-11-11 12:40:28,031 - DEBUG - Start of program
+ 2018-11-11 12:40:28,031 - INFO - Start of program
  2018-11-11 12:40:28,044 - DEBUG - Starting hypotenuse with values 3 and 4
  2018-11-11 12:40:28,049 - DEBUG - cSquared == 25
  2018-11-11 12:40:28,054 - DEBUG - hypotenuseValue == 5.0
- 2018-11-11 12:40:28,059 - DEBUG - End of program
+ 2018-11-11 12:40:28,054 - INFO - End of function
+ 2018-11-11 12:40:28,059 - INFO - End of program
 '''
