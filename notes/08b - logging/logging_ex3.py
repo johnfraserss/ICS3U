@@ -7,7 +7,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     11-Nov-2018
+# Updated:     26-Nov-2018
 #-----------------------------------------------------------------------------
 
 # These two lines are necessary to import the logging module
@@ -15,7 +15,7 @@ import logging
 logging.basicConfig(filename='log_ex3.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
 
-logging.debug('Start of program')
+logging.info('Start of program')
 
 def multiply(numbers):
     '''
@@ -31,7 +31,7 @@ def multiply(numbers):
     float
         The final value of the multiplication
     '''
-    logging.debug ('Starting multiply function')
+    logging.info ('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
     assert isinstance(numbers, list), 'Expecting a list'
@@ -52,14 +52,15 @@ def multiply(numbers):
     assert isinstance(total, float), 'Expecting a float'
 
     logging.debug('Final value of total is ' + str(total))
+    logging.info('End of function')
     return total
     
 
 nums = [1, 2, 3, 4, 5, 6, 20, 8]
 product = multiply(nums)
 assert isinstance(product, float), 'Expecting a float'
-logging.debug('End of program')
+logging.info('End of program')
 
 '''
- The output of this exercise goes to the debug_ex3.txt file
+ The output of this exercise goes to the log_ex3.txt file
 '''
