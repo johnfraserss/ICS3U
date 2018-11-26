@@ -5,14 +5,14 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     11-Nov-2018
+# Updated:     26-Nov-2018
 #-----------------------------------------------------------------------------
 
 # These two lines are necessary to import the logging module
 import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
-logging.debug('Start of program')
+logging.info('Start of program')
 
 def multiply(numbers):
     '''
@@ -28,7 +28,7 @@ def multiply(numbers):
     float
         The final value of the multiplication
     '''
-    logging.debug ('Starting multiply function')
+    logging.info ('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
     assert isinstance(numbers, list), 'Expecting a list'
@@ -49,6 +49,7 @@ def multiply(numbers):
     assert isinstance(total, float), 'Expecting a float'
 
     logging.debug('Final value of total is ' + str(total))
+    logging.info('End of function')
     return total
     
 
@@ -56,13 +57,13 @@ nums = [1, 2, 3, 4, 5, 6, '7', 8]  # This is an intentional error to check out a
                                    # and how the debugging window can help us narrow down the error quickly
 product = multiply(nums)
 assert isinstance(product, float), 'Expecting a float'
-logging.debug('End of program')
+logging.info('End of program')
 
 '''
  Below is the output from having one of the numbers be a string
 
- 2018-11-11 12:53:33,460 - DEBUG - Start of program
- 2018-11-11 12:53:33,472 - DEBUG - Starting multiply function
+ 2018-11-11 12:53:33,460 - INFO - Start of program
+ 2018-11-11 12:53:33,472 - INFO - Starting multiply function
  2018-11-11 12:53:33,477 - DEBUG - Ensuring input is a list
  2018-11-11 12:53:33,482 - DEBUG - Ensuring each item in the list is an int or float
  2018-11-11 12:53:33,487 - DEBUG - Checking 1 is an int or a float
