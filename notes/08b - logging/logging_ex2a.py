@@ -5,7 +5,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     11-Nov-2018
+# Updated:     26-Nov-2018
 #-----------------------------------------------------------------------------
 
 # These two lines are necessary to import the logging module
@@ -13,7 +13,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
 
-logging.debug('Start of program')
+logging.info('Start of program')
 
 def multiply(numbers):
     '''
@@ -29,7 +29,7 @@ def multiply(numbers):
     float
         The final value of the multiplication
     '''
-    logging.debug ('Starting multiply function')
+    logging.info ('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
     assert isinstance(numbers, list), 'Expecting a list'
@@ -50,19 +50,20 @@ def multiply(numbers):
     assert isinstance(total, float), 'Expecting a float'
 
     logging.debug('Final value of total is ' + str(total))
+    logging.info('End of program')
     return total
     
 
 nums = [1, 2, 3, 4, 5, 6, 7, 8]
 product = multiply(nums)
 assert isinstance(product, float), 'Expecting a float'
-logging.debug('End of program')
+logging.info('End of program')
 
 '''
  Below is the output from having total = 0.0 when it first is created (instead of a better value of 1.0)
 
- 2018-11-11 12:51:23,289 - DEBUG - Start of program
- 2018-11-11 12:51:23,301 - DEBUG - Starting multiply function
+ 2018-11-11 12:51:23,289 - INFO - Start of program
+ 2018-11-11 12:51:23,301 - INFO - Starting multiply function
  2018-11-11 12:51:23,306 - DEBUG - Ensuring input is a list
  2018-11-11 12:51:23,311 - DEBUG - Ensuring each item in the list is an int or float
  2018-11-11 12:51:23,316 - DEBUG - Checking 1 is an int or a float
@@ -92,5 +93,6 @@ logging.debug('End of program')
  2018-11-11 12:51:23,438 - DEBUG - Total's new value is 0.0
  2018-11-11 12:51:23,443 - DEBUG - Ensuring the final value is a float value
  2018-11-11 12:51:23,449 - DEBUG - Final value of total is 0.0
- 2018-11-11 12:51:23,454 - DEBUG - End of program
+ 2018-11-11 12:51:23,449 - INFO - End of function
+ 2018-11-11 12:51:23,454 - INFO - End of program
 '''
