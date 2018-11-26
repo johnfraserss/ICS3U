@@ -15,7 +15,7 @@
 import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
-logging.debug('Start of program')
+logging.info('Start of program')
 
 def multiply(numbers):
     '''
@@ -31,7 +31,7 @@ def multiply(numbers):
     float
         The final value of the multiplication
     '''
-    logging.debug ('Starting multiply function')
+    logging.info ('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
     assert isinstance(numbers, list), 'Expecting a float'
@@ -55,26 +55,28 @@ def multiply(numbers):
         logging.critical('Critical error!')
 
     logging.debug('Final value of total is ' + str(total))
+    logging.info('End function')
     return total
     
 
 nums = [1, 2, 3, 4, 5, 6, 20, 8]
 product = multiply(nums)
 assert isinstance(product, float), 'Expecting a float'
-logging.debug('End of program')
+logging.info('End of program')
 
 '''
  Note the usage of the logging.critical() function shows something slightly different
  in the output below.
 
- 2018-11-11 13:00:42,103 - DEBUG - Start of program
- 2018-11-11 13:00:42,115 - DEBUG - Starting multiply function
+ 2018-11-11 13:00:42,103 - INFO - Start of program
+ 2018-11-11 13:00:42,115 - INFO - Starting multiply function
  2018-11-11 13:00:42,120 - DEBUG - Ensuring input is a list
  2018-11-11 13:00:42,125 - DEBUG - Ensuring each item in the list is an int or float
  2018-11-11 13:00:42,131 - DEBUG - All values are numbers, starting to multiply them all
  2018-11-11 13:00:42,136 - DEBUG - Ensuring the final value is a float value
  2018-11-11 13:00:42,142 - CRITICAL - Critical error!
  2018-11-11 13:00:42,147 - DEBUG - Final value of total is 115200.0
- 2018-11-11 13:00:42,152 - DEBUG - End of program
+ 2018-11-11 13:00:42,152 - INFO - End of function
+ 2018-11-11 13:00:42,152 - INFO - End of program
  
 '''
