@@ -63,5 +63,5 @@ assert isinstance(product, float), 'Expecting a float'
 logging.info('End of program')
 
 '''
- The output of this exercise goes to the debug.txt file
+ The output of this exercise goes to the log_ex4.txt file
 '''
