@@ -1,5 +1,5 @@
- 2018-11-11 12:56:10,625 - DEBUG - Start of program
- 2018-11-11 12:56:10,625 - DEBUG - Starting multiply function
+ 2018-11-11 12:56:10,625 - INFO - Start of program
+ 2018-11-11 12:56:10,625 - INFO - Starting multiply function
  2018-11-11 12:56:10,625 - DEBUG - Ensuring input is a list
  2018-11-11 12:56:10,626 - DEBUG - Ensuring each item in the list is an int or float
  2018-11-11 12:56:10,626 - DEBUG - Checking 1 is an int or a float
@@ -29,4 +29,5 @@
  2018-11-11 12:56:10,632 - DEBUG - Total's new value is 115200.0
  2018-11-11 12:56:10,632 - DEBUG - Ensuring the final value is a float value
  2018-11-11 12:56:10,632 - DEBUG - Final value of total is 115200.0
- 2018-11-11 12:56:10,632 - DEBUG - End of program
+ 2018-11-11 12:56:10,632 - INFO - End of function
+ 2018-11-11 12:56:10,632 - INFO - End of program
