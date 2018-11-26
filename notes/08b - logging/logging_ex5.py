@@ -8,7 +8,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     11-Nov-2018
+# Updated:     26-Nov-2018
 #-----------------------------------------------------------------------------
 
 # These two lines are necessary to import the logging module
