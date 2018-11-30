@@ -56,6 +56,28 @@ print(fruit['peach'])  # access the value of the key 'peach' from the dictionary
 
 **IMPORTANT:**  Although it looks like a dictionary has order (like a list), it is important to know that a dictionary is actually **unordered**.  This means there is no way to sort the data, and there is **no guarantee** that the data will print out the same way every time.
 
+
+### Deleting Data 
+```python3
+
+fruit = {'apple' : 10, 'pear' : 4, 'peach' : 9, 'banana' : 24, 'pineapple' : 3}
+print(fruit)
+
+del fruit['apple']  # delete the key/value pair associated with the key 'apple'
+print(fruit)
+
+try:
+  del fruit['kiwi'] # this will raise a KeyError since there is no such key in the dictionary
+except KeyError as e:
+  print('The key you attempted to delete did not exist')
+  
+# Output from example
+{'apple': 10, 'pear': 4, 'peach': 9, 'banana': 24, 'pineapple': 3}
+{'pear': 4, 'peach': 9, 'banana': 24, 'pineapple': 3}
+The key you attempted to delete did not exist
+```
+
+
 ### Iteration
 
 Another example of how we can go through all of the options in a dictionary are below:
