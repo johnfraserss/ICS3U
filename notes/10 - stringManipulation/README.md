@@ -4,8 +4,8 @@ We've been working with strings since the first program of the year; however, we
 
 Strings themselves can be thought of as a list.  Let's take the word ```fruit = 'apple'``` as an example - it can be thought of as a list of it's individual characters as below
 
-| | | | | |
-|-|-|-|-|-|
+| | | | | | |
+|-|-|-|-|-|-|
 | **index of ```fruit```** | 0 | 1 | 2 | 3 | 4 |
 | **element of ```fruit```** | 'a' | 'p' | 'p' | 'l' | 'e' |
 
