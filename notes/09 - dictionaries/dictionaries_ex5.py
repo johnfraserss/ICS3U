@@ -15,4 +15,4 @@ fruitList = ['apple', 'pear', 'peach', 'banana', 'pineapple']
 
 for item in fruitList:
     if item in fruitDefinitions.keys():
-        print("The definition of a/an " + str(item) + " is: " + str(fruitDefinitions['pear']))
+        print("The definition of a/an " + str(item) + " is: " + str(fruitDefinitions[item]))
