@@ -18,6 +18,7 @@ def printEmployee(name, occupation, salary):
 	print('Name: ' + str(name))
 	print('Occupation: ' + str(occupation))
 	print('Salary: ' + str(salary))
+	return 
 
 printEmployee(salary=31000, name="January", occupation="Month") # note order
 printEmployee(name="February", occupation="Month", salary=28000) # note order
