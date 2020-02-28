@@ -63,5 +63,5 @@ As you'll notice, in the ```hypotenuse``` example, there is a mention of a ```lo
 There are **multiple other examples** given for this concept:
 * ```functions_ex1.py``` shows a basic function without any parameters or return values (the ```menu()``` function.
 * ```functions_ex2.py``` shows a function with required parameters and a return value (the ```hypotenuse()``` function.
-* ```functions_ex3.py``` shows a function with both required and optional parameters.
-* ```functions_ex4.py``` shows a function with required parameters, but being called in a different order.
+* ```functions_ex3.py``` shows a function with both required and optional parameters. (**needs updating**)
+* ```functions_ex4.py``` shows a function with required parameters, but being called in a different order. (**needs updating**)
