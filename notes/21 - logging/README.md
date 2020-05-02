@@ -40,9 +40,13 @@ def hypotenuse(sideA, sideB):
     -------
     float
         The hypotenuse value
+    NoneType
+        Returns None if the values entered were not numbers.
     '''
-    assert isinstance(sideA, (int, float)), 'Expecting an int or float'
-    assert isinstance(sideB, (int, float)), 'Expecting an int or float'
+    
+    if not isinstance(sideA, (int, float)) or not isinstance(sideB, (int, float)):
+        logging.error('The values entered into the hypotenuse function were not valid.')
+        return None
 
     logging.debug('Starting hypotenuse with values ' + str(sideA) + ' and ' + str(sideB))
 
