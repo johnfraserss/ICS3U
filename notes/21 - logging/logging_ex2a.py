@@ -28,15 +28,17 @@ def multiply(numbers):
     -------
     float
         The final value of the multiplication
+    NoneType
+        Returns None if the wrong datatype is given.
     '''
     logging.info ('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
-    assert isinstance(numbers, list), 'Expecting a list'
+    if not isinstance(numbers, list):
+        return None
     logging.debug('Ensuring each item in the list is an int or float')
     for item in numbers:
         logging.debug('Checking ' + str(item) + ' is an int or a float')
-        assert isinstance(item, (int, float)), 'Expecting an int or float'
 
     logging.debug('All values are numbers, starting to multiply them all')
 
@@ -47,7 +49,6 @@ def multiply(numbers):
         logging.debug("Total's new value is " + str(total))
 
     logging.debug('Ensuring the final value is a float value')
-    assert isinstance(total, float), 'Expecting a float'
 
     logging.debug('Final value of total is ' + str(total))
     logging.info('End of program')
@@ -56,7 +57,6 @@ def multiply(numbers):
 
 nums = [1, 2, 3, 4, 5, 6, 7, 8]
 product = multiply(nums)
-assert isinstance(product, float), 'Expecting a float'
 logging.info('End of program')
 
 '''
