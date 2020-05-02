@@ -5,12 +5,13 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     26-Nov-2018
+# Updated:     02-May-2020 (removed assertions, updated for NoneType)
 #-----------------------------------------------------------------------------
 
 # These two lines are necessary to import the logging module
 import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
+
 
 logging.info('Start of program')
 
@@ -27,26 +28,25 @@ def multiply(numbers):
     -------
     float
         The final value of the multiplication
+    NoneType
+        Returns None if the wrong datatype is given.
     '''
     logging.info ('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
-    assert isinstance(numbers, list), 'Expecting a list'
-    logging.debug('Ensuring each item in the list is an int or float')
+    if not isinstance(numbers, list):
+        return None
+    logging.debug("Outputting all items in the list to ensure they're ints or floats")
     for item in numbers:
         logging.debug('Checking ' + str(item) + ' is an int or a float')
-        assert isinstance(item, (int, float)), 'Expecting an int or float'
 
-    logging.debug('All values are numbers, starting to multiply them all')
+    logging.debug('Starting to multiply them all numbers')
 
     total = 1.0 
     for item in numbers:
         logging.debug('Total is ' + str(total) + ', now multiplying ' + str(item) + ' to the total.')
         total *= item
         logging.debug("Total's new value is " + str(total))
-
-    logging.debug('Ensuring the final value is a float value')
-    assert isinstance(total, float), 'Expecting a float'
 
     logging.debug('Final value of total is ' + str(total))
     logging.info('End of function')
@@ -56,27 +56,52 @@ def multiply(numbers):
 nums = [1, 2, 3, 4, 5, 6, '7', 8]  # This is an intentional error to check out assertions
                                    # and how the debugging window can help us narrow down the error quickly
 product = multiply(nums)
-assert isinstance(product, float), 'Expecting a float'
 logging.info('End of program')
 
 '''
  Below is the output from having one of the numbers be a string
 
- 2018-11-11 12:53:33,460 - INFO - Start of program
- 2018-11-11 12:53:33,472 - INFO - Starting multiply function
- 2018-11-11 12:53:33,477 - DEBUG - Ensuring input is a list
- 2018-11-11 12:53:33,482 - DEBUG - Ensuring each item in the list is an int or float
- 2018-11-11 12:53:33,487 - DEBUG - Checking 1 is an int or a float
- 2018-11-11 12:53:33,493 - DEBUG - Checking 2 is an int or a float
- 2018-11-11 12:53:33,498 - DEBUG - Checking 3 is an int or a float
- 2018-11-11 12:53:33,503 - DEBUG - Checking 4 is an int or a float
- 2018-11-11 12:53:33,508 - DEBUG - Checking 5 is an int or a float
- 2018-11-11 12:53:33,513 - DEBUG - Checking 6 is an int or a float
- 2018-11-11 12:53:33,518 - DEBUG - Checking 7 is an int or a float
+ 2020-05-02 23:12:11,882 - INFO - Start of program
+ 2020-05-02 23:12:11,882 - INFO - Starting multiply function
+ 2020-05-02 23:12:11,882 - DEBUG - Ensuring input is a list
+ 2020-05-02 23:12:11,882 - DEBUG - Outputting all items in the list to ensure they're ints or floats
+ 2020-05-02 23:12:11,882 - DEBUG - Checking 1 is an int or a float
+ 2020-05-02 23:12:11,883 - DEBUG - Checking 2 is an int or a float
+ 2020-05-02 23:12:11,883 - DEBUG - Checking 3 is an int or a float
+ 2020-05-02 23:12:11,883 - DEBUG - Checking 4 is an int or a float
+ 2020-05-02 23:12:11,883 - DEBUG - Checking 5 is an int or a float
+ 2020-05-02 23:12:11,883 - DEBUG - Checking 6 is an int or a float
+ 2020-05-02 23:12:11,883 - DEBUG - Checking 7 is an int or a float
+ 2020-05-02 23:13:12,960 - INFO - Start of program
+ 2020-05-02 23:13:12,960 - INFO - Starting multiply function
+ 2020-05-02 23:13:12,960 - DEBUG - Ensuring input is a list
+ 2020-05-02 23:13:12,963 - DEBUG - Outputting all items in the list to ensure they're ints or floats
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 1 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 2 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 3 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 4 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 5 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 6 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 7 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Checking 8 is an int or a float
+ 2020-05-02 23:13:12,964 - DEBUG - Starting to multiply them all numbers
+ 2020-05-02 23:13:12,965 - DEBUG - Total is 1.0, now multiplying 1 to the total.
+ 2020-05-02 23:13:12,965 - DEBUG - Total's new value is 1.0
+ 2020-05-02 23:13:12,965 - DEBUG - Total is 1.0, now multiplying 2 to the total.
+ 2020-05-02 23:13:12,965 - DEBUG - Total's new value is 2.0
+ 2020-05-02 23:13:12,967 - DEBUG - Total is 2.0, now multiplying 3 to the total.
+ 2020-05-02 23:13:12,968 - DEBUG - Total's new value is 6.0
+ 2020-05-02 23:13:12,968 - DEBUG - Total is 6.0, now multiplying 4 to the total.
+ 2020-05-02 23:13:12,968 - DEBUG - Total's new value is 24.0
+ 2020-05-02 23:13:12,968 - DEBUG - Total is 24.0, now multiplying 5 to the total.
+ 2020-05-02 23:13:12,968 - DEBUG - Total's new value is 120.0
+ 2020-05-02 23:13:12,968 - DEBUG - Total is 120.0, now multiplying 6 to the total.
+ 2020-05-02 23:13:12,968 - DEBUG - Total's new value is 720.0
+ 2020-05-02 23:13:12,968 - DEBUG - Total is 720.0, now multiplying 7 to the total.
 Traceback (most recent call last):
-  File "X:/P/GitHub/ICS3U/notes/08 - debugging/debugging_ex2b.py", line 57, in <module>
+  File "main.py", line 47, in <module>
     product = multiply(nums)
-  File "X:/P/GitHub/ICS3U/notes/08 - debugging/debugging_ex2b.py", line 39, in multiply
-    assert isinstance(item, (int, float))
-AssertionError
+  File "main.py", line 37, in multiply
+    total *= item
+TypeError: can't multiply sequence by non-int of type 'float'
 '''
