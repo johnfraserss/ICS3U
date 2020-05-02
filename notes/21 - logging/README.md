@@ -50,10 +50,10 @@ def hypotenuse(sideA, sideB):
 
     logging.debug('Starting hypotenuse with values ' + str(sideA) + ' and ' + str(sideB))
 
-    cSquare = sideA**2 + sideB**2	# local variable used to hold information
-    logging.debug('cSquared == ' + str(cSquare))
+    cSquared = sideA**2 + sideB**2	# local variable used to hold information
+    logging.debug('cSquared == ' + str(cSquared))
     
-    hypotenuseValue = cSquare**0.5 	# takes the square root
+    hypotenuseValue = cSquared**0.5 	# takes the square root
     logging.debug('hypotenuseValue == ' + str(hypotenuseValue))
     
     return float(hypotenuseValue)
