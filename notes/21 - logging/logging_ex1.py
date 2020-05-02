@@ -5,7 +5,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     26-Nov-2018
+# Updated:     02-May-2020 (updated NoneType)
 #-----------------------------------------------------------------------------
 
 # These two lines are necessary to import the logging module
@@ -29,9 +29,13 @@ def hypotenuse(sideA, sideB):
     -------
     float
         The hypotenuse value
+    NoneType
+        Returns None if the values entered were not numbers.
     '''
-    assert isinstance(sideA, (int, float)), 'Expecting an int or float'
-    assert isinstance(sideB, (int, float)), 'Expecting an int or float'
+    
+    if not isinstance(sideA, (int, float)) or not isinstance(sideB, (int, float)):
+        logging.error('The values entered into the hypotenuse function were not valid.')
+        return None
 
     logging.debug('Starting hypotenuse with values ' + str(sideA) + ' and ' + str(sideB))
 
@@ -45,7 +49,6 @@ def hypotenuse(sideA, sideB):
 
 
 hyp = hypotenuse(3,4)
-assert isinstance(hyp, float), 'Expecting a float'
 logging.info('End of program')
 
 '''
