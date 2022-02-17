@@ -89,7 +89,7 @@ One of the benefits of this is to remove duplicates from your lists or to see wh
 
 ### Other functions available
 
-See the `sets-functions.py` file for a functioning program that demonstrates a lot of other functions and options that are available for sets.
+See the `sets_functions.py` and other `sets_ex#.py` files for functioning programs that demonstrate many other functions and options that are available for sets.
 
 
 
