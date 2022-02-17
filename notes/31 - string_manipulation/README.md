@@ -22,10 +22,10 @@ There are special characters that you can place inside your strings to have acce
 | Escape Sequence | Meaning |
 | --------------- | ------- |
 |   \\    	| Backslash (\)	                 |
-|   \'	    | Single quote (')               |	 
-|   \"    	| Double quote (")	             | 
+|   \'	    | Single quote (')               |
+|   \"    	| Double quote (")	             |
 |   \n	    | ASCII Linefeed (LF)            |
 |   \r     	| ASCII Carriage Return (CR)	(needed for Linux/Mac along with \n)  |
 |   \t    	| ASCII Horizontal Tab (TAB) 	  |
 
-See the ```stringManipulation.py``` file above for some example uses of escape sequences.
+See the ```string_manipulation.py``` file above for some example uses of escape sequences.

@@ -21,7 +21,7 @@ A list is structured using square brackets, and each item is held within it sepa
 | | | | | |
 |-|-|-|-|-|
 | **index** | 0 | 1 | 2 | 3 | 4 |
-| **element** | 'apple' | 'pear' | 'peach' | 'banana' | 'pineapple' |   
+| **element** | 'apple' | 'pear' | 'peach' | 'banana' | 'pineapple' |
 
 
 
@@ -82,7 +82,7 @@ print(fruit)
 
 ### Functions available
 
-See the ```lists-functions.py``` file above for a functioning program that shows a lot of the functions and options that are available for lists.
+See the ```lists_functions.py``` file above for a functioning program that shows a lot of the functions and options that are available for lists.
 
 ### Converting a string into a list
 

@@ -18,7 +18,7 @@ The structure of a ```while``` loop is very similar to an ```if``` statement as 
 
 Another option that open up with a ```while``` loop is the ```else``` option, just like an ```if``` statement.  The ```else``` is what happens the moment the ```while``` loop becomes ```False```
 
-For more examples, check out ```loopingWhile.py``` file above.
+For more examples, check out ```looping_while.py``` file above.
 
 The while loop is used for when you are not sure exactly how many times you need to run through a loop, whereas the ```for``` loop is only run when you know how many times to loop. 
 
@@ -69,7 +69,7 @@ There are advanced uses of for loops.  These will be pointed out when we get to 
 
 Another option that open up with a ```while``` loop is the ```else``` option, just like an ```if``` statement.  The ```else``` is what happens the moment the ```while``` loop becomes ```False```
 
-For more examples, check out ```loopingFor.py``` file above.
+For more examples, check out ```looping_for.py``` file above.
 
 ## Loops in general
 
