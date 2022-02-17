@@ -1,7 +1,7 @@
 #-----------------------------------------------------------------------------
-# Name:        File Reading (fileReading.py)
-# Purpose:     To provide examples of how to read from files, parse the data,
-#              and make use of the data.
+# Name:        File Writing (fileWriting.py)
+# Purpose:     Building on the File Reading work, we are now going to change
+#              the data and output the new information to 'output.txt'
 #
 # Author:      Mr. Seidel
 # Created:     18-Nov-2018
@@ -71,22 +71,68 @@ def convertToDictionary(information):
     return formattedDictionary
 
 
+def convertDictionaryToString(dictionary):
+    '''
+    Converts the incoming dictionary information into a string for a file
+
+    Convert information that comes in as a dictionary into
+    a string that is formatted as 'key:value\n' per line
+
+    Parameters
+    ----------
+    dictionary : dict
+        A dictionary to convert into a single string for output
+
+    Returns
+    -------
+    dict
+        A dictionary based on the list of string information input
+
+    '''
+    assert isinstance(dictionary, dict), "Expecting input to be a dictionary"
+    logging.debug('Starting convertDictionaryToString function')
+    string = ''
+    for k, v in dictionary.items():
+        string = string + str(k) + ':' + str(v) + '\n'    # add a newline character at the end of each line
+
+    logging.debug('convertDictionaryToString function completed.  Returning string')
+    return string
+
+
 logging.debug('Program beginning')
-logging.debug('Reading in fruit.txt')
+logging.debug('Attempting: Reading in fruit.txt')
 file = open('fruit.txt', 'r')
 fileContents = file.readlines()
 file.close()
-logging.debug('Done reading in fruit.txt')
+logging.debug('Pass: Reading in fruit.txt')
 
 # Just printing out the contents of the file (note the extra spaces after each item in the output)
 for line in fileContents:
     print(line)
 
-logging.debug('Attempting to convert information to a dictionary')
+logging.debug('Attempting: Converting information to a dictionary')
 
 # Creating a dictionary of the file content
 fruits = convertToDictionary(fileContents)
+logging.debug('Pass: Converting information to a dictionary')
 
 print(fruits)
+
+logging.debug('Converting all values to zero')
+
+# Change the values of everything to be zero
+for fruit in fruits.keys():
+    fruits[fruit] = 0
+
+logging.debug('Building output string from dictionary')
+fruitString = convertDictionaryToString(fruits)
+print(fruitString) # 
+
+logging.debug('Attempting: writing to output.txt')
+with open('output.txt', 'w') as file:
+	file.write(fruitString)
+
+logging.debug('Pass: writing to output.txt')
+
 logging.debug('Program ended')
     
