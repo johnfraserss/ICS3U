@@ -1,3 +1,3 @@
-# Notes
+# Notes (Python)
 
-This section will contain notes about each of the topics listed above, as well as include any examples for each of them.
+This section will contain notes and examples about each of the topics listed above.
