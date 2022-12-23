@@ -1,58 +1,57 @@
-#-----------------------------------------------------------------------------
-# Name:        Some Basics (basics.py)
-# Purpose:     To provide a sample program about the basics of Python
-#
-# Author:      Mr. Seidel
-# Created:     14-Aug-2018
-# Updated:     28-Sep-2018
-#-----------------------------------------------------------------------------
+//This is required to get input from the user in the console (in Node.js).
+const readline = require('readline-sync');
 
-# Printing the addition of two integers
-print(str(1 + 2))
+/*
+  Name:        Some Basics (basics.js)
+  Purpose:     To provide a sample program about the basics of JavaScript
 
-# Printing of the subtraction of two floats
-print(str(4.3 - 2.1))
+  Author:      Mr. Seidel
+  Created:     14-Aug-2018
+  Updated:     28-Sep-2018
+*/
 
-# Boolean values
-right = True
-wrong = False
-print(str(right))
-print(str(wrong))
+// Printing the addition of two integers
+console.log(1 + 2);
 
-# Two integers to be used for the rest of the program.
-integerOne = 1
-integerTwo = 2
+// Printing of the subtraction of two floats
+console.log(4.3 - 2.1);
 
-# Two float values to be used for the rest of the program.
-floatOne = 3.14
-floatTwo = 5.3
+// Boolean values
+const right = true;
+const wrong = false;
+console.log(right);
+console.log(wrong);
 
-# Multiplying two float values.
-productOfFloats = floatOne * floatTwo
-print(str(productOfFloats))
+// Two integers to be used for the rest of the program.
+let integerOne = 1;
+let integerTwo = 2;
 
-# Division of two float values.
-quotientOfFloats = floatTwo / floatOne
-print(str(quotientOfFloats))
+// Two float values to be used for the rest of the program.
+let floatOne = 3.14;
+let floatTwo = 5.3;
 
-# Using integer division on two floats
-integerDivisionOfFloats = floatTwo // floatOne
-print(str(integerDivisionOfFloats))
+// Multiplying two float values.
+let productOfFloats = floatOne * floatTwo;
+console.log(productOfFloats);
 
-# Using the modulo operator
-moduloOfIntegers = 5 % 2
-print(str(moduloOfIntegers))
+// Division of two float values.
+let quotientOfFloats = floatTwo / floatOne;
+console.log(quotientOfFloats);
 
-# Converting between floats and integers
-print(str(int(floatOne)))
-print(str(float(integerOne)))
+// Using the modulo operator
+let moduloOfIntegers = 5 % 2;
+console.log(moduloOfIntegers);
 
-# Equation
-print(str(4 * 2 / 8))
+// Converting between floats and integers
+console.log(parseInt(floatOne));
+console.log(parseFloat(integerOne));
 
-# Getting input from the user using input('Question goes here')
-# Then formatting and printing back out the user input.
-name = input('Enter your name: ')  # Note: This asks the user to 'Enter your name: '.  Do NOT change this to your name directly
-age = input('Enter your age: ')
-print('Hello ' + str(name) + ', you are ' + str(age) + ' years old.')
+// Equation
+console.log(4 * 2 / 8);
+
+// Getting input from the user using readline.question('Question goes here')
+// Then formatting and printing back out the user input.
+let name = readline.question('Enter your name: ');  // Note: This asks the user to 'Enter your name: ' in the console.
+let age = readline.question('Enter your age: ');
+console.log('Hello ' + name + ', you are ' + age + ' years old.');
 
