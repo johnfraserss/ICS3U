@@ -7,7 +7,7 @@ const readline = require('readline-sync');
 
   Author:      Mr. Seidel
   Created:     14-Aug-2018
-  Updated:     28-Sep-2018
+  Updated:     23-Dec-2022
 */
 
 // Printing the addition of two integers
