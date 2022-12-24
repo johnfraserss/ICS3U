@@ -1,0 +1,74 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+* { /* this will format ALL elements */
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* this will format all <p> elements */
+p { 
+  color: black;
+}
+
+/* this will format the <p> element with id="#hypotenuseAnswer" */
+#hypotenuseAnswer {
+  text-align: center;
+  font-size: 40px;
+  background-color: skyblue;
+  color: black;
+  margin: auto;  
+  width: 50%;
+}
+
+/* this will format all <label> elements, and the item with id="#hypotenuseAnswer" */
+label { 
+  padding-right: 20px;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* this will format all <h3> elements */
+h3 { 
+  background: #000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
+
+/* this will format the <div> element with id="textboxes" */
+#textboxes {
+  text-align: center;
+  font-size: 10px;
+}
+
+/* this will format all <input> elements with type="text" */
+input[type=text] {
+  width: 10%;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 12px 10px;
+  margin 5px 15px;
+  /*box-sizing: border-box;*/
+}
+
+/* this will format the <div> element with id="calculateButton" */
+#calculateButton {
+  text-align: center; /* puts button in center */
+}
+
+/* this will format the <button> elements*/
+button {
+  background-color: black;
+  color: white;
+  width: 25%;
+  height: 40px;
+  font-size: 30px;
+  font-family: "Lucida Console", "Courier New", monospace; 
+}
+
+/* this will ONLY format the <p> element with id="sliderValue" and will override the generic <p> formatting above if there are duplicate entries */
+#sliderValue { 
+  
+}

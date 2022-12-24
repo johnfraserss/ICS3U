@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>ids and buttons example</title>
+</head>
+
+<body>
+  <script src="example.js"></script>
+  <!-- <script src="script.js"></script> -->
+  
+  <h1>Using Buttons and IDs</h1>
+
+  <!-- Button to activate the other button -->
+  <button type="button" id="activateKitchen" onclick="toggleButton('cookieCooker');toggleButton('activateKitchen');">Activate Kitchen</button>
+
+  <!-- Button to make more cookies -->
+  <button type="button" id="cookieCooker" disabled="true" onclick="makeCookie('cookieJarParagraph')">Bake more cookies!</button>
+
+  <!-- Location to make more cookies in -->
+  <p id="cookieJarParagraph"></p>
+
+  <!-- Someone running away from cookies -->
+  <p>Can't Catch Me!</p>
+
+</body>
+
+</html>
+
