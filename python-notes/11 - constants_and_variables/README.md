@@ -12,10 +12,11 @@ print('''Hello World!''')
 
 ### Printing numerical values
 
-When printing out numerical values, you will want to wrap the text with a ```str()``` function.  The reason being that you might want to include strings in your  output along with the number(s) so that it is easier to understand what the number is printing out for (as in example 2 above)
+There are multiple ways to print out numerical values. There are a few examples below to help you out. 
 
 ```python
-print(str(5 + 10)) # example 1
+print(5 + 10) # default, no string values connected.
+print('The value of x is: ', (5+10))  # example 1
 print('The value of x is: ' + str(5.5))  # example 2
 ```
 
@@ -40,7 +41,17 @@ greeting = 'Hello'
 print(greeting)
 ```
 
-When printing out variables, you will want to wrap the text with a ```str()``` function if you know that the values might be numeric.  If you know they are strings you can print out the information directly to the ```print()``` function.
+When printing out variables, there are a few options for how to print this out. Similarly to the numerical values information above, there are a few examples below.
+
+```python
+integerOne = 15
+integerTwo = 22
+
+print(integerOne) # default, no string values connected.
+print('Our first integer value is', integerOne, 'units.')  # example 1 comma separated
+print(f'Our second integer value is {integerTwo} units.')  # example 2 using f-strings
+print('Our first integer value is ' + str(integerOne) + ' units.')  # example 3 using the str() function
+```
 
 
 ### Mathematical Operations
@@ -71,10 +82,10 @@ You can convert between different data types by using functions such as:
 
 ```python
 integerConversion = int(5.5)
-print(str(integerConversion))
+print(integerConversion)
 
 floatConversion = float(2)
-print(str(floatConversion))
+print(floatConversion)
 ```
 
 ### Receiving input from the user
