@@ -1,91 +1,97 @@
 # Notes (Sets)
 
-Sets are yet another collection data structure that we will be learning about this semester.  Other data structures we have learned are lists, tuples, and dictionaries.
+A set is a collection data structure in Python with these key characteristics:
+1. Sets are unordered (items have no specific position)
+2. Sets are unindexed (you can't access items by position)
+3. Sets contain only unique elements (no duplicates)
+4. Sets are mutable (you can add or remove items, but can't change individual items)
 
-A set is a single variable that holds more than one piece of information (like a list). However, a set is **unordered**, **unindexed**, and the items inside cannot be changed. You can add things to a list, or remove things from a list, but you cannot change something specifically.
+## Creating Sets
 
-One of the main features of a set is that **there are no repeat values in a set**.
-
-
-
-```python
-fruit = {'apple', 'pear', 'peach', 'banana', 'pineapple'}
-
-print(fruit)
-
-# Example output
->>> {'apple', 'pineapple', 'pear', 'peach', 'banana'}
-
-# When run again, you can get this output
->>> {'banana', 'pear', 'peach', 'pineapple', 'apple'}
-```
-
-As you can see from the sample output above, the order of the items in the set are not always the same. So, unlike a list we cannot access a specific item using an index, and unlike a dictionary we cannot access a specific item using a key.  Since we cannot access a particular item, we cannot explicitly change it.
-
-### Adding and Removing Data
-
-Here are some examples of adding and removing data from a set
+You can create a set by enclosing elements in curly braces:
 
 ```python
-fruit = {'apple', 'pear', 'peach', 'banana', 'pineapple'}
-print(fruit)
-
-fruit.remove('apple')
-print(fruit)
-
-fruit.add('cranberry')
-print(fruit)
-
-try:
-  fruit.remove('kiwi') # this will raise a KeyError since there is no such key in the set
-except KeyError as e:
-  print(f'The key: {e} you attempted to delete did not exist in this set.')
-
-# Output from example
-{'banana', 'apple', 'pear', 'peach', 'pineapple'}
-{'banana', 'peach', 'pear', 'pineapple'}
-{'banana', 'cranberry', 'peach', 'pear', 'pineapple'}
-The key: 'kiwi' you attempted to delete did not exist in this set.
+fruit_basket = {'apple', 'pear', 'peach', 'banana', 'pineapple'}
 ```
 
+## Accessing Set Elements
 
-
-### Iteration
-
-To iterate through a set, we have to grab each item individually as we cannot locate any specific item by its index
+Since sets are unordered and unindexed, you can't access individual elements directly. Instead, you can check if an item is in the set:
 
 ```python
-fruits = {'apple', 'pear', 'peach', 'banana', 'pineapple'}
-
-for fruit in fruits:
-  print(fruit)
-
-# Output from example above
-{'peach', 'pineapple', 'apple', 'pear', 'banana'}
-peach
-pineapple
-apple
-pear
-banana
+print('apple' in fruit_basket)  # Prints True
+print('kiwi' in fruit_basket)   # Prints False
 ```
 
-### Converting strings and lists into sets
+## Adding and Removing Elements
+
+You can add and remove elements from a set:
 
 ```python
-sentence = 'Hello world!'
-sentence_set = set(sentence)
-print(sentence_set)
-
-fruits = ['apple', 'pear', 'apple', 'banana', 'apple']
-fruits_set = set(fruits)
-print(fruits_set)
-
-# Output from example above
-{'e', 'H', ' ', 'w', 'o', '!', 'd', 'l', 'r'}
-{'banana', 'pear', 'apple'}
+fruit_basket.add('mango')
+fruit_basket.remove('pear')
+fruit_basket.discard('kiwi')  # Doesn't raise an error if 'kiwi' isn't in the set
 ```
 
-One of the benefits of this is to remove duplicates from your lists or to see which unique letters exist in a string.
+## Set Operations
+
+Sets support various operations:
+
+```python
+citrus = {'lemon', 'lime', 'orange'}
+tropical = {'pineapple', 'mango', 'banana'}
+
+# Union
+all_fruits = fruit_basket.union(citrus, tropical)
+
+# Intersection
+common_fruits = fruit_basket.intersection(tropical)
+
+# Difference
+non_citrus = fruit_basket.difference(citrus)
+
+# Symmetric Difference
+unique_to_either = fruit_basket.symmetric_difference(tropical)
+```
+
+## Set Methods
+
+Sets have several useful methods:
+
+```python
+fruit_basket = {'apple', 'pear', 'peach', 'banana', 'pineapple'}
+print(len(fruit_basket))  # Prints the number of unique fruits
+
+fruit_basket.clear()  # Removes all items from the set
+```
+
+## Converting Other Types to Sets
+
+You can convert strings and lists to sets:
+
+```python
+fruit_name = "banana"
+fruit_set = set(fruit_name)
+print(fruit_set)  # Prints {'b', 'a', 'n'}
+
+fruit_list = ['apple', 'pear', 'apple', 'peach', 'pear']
+unique_fruits = set(fruit_list)
+print(unique_fruits)  # Prints {'apple', 'pear', 'peach'}
+```
+
+## Sets vs Lists
+
+While lists and sets may seem similar, they have different use cases:
+
+```python
+# List: Used when order matters and duplicates are allowed
+fruit_order = ['apple', 'banana', 'apple', 'pear']
+
+# Set: Used when you only need unique items and order doesn't matter
+unique_fruits = {'apple', 'banana', 'pear'}
+```
+
+Sets are particularly useful for removing duplicates from a collection and for membership testing (checking if an item exists in the collection).
 
 ### Other functions available
 
