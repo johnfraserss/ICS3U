@@ -16,7 +16,7 @@ print(numbers)
 print()
 
 
-# Adding an element to the end of the list
+# Adding an element at the end of the list
 fruit.append('cranberry')
 numbers.append(1)
 
