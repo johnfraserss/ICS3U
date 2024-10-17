@@ -17,7 +17,7 @@ You can create a tuple by enclosing elements in parentheses:
 
 ```python
 # Creating a tuple of a person's information
-person_info = ("First Last", 30, "Software Engineer")
+person_info = ('First Last', 30, 'Software Engineer')
 ```
 
 ## Accessing Tuple Elements
@@ -34,9 +34,9 @@ print(person_info[-1])  # Prints the job title
 Tuples can be unpacked into individual variables:
 
 ```python
-book_info = ("Macbeth", "William Shakespeare", 1623)
+book_info = ('Macbeth', 'William Shakespeare', 1623)
 title, author, year = book_info
-print(f"{title} was written by {author} in {year}.")
+print(f'{title} was written by {author} in {year}.')
 ```
 
 ## Tuples in Lists
@@ -45,9 +45,9 @@ You can create lists of tuples, which is often useful for structured data:
 
 ```python
 employees = [
-    ("Amina", "HR", 5),
-    ("Jamal", "Engineering", 3),
-    ("Priya", "Marketing", 2)
+    ('Amina', 'HR', 5),
+    ('Jamal', 'Engineering', 3),
+    ('Priya', 'Marketing', 2)
 ]
 ```
 
@@ -77,12 +77,12 @@ While tuples and lists may seem similar, they have different use cases:
 
 ```python
 # List: Used for collections of similar items that might change
-favorite_fruits = ["apple", "banana", "cherry"]
-favorite_fruits.append("date")  # This is allowed
+favorite_fruits = ['apple', 'banana', 'cherry']
+favorite_fruits.append('date')  # This is allowed
 
 # Tuple: Used for collections of related, but possibly different, items that shouldn't change
-fruit_info = ("apple", 52, "red")  # (name, calories, color)
-# fruit_info.append("sweet") would raise an error
+fruit_info = ('apple', 52, 'red')  # (name, calories, color)
+# fruit_info.append('sweet') would raise an error
 ```
 
 ### Functions available
