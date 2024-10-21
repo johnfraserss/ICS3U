@@ -20,11 +20,8 @@ print(fruits)
 fruits.add('cranberry')
 print(fruits)
 
-# Attempting to remove an item that is not in the set
-try:
-  fruits.remove('kiwi') # this will raise a KeyError since there is no such key in the set
-except KeyError as e:
-  print(f'The key: {e} you attempted to delete did not exist in this set.')
+# Remove an item
+fruits.discard('kiwi')
 
 # Clearing out the fruits set
 fruits.clear()
