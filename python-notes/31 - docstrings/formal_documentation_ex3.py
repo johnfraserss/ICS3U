@@ -28,8 +28,8 @@ def printPerson(name, age=0):
   None
   '''
 
-  print('Name: ' + str(name))
-  print('Age: ' + str(age))
+  print(f'Name: {name}')
+  print(f'Age: {age}')
   return
 
 # Program runs starting here.  Above this line, the functions are just defined.
