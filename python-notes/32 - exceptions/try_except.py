@@ -4,7 +4,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     11-Nov-2018
-# Updated:     11-Nov-2018
+# Updated:     24-Nov-2024 (updated to f-strings to match class notes)
 #-----------------------------------------------------------------------------
 
 def convertCToF(temperature):
@@ -45,7 +45,7 @@ try:
     print(convertCToF("hi"))
     print(convertCToF(200))
 except (TypeError, ValueError) as e:
-    print('Something went wrong: ' + str(e))
+    print(f'Something went wrong: {e}')
 except Exception as e:
-    print('Something went wrong: ' + str(e))
+    print(f'Something went wrong: {e}')
 
