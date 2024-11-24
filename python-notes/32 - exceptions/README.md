@@ -27,7 +27,7 @@ print(isinstance(words, (str, int)))          # True
 print(isinstance(number_int, int))            # True
 print(isinstance(number_int, (int, float)))   # True
 print(isinstance(number_int, float))          # False
-print(isinstance(number_float, int))          # True 
+print(isinstance(number_float, int))          # False
 print(isinstance(number_float, (int, float))) # True
 print(isinstance(number_float, float))        # True
 ```
