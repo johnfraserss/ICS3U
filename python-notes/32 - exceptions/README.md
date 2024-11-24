@@ -10,11 +10,35 @@ The new keywords we are going to be using today are:
 * ```except```
 * ```Exception()``` (and multiple derivatives thereof).
 
+Before we get into raising exceptions, we will need to learn about a new function to help us out: `isinstance()`.
+
+### isinstance(value_to_check, (tuple_of_values_to_compare))
+
+The `isinstance()` function will take in two items, the first is the value we are going to be comparing, and the second is either a single value or a tuple of values to compare with.
+
+```python3
+words = 'Hello, everyone!'
+number_int = 5
+number_float = 5.1
+
+print(isinstance(words, str))                 # True
+print(isinstance(words, int))                 # False
+print(isinstance(words, (str, int)))          # True
+print(isinstance(number_int, int))            # True
+print(isinstance(number_int, (int, float)))   # True
+print(isinstance(number_int, float))          # False
+print(isinstance(number_float, int))          # True 
+print(isinstance(number_float, (int, float))) # True
+print(isinstance(number_float, float))        # True
+```
+
+Whenever `isinstance()` is checking a tuple, it is looking to see if one of the options is true (similar to an `or` operator for if statements/while loops.
+
 ### Raising Exceptions
 
 If we take a look at the functions that you were asked to build in *Exercise 6* you will notice that we have multiple return value types (integers if the input was given correct, and strings if it wasn't).  We are going to be making changes to these functions in order to fall in line with Python convention.  Every function should only have **one return value _type_** no matter what is going on in the function.
 
-Let's take a look at what we **were** doing as of *Exercise 6* (before documentation and assertions):
+Let's take a look at what we **were** in one of the functions in the `Functions` labs:
 
 ```python3
 def convertCToF(temperature):
@@ -31,7 +55,7 @@ print(convertCToF(200))
 Unacceptable input values.
 ```
 
-Let's get this caught up to at least include documentation and assertions:
+Let's get this caught up to at least include documentation:
 ```python3
 def convertCToF(temperature):
 	'''Converts the given temperature from Celsius into Fahrenheit
@@ -48,13 +72,11 @@ def convertCToF(temperature):
 	str
 		If the values are incorrect, it will return the string 'Unacceptable input values.'
 	'''
-	assert isinstance(temperature, (int, float)), 'Expecting an int or float'  # ensure we have a number to work with
 	if temperature < -100 or temperature > 100:
 		return 'Unacceptable input values.'
 	
 	fahrenheit = (temperature * 1.8) + 32
 	
-	assert isinstance(fahrenheit, float), 'Expecting a float' # ensure that we have a float being returned
 	return fahrenheit
 
 print(convertCToF(100))
@@ -65,7 +87,7 @@ print(convertCToF(200))
 Unacceptable input values.
 ```
 
-Now that we have documentation and assertions in place, let's take a look at what needs to be changed.  There are multiple things to change:
+Now that we have documentation in place, let's take a look at what needs to be changed.  There are multiple things to change:
 1. Under the ```Returns``` section in the documentation, we want there to be only one type being returned (a float).
 2. Ensure we return only a float in the actual code (not the documentation)
 3. Ensure the ```temperature``` value is an ```int``` or ```float``` as it is coming into the function
