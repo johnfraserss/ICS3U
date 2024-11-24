@@ -5,7 +5,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     22-Aug-2018
-# Updated:     04-Nov-2018 (fixed spacing)
+# Updated:     24-Nov-2024 (updated to f-strings and quote-style)
 #-----------------------------------------------------------------------------
 
 def printEmployee(name, occupation, salary):
@@ -30,10 +30,10 @@ def printEmployee(name, occupation, salary):
   None
   '''
 	
-  print('Name: ' + str(name))
-  print('Occupation: ' + str(occupation))
-  print('Salary: ' + str(salary))
+  print(f'Name: {name}')
+  print(f'Occupation: {occupation}')
+  print(f'Salary: {salary}')
 
 # Program runs starting here.  Above this line, the functions are just defined.
-printEmployee(salary=31000, name="January", occupation="Month") # note order
-printEmployee(name="February", occupation="Month", salary=28000) # note order
+printEmployee(salary=31000, name='January', occupation='Month') # note order
+printEmployee(name='February', occupation='Month', salary=28000) # note order
