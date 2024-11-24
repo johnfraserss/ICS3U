@@ -5,7 +5,7 @@
 #
 # Author:      Mr. Seidel
 # Created:     22-Aug-2018
-# Updated:     04-Nov-2018 (fixed spacing)
+# Updated:     24-Nov-2024 (updated to f-strings)
 #-----------------------------------------------------------------------------
 
 def printPerson(name, age=0):
