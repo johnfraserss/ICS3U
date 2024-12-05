@@ -23,13 +23,13 @@ print(fruit.lower())
 # is____() functions
 for character in quote[0:10]:
     if character.isalpha():
-        print('\"' + character + '\" is part of the alphabet')
+        print('"' + character + '" is part of the alphabet')
     elif character.isdecimal():
-        print('\"' + character + '\" is a number')
+        print('"' + character + '" is a number')
     elif character.isspace():
-        print('\"' + character + '\" is a space!')
+        print('"' + character + '" is a space!')
     elif not character.isalnum():
-        print('\"' + character + '\" is not an alpha numeric character')
+        print('"' + character + '" is not an alpha numeric character')
 
 # startswith() and endswith()
 if sport.startswith('b'):
@@ -43,7 +43,7 @@ elif fruit.lower().endswith('e'):
 # splitting strings
 sport_characters = list(sport) # splits each character into a list
 quote_characters = quote.split(' ') # splits each word into a list
-quote_apostrophe_characters = quote.split("\'") # split on the ' character
+quote_apostrophe_characters = quote.split("'") # split on the ' character
 
 print(sport_characters)
 print() # prints a blank line
