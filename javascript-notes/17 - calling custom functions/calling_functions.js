@@ -11,14 +11,14 @@
 const readline = require('readline-sync');
 
 /**
- * Calculates the hypotenuse given sideA and sideB
+ * Calculates the hypotenuse given side_a and side_b
  *
  */
-function hypotenuse(sideA, sideB) {
-  if (isNaN(sideA) || isNaN(sideB)) {
+function hypotenuse(side_a, side_b) {
+  if (isNaN(side_a) || isNaN(side_b)) {
     return NaN;
   }
-  return Math.sqrt(sideA**2 + sideB**2);
+  return Math.sqrt(side_a**2 + side_b**2);
 }
 
 const a = readline.question("Enter side a of the triangle: ");

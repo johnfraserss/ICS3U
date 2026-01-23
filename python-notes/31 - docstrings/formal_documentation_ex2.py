@@ -8,16 +8,16 @@
 # Updated:     04-Nov-2018 (fixed spacing)
 #-----------------------------------------------------------------------------
 
-def hypotenuse(sideA, sideB):
+def hypotenuse(side_a, side_b):
   '''
   Calculates the hypotenuse and returns it to the sender based on
-  sideA and sideB given
+  side_a and side_b given
 	
   Parameters
   ----------
-  sideA : float
+  side_a : float
     One of the arms of the right angle of the triangle
-  sideB : float
+  side_b : float
     The other arm of the right angle of the triangle
 	
   Returns
@@ -26,9 +26,9 @@ def hypotenuse(sideA, sideB):
     The hypotenuse value
   '''
 
-  cSquare = sideA**2 + sideB**2	# local variable used to hold information
-  hypotenuseValue = cSquare**0.5 	# takes the square root
-  return float(hypotenuseValue)
+  c_square = side_a**2 + side_b**2	# local variable used to hold information
+  hypotenuse_value = c_square**0.5 	# takes the square root
+  return float(hypotenuse_value)
 
 # Program runs starting here.  Above this line, the functions are just defined.
 hyp = hypotenuse(3, 4)
