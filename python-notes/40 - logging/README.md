@@ -24,16 +24,16 @@ logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - 
 
 logging.debug('Start of program')
 
-def hypotenuse(sideA, sideB):
+def hypotenuse(side_a, side_b):
     '''
     Calculates the hypotenuse and returns it to the sender based on
-    sideA and sideB given
+    side_a and side_b given
                 
     Parameters
     ----------
-    sideA : float
+    side_a : float
         One of the arms of the right angle of the triangle
-    sideB : float
+    side_b : float
         The other arm of the right angle of the triangle
                 
     Returns
@@ -44,19 +44,19 @@ def hypotenuse(sideA, sideB):
         Returns None if the values entered were not numbers.
     '''
     
-    if not isinstance(sideA, (int, float)) or not isinstance(sideB, (int, float)):
+    if not isinstance(side_a, (int, float)) or not isinstance(side_b, (int, float)):
         logging.error('The values entered into the hypotenuse function were not valid.')
         return None
 
-    logging.debug('Starting hypotenuse with values ' + str(sideA) + ' and ' + str(sideB))
+    logging.debug('Starting hypotenuse with values ' + str(side_a) + ' and ' + str(side_b))
 
-    cSquared = sideA**2 + sideB**2	# local variable used to hold information
-    logging.debug('cSquared == ' + str(cSquared))
+    c_squared = side_a**2 + side_b**2	# local variable used to hold information
+    logging.debug('cSquared == ' + str(c_squared))
     
-    hypotenuseValue = cSquared**0.5 	# takes the square root
-    logging.debug('hypotenuseValue == ' + str(hypotenuseValue))
+    hypotenuse_value = c_squared**0.5 	# takes the square root
+    logging.debug('hypotenuseValue == ' + str(hypotenuse_value))
     
-    return float(hypotenuseValue)
+    return float(hypotenuse_value)
 
 
 hyp = hypotenuse(3,4)

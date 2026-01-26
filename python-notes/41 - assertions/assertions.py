@@ -8,15 +8,15 @@
 # Updated:     06-Sep-2018
 #-----------------------------------------------------------------------------
 
-def hypotenuse(sideA, sideB):
-    '''Calculates the hypotenuse and returns it to the sender based on
-       sideA and sideB given
+def hypotenuse(side_a, side_b):
+     '''Calculates the hypotenuse and returns it to the sender based on
+         side_a and side_b given
 
-    '''
+     '''
 
-    cSquare = sideA**2 + sideB**2	  # local variable used to hold information
-    hypotenuseValue = cSquare**0.5 	# takes the square root
-    return hypotenuseValue
+     c_square = side_a**2 + side_b**2	  # local variable used to hold information
+     hypotenuse_value = c_square**0.5 	# takes the square root
+     return hypotenuse_value
 
 # Check to make sure the function is working
 assert hypotenuse(3, 4) == 5, 'Expecting triangle with sides 3, 4 to have a hyp of 5'
@@ -28,14 +28,14 @@ assert hypotenuse(3, 4) == 5, 'Expecting triangle with sides 3, 4 to have a hyp 
 # Testing basic variable types using the 'isinstance(item, expected)' function.
 x = 3.5
 y = 2
-regularZ = x / y
-floorZ = int(x // y)
+regular_z = x / y
+floor_z = int(x // y)
 words = 'hello everyone!'
-testValue = True
+test_value = True
 
 assert isinstance(x, float), "Expecting float"
 assert isinstance(y, int), "Expecting integer"
-assert isinstance(regularZ, float), "Expecting float"
-assert isinstance(floorZ, int), "Expecting integer"
+assert isinstance(regular_z, float), "Expecting float"
+assert isinstance(floor_z, int), "Expecting integer"
 assert isinstance(words, str), "Expecting string"
-assert isinstance(testValue, bool), "Expecting boolean"
+assert isinstance(test_value, bool), "Expecting boolean"
