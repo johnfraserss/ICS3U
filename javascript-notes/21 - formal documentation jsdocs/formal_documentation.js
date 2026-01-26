@@ -9,17 +9,17 @@
 */
 
 /**
- * Calculates the hypotenuse given sideA and sideB
+ * Calculates the hypotenuse given side_a and side_b
  *
- * @param {number} sideA - the length of side A of a right angle triangle
- * @param {number} sideB - the length of side B of a right angle triangle
+ * @param {number} side_a - the length of side A of a right angle triangle
+ * @param {number} side_b - the length of side B of a right angle triangle
  *
  * @returns {number} the calculated value of the hypotenuse
  * 
  */
-function hypotenuse(sideA, sideB) {
-  if (isNaN(sideA) || isNaN(sideB)) {
+function hypotenuse(side_a, side_b) {
+  if (isNaN(side_a) || isNaN(side_b)) {
     return NaN;
   }
-  return Math.sqrt(sideA**2 + sideB**2);
+  return Math.sqrt(side_a**2 + side_b**2);
 }

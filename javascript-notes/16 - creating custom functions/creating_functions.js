@@ -11,9 +11,9 @@
  * Calculates the hypotenuse given sideA and sideB
  *
  */
-function hypotenuse(sideA, sideB) {
-  if (isNaN(sideA) || isNaN(sideB)) {
+function hypotenuse(side_a, side_b) {
+  if (isNaN(side_a) || isNaN(side_b)) {
     return NaN;
   }
-  return Math.sqrt(sideA**2 + sideB**2);
+  return Math.sqrt(side_a**2 + side_b**2);
 }
