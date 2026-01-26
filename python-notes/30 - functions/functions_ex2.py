@@ -11,15 +11,16 @@
 #-----------------------------------------------------------------------------
 
 # A function with two required parameters
-def hypotenuse(sideA, sideB):
+
+def hypotenuse(side_a, side_b):
 	'''
 	Calculates the hypotenuse and returns it to the sender based on
-	sideA and sideB given
+	side_a and side_b given
 	'''
 
-	cSquare = sideA**2 + sideB**2	# local variable used to hold information
-	hypotenuseValue = cSquare**0.5 	# takes the square root
-	return hypotenuseValue
+	c_square = side_a**2 + side_b**2	# local variable used to hold information
+	hypotenuse_value = c_square**0.5 	# takes the square root
+	return hypotenuse_value
 
 # Program runs starting here.  Above this line, the functions are just defined.
 hyp = hypotenuse(3, 4)

@@ -9,8 +9,8 @@
 #-----------------------------------------------------------------------------
 
 # (x,y) = 'color'
-colorsAtPoints = { (3,4) : 'red', (4,5) : 'green' }
+colors_at_points = { (3,4) : 'red', (4,5) : 'green' }
 
-print(colorsAtPoints.keys())
-print(colorsAtPoints.values())
-print(colorsAtPoints[(3,4)])
+print(colors_at_points.keys())
+print(colors_at_points.values())
+print(colors_at_points[(3,4)])

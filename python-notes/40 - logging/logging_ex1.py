@@ -13,7 +13,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 logging.info('Start of program')
 
-def hypotenuse(sideA, sideB):
+def hypotenuse(side_a, side_b):
     '''
     Calculates the hypotenuse and returns it to the sender based on
     sideA and sideB given
@@ -33,19 +33,19 @@ def hypotenuse(sideA, sideB):
         Returns None if the values entered were not numbers.
     '''
     
-    if not isinstance(sideA, (int, float)) or not isinstance(sideB, (int, float)):
+    if not isinstance(side_a, (int, float)) or not isinstance(side_b, (int, float)):
         logging.error('The values entered into the hypotenuse function were not valid.')
         return None
 
-    logging.debug('Starting hypotenuse with values ' + str(sideA) + ' and ' + str(sideB))
+    logging.debug('Starting hypotenuse with values ' + str(side_a) + ' and ' + str(side_b))
 
-    cSquare = sideA**2 + sideB**2	# local variable used to hold information
-    logging.debug('cSquared == ' + str(cSquare))
+    c_square = side_a**2 + side_b**2	# local variable used to hold information
+    logging.debug('cSquared == ' + str(c_square))
     
-    hypotenuseValue = cSquare**0.5 	# takes the square root
-    logging.debug('hypotenuseValue == ' + str(hypotenuseValue))
+    hypotenuse_value = c_square**0.5 	# takes the square root
+    logging.debug('hypotenuseValue == ' + str(hypotenuse_value))
     logging.info('End of function')
-    return float(hypotenuseValue)
+    return float(hypotenuse_value)
 
 
 hyp = hypotenuse(3,4)
