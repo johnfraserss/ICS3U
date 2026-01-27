@@ -11,6 +11,7 @@
 import logging
 logging.basicConfig(filename='log.txt', filemode='w', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
+
 def convertToDictionary(information):
     '''
     Converts the incoming file information into a dictionary
@@ -55,8 +56,8 @@ def convertToDictionary(information):
 
             logging.debug('Attempting to insert the key: ' + str(k) + ' :with value: ' + str(v) + ' :into a dictionary entry')
             formattedDictionary[k] = v
-        
-    except ValueError as e:
+
+    except ValueError:
         try:
             v = int(v)
         except:

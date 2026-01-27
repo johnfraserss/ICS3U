@@ -10,14 +10,15 @@
 
 # A function without any parameters
 def menu():
-	'''
-	Displays a basic menu of options
-	'''
+    '''
+    Displays a basic menu of options
+    '''
 
-	print('Menu')
-	print('Vegetables')
-	print('Fruit')
-	return
+    print('Menu')
+    print('Vegetables')
+    print('Fruit')
+    return
+
 
 # Program runs starting here.  Above this line, the functions are just defined.
-menu()	# Calls the function to run
+menu() 	# Calls the function to run

@@ -15,15 +15,16 @@ logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - 
 
 logging.info('Start of program')
 
+
 def multiply(numbers):
     '''
     Multiplies all the numbers given in the input list
-                
+
     Parameters
     ----------
     numbers : list of (int, float)
         All the numbers to multiply together
-    
+
     Returns
     -------
     float
@@ -32,7 +33,7 @@ def multiply(numbers):
         Returns None if the wrong datatype is given.
     '''
     logging.info ('Starting multiply function')
-    
+
     logging.debug('Ensuring input is a list')
     if not isinstance(numbers, list):
         return None
@@ -51,7 +52,7 @@ def multiply(numbers):
     logging.debug('Final value of total is ' + str(total))
     logging.info('End of function')
     return total
-    
+
 
 nums = [1, 2, 3, 4, 5, 6, '7', 8]  # This is an intentional error to check out assertions
                                    # and how the debugging window can help us narrow down the error quickly

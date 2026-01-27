@@ -9,14 +9,15 @@
 #-----------------------------------------------------------------------------
 
 def hypotenuse(side_a, side_b):
-     '''Calculates the hypotenuse and returns it to the sender based on
+    '''Calculates the hypotenuse and returns it to the sender based on
          side_a and side_b given
 
-     '''
+    '''
 
-     c_square = side_a**2 + side_b**2	  # local variable used to hold information
-     hypotenuse_value = c_square**0.5 	# takes the square root
-     return hypotenuse_value
+    c_square = side_a**2 + side_b**2	  # local variable used to hold information
+    hypotenuse_value = c_square**0.5 	# takes the square root
+    return hypotenuse_value
+
 
 # Check to make sure the function is working
 assert hypotenuse(3, 4) == 5, 'Expecting triangle with sides 3, 4 to have a hyp of 5'

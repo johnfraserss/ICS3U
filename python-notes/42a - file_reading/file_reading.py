@@ -11,6 +11,7 @@
 import logging
 logging.basicConfig(filename='log.txt', filemode='w', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
 
+
 def convertToDictionary(information):
     '''
     Converts the incoming file information into a dictionary
@@ -74,7 +75,7 @@ def convertToDictionary(information):
 logging.debug('Program beginning')
 logging.debug('Reading in fruit.txt')
 with open('fruit.txt', 'r') as file:
-	fileContents = file.readlines()
+    fileContents = file.readlines()
 
 logging.debug('Done reading in fruit.txt')
 
@@ -89,4 +90,3 @@ fruits = convertToDictionary(fileContents)
 
 print(fruits)
 logging.debug('Program ended')
-    

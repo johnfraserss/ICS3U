@@ -33,7 +33,7 @@ print(fruits)
 
 # Iteration
 for fruit in fruits:
-  print(fruit)
+    print(fruit)
 
 # Converting a string into a set
 sentence = 'Hello world!'
@@ -44,4 +44,3 @@ print(sentence_set)
 fruits = ['apple', 'pear', 'apple', 'banana', 'apple']
 fruits_set = set(fruits)
 print(fruits_set)
-

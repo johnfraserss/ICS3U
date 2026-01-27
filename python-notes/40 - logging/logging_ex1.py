@@ -11,20 +11,23 @@
 # These two lines are necessary to import the logging module
 import logging
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - %(message)s')
+
+
 logging.info('Start of program')
+
 
 def hypotenuse(side_a, side_b):
     '''
     Calculates the hypotenuse and returns it to the sender based on
     sideA and sideB given
-                
+
     Parameters
     ----------
     sideA : float
         One of the arms of the right angle of the triangle
     sideB : float
         The other arm of the right angle of the triangle
-                
+
     Returns
     -------
     float
@@ -32,7 +35,7 @@ def hypotenuse(side_a, side_b):
     NoneType
         Returns None if the values entered were not numbers.
     '''
-    
+
     if not isinstance(side_a, (int, float)) or not isinstance(side_b, (int, float)):
         logging.error('The values entered into the hypotenuse function were not valid.')
         return None
@@ -41,7 +44,7 @@ def hypotenuse(side_a, side_b):
 
     c_square = side_a**2 + side_b**2	# local variable used to hold information
     logging.debug('cSquared == ' + str(c_square))
-    
+
     hypotenuse_value = c_square**0.5 	# takes the square root
     logging.debug('hypotenuseValue == ' + str(hypotenuse_value))
     logging.info('End of function')

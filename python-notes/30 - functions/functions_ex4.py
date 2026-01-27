@@ -14,6 +14,7 @@ def greet(name, greeting='Hello'):
     '''A function that returns a personalized greeting.'''
     return f'{greeting}, {name}!'
 
+
 print(greet('Person1'))
 print(greet(greeting='Hi', name='Person2'))
 print(greet('Person3', 'Hey'))

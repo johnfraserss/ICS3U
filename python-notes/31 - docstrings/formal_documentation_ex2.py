@@ -9,26 +9,27 @@
 #-----------------------------------------------------------------------------
 
 def hypotenuse(side_a, side_b):
-  '''
-  Calculates the hypotenuse and returns it to the sender based on
-  side_a and side_b given
-	
-  Parameters
-  ----------
-  side_a : float
-    One of the arms of the right angle of the triangle
-  side_b : float
-    The other arm of the right angle of the triangle
-	
-  Returns
-  -------
-  float
-    The hypotenuse value
-  '''
+    '''
+    Calculates the hypotenuse and returns it to the sender based on
+    side_a and side_b given
+    
+    Parameters
+    ----------
+    side_a : float
+      One of the arms of the right angle of the triangle
+    side_b : float
+      The other arm of the right angle of the triangle
+    
+    Returns
+    -------
+    float
+      The hypotenuse value
+    '''
 
-  c_square = side_a**2 + side_b**2	# local variable used to hold information
-  hypotenuse_value = c_square**0.5 	# takes the square root
-  return float(hypotenuse_value)
+    c_square = side_a**2 + side_b**2	# local variable used to hold information
+    hypotenuse_value = c_square**0.5 	# takes the square root
+    return float(hypotenuse_value)
+
 
 # Program runs starting here.  Above this line, the functions are just defined.
 hyp = hypotenuse(3, 4)

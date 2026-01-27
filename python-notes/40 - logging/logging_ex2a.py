@@ -15,6 +15,7 @@ logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s - 
 
 logging.info('Start of program')
 
+
 def multiply(numbers):
     '''
     Multiplies all the numbers given in the input list
@@ -31,7 +32,7 @@ def multiply(numbers):
     NoneType
         Returns None if the wrong datatype is given.
     '''
-    logging.info ('Starting multiply function')
+    logging.info('Starting multiply function')
     
     logging.debug('Ensuring input is a list')
     if not isinstance(numbers, list):

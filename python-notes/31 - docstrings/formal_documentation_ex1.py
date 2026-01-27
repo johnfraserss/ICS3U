@@ -9,25 +9,26 @@
 #-----------------------------------------------------------------------------
 
 def menu():
-  '''
-  A menu of options
-	
-  This function will print out a list of food options
-  available for the user and then return to the caller
+    '''
+    A menu of options
+    
+    This function will print out a list of food options
+    available for the user and then return to the caller
 
-  Parameters
-  ----------
-  None
-	
-  Returns
-  -------
-  None
-  '''
+    Parameters
+    ----------
+    None
+    
+    Returns
+    -------
+    None
+    '''
 
-  print('Menu')
-  print('Vegetables')
-  print('Fruit')
-  return
+    print('Menu')
+    print('Vegetables')
+    print('Fruit')
+    return
+
 
 # Program runs starting here.  Above this line, the functions are just defined.
 menu()

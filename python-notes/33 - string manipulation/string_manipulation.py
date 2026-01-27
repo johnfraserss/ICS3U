@@ -46,11 +46,11 @@ quote_characters = quote.split(' ') # splits each word into a list
 quote_apostrophe_characters = quote.split("'") # split on the ' character
 
 print(sport_characters)
-print() # prints a blank line
+print()  # prints a blank line
 print(quote_characters)
-print() # prints a blank line
+print()  # prints a blank line
 print(quote_apostrophe_characters)
-print() # prints a blank line
+print()  # prints a blank line
 
 # newline and tab escape characters
 sentence_with_newline = 'What is \n\thappening\n\t\there?\n'
@@ -71,22 +71,22 @@ print(one_word_with_dots)
 string_with_many_spaces = '   Hi!   '
 string_with_many_spaces_as_list = list(string_with_many_spaces)
 print(string_with_many_spaces_as_list) # note all the extra spaces before and after the words
-print() # prints a blank line
+print()  # prints a blank line
 
 string_with_many_spaces_as_list_lstrip = list(string_with_many_spaces.lstrip()) # demonstrating lstrip()
 string_with_many_spaces_as_list_rstrip = list(string_with_many_spaces.rstrip()) # demonstrating rstrip()
 string_with_many_spaces_as_list_strip = list(string_with_many_spaces.strip())   # demonstrating strip()
 
 print(string_with_many_spaces_as_list_lstrip)
-print() # prints a blank line
+print()  # prints a blank line
 print(string_with_many_spaces_as_list_rstrip)
-print() # prints a blank line
+print()  # prints a blank line
 print(string_with_many_spaces_as_list_strip)
-print() # prints a blank line
+print()  # prints a blank line
 
 
 # using rjust(), ljust(), and center()
 print('hi'.rjust(5, '*'))  # Assumes 5 spaces for justification.  It will fill in right blanks with *s if your word doesn't fill the 5 spaces.
 print('lo'.ljust(5, '*'))  # Assumes 5 spaces for justification.  It will fill in left  blanks with *s if your word doesn't fill the 5 spaces.
-print('wow'.center(5, '*')) # Assumes 5 spaces for justification.  It will fill in surrounding blanks with *s if your word doesn't fill the 5 spaces.
-print('hello!'.center(5, '*')) # If the word is larger than the justification space, then there are no filler characters
+print('wow'.center(5, '*'))  # Assumes 5 spaces for justification.  It will fill in surrounding blanks with *s if your word doesn't fill the 5 spaces.
+print('hello!'.center(5, '*'))  # If the word is larger than the justification space, then there are no filler characters

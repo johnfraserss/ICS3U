@@ -20,8 +20,8 @@ listOfDates = [(2018, 10, 26), (2018, 10, 27)]
 print('Working with a list of tuples', listOfDates)
 
 for date in listOfDates:
-  year, month, day = date    
-  print(year)
-  print(month)
-  print(day)
-  print()
+    year, month, day = date
+    print(year)
+    print(month)
+    print(day)
+    print()
