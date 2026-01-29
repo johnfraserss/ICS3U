@@ -15,11 +15,11 @@
  * @param {number} sideB - the length of side B of a right angle triangle
  *
  * @returns {number} the calculated value of the hypotenuse
- * 
+ *
  */
 function hypotenuse(sideA, sideB) {
   if (isNaN(sideA) || isNaN(sideB)) {
     return NaN;
   }
-  return Math.sqrt(sideA**2 + sideB**2);
+  return Math.sqrt(sideA ** 2 + sideB ** 2);
 }

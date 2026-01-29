@@ -8,11 +8,11 @@
 */
 
 //This will round up the answer to finding the area of a circle with radius of 5
-let c = Math.ceil(Math.PI * 5**2);
+let c = Math.ceil(Math.PI * 5 ** 2);
 console.log(c);
 
 //This will round down the answer to finding the area of a circle with radius of 5
-let f = Math.floor(Math.PI * 5**2);
+let f = Math.floor(Math.PI * 5 ** 2);
 console.log(f);
 
 //Randomizing numbers from 0-10

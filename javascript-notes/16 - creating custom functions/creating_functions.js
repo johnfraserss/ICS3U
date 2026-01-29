@@ -15,5 +15,5 @@ function hypotenuse(sideA, sideB) {
   if (isNaN(sideA) || isNaN(sideB)) {
     return NaN;
   }
-  return Math.sqrt(sideA**2 + sideB**2);
+  return Math.sqrt(sideA ** 2 + sideB ** 2);
 }

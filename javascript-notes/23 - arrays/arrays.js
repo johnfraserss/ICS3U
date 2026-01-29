@@ -8,7 +8,7 @@
 */
 
 // Creating an array of fruit strings
-const fruits = ['apple', 'pear', 'peach', 'banana', 'pineapple']
+const fruits = ["apple", "pear", "peach", "banana", "pineapple"];
 
 // Printing out the fruit array (individually) using the indexing method
 for (let i = 0; i < fruits.length; i++) {
@@ -19,4 +19,3 @@ for (let i = 0; i < fruits.length; i++) {
 for (fruit of fruits) {
   console.log(fruit);
 }
-

@@ -9,13 +9,13 @@
 
 // We could create separate variables to store student names.
 // What if I want to search for a student? Delete one? etc
-const studentOne = 'Alvin';
-const studentTwo = 'Billy';
-const studentThree = 'Chris';
-const studentFour = 'David';
+const studentOne = "Alvin";
+const studentTwo = "Billy";
+const studentThree = "Chris";
+const studentFour = "David";
 
 // We can generate an array instead
-const studentArray = ['Alvin', 'Billy', 'Chris', 'David', 'Eric'];
+const studentArray = ["Alvin", "Billy", "Chris", "David", "Eric"];
 const emptyArray = []; // can add to this later!
 const integerArray = [10, 5, 8];
 const floatArray = [2.7, 8.1];
@@ -42,7 +42,7 @@ console.log(studentArray[-3]);
 
 // Slice - starting at first index, going UP TO NOT INCLUDING last index
 // Add a .reverse() want to go backwards or use a different pattern
-const partialStudentArray = studentArray.slice(-3,-1)
+const partialStudentArray = studentArray.slice(-3, -1);
 const reversedPartialStudentArray = partialStudentArray.reverse();
 console.log(reversedPartialStudentArray);
 console.log();
@@ -65,18 +65,17 @@ console.log(studentArray)
 // This method stores each element one at a time in a SEPARATE VARIABLE, and the original array is not affected.
 
 for (name of studentArray) {
-	name = name + '!';
-	console.log(name);
+  name = name + "!";
+  console.log(name);
 }
 
 console.log(studentArray);
-
 
 console.log();
 // There are numerous things we can do with an array - here
 // are some of the most important ones.
 
-const fruit = ['pineapple', 'apple', 'pear', '1peach', 'banana', '3pineapple',];
+const fruit = ["pineapple", "apple", "pear", "1peach", "banana", "3pineapple"];
 const numbers = [5, 3, 2, 7, 8, 10];
 
 // Append - adding to an array, where does it go? (to the end)
@@ -95,8 +94,8 @@ console.log();
 // Two methods to remove items.
 // The first method makes use of the index.
 
-fruit.splice(2,1);
-numbers.splice(-1,1);
+fruit.splice(2, 1);
+numbers.splice(-1, 1);
 
 console.log("After deleting:");
 console.log(fruit);
@@ -106,7 +105,7 @@ console.log();
 // This will remove an actual value.  Note that this
 // will only remove the first instance.
 
-fruit.splice(fruit.indexOf('pineapple'), 1);
+fruit.splice(fruit.indexOf("pineapple"), 1);
 
 console.log("After removing:");
 console.log(fruit);
@@ -116,7 +115,7 @@ console.log();
 fruit.sort(); // this sorts the array in lexicographical order
 numbers.sort(); // this sorts the array in ascending numerical order
 
-console.log('After sorting:');
+console.log("After sorting:");
 console.log(fruit);
 console.log(numbers);
 console.log();
@@ -125,7 +124,7 @@ console.log();
 // individual characters.
 
 const message = "Hello there";
-const chars = message.split('');
+const chars = message.split("");
 
 console.log("Showing a string variable, and then converting it to an array:");
 console.log(message);
@@ -135,24 +134,27 @@ console.log(chars[4]);
 
 // You can also turn an array into a string! (in the quotes is the separator if you want)
 console.log("Joining an array of letters ['a', 'b', 'c', 'd', 'e']");
-const letters = ['a', 'b', 'c', 'd', 'e'];
-const word = letters.join('');
+const letters = ["a", "b", "c", "d", "e"];
+const word = letters.join("");
 console.log(word);
 console.log();
 
 // Checking if something is in the array
 // -1 return value means it isn't there
-console.log("Using `indexOf` to see if something is in the array or not:")
+console.log("Using `indexOf` to see if something is in the array or not:");
 if (fruit.indexOf("apple") !== -1) {
-    console.log('apple is in the fruit array!');
+  console.log("apple is in the fruit array!");
 }
 if (numbers.indexOf(2) === -1) {
-    console.log('2 is not in the numbers array');
+  console.log("2 is not in the numbers array");
 }
 console.log("");
 
 // Array of arrays
-const arrayOfArrays = [     [1,2,3]      ,     [4,5,6,8,10]      ];
+const arrayOfArrays = [
+  [1, 2, 3],
+  [4, 5, 6, 8, 10],
+];
 console.log("Accessing elements in an array of arrays:");
 console.log(arrayOfArrays[0][1]);
 console.log();
@@ -175,4 +177,4 @@ console.log();
 const myString = "I don't like sand.";
 console.log(myString.length);
 //myString[0] = "!";
-console.log(myString.slice(5,8));
+console.log(myString.slice(5, 8));

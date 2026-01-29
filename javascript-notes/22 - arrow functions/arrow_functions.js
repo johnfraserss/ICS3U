@@ -14,13 +14,13 @@
  * @param {number} sideB - the length of side B of a right angle triangle
  *
  * @returns {number} the calculated value of the hypotenuse
- * 
+ *
  */
 function hypotenuse(sideA, sideB) {
   if (isNaN(sideA) || isNaN(sideB)) {
     return NaN;
   }
-  return Math.sqrt(sideA**2 + sideB**2);
+  return Math.sqrt(sideA ** 2 + sideB ** 2);
 }
 // The original function is above here.
 
@@ -29,19 +29,23 @@ const arrowFullHypotenuse = (a, b) => {
   if (isNaN(a) || isNaN(b)) {
     return NaN;
   }
-  return Math.sqrt(a**2 + b**2);
-}
+  return Math.sqrt(a ** 2 + b ** 2);
+};
 
-// The arrow function below is prefixed with "singleReturnBraces" to denote the 
+// The arrow function below is prefixed with "singleReturnBraces" to denote the
 // fact that it is a single line with braces and has the word "return" in it.
-const singleReturnBracesHypotenuse = (a,b) => { return Math.sqrt(a**2 + b**2); }
+const singleReturnBracesHypotenuse = (a, b) => {
+  return Math.sqrt(a ** 2 + b ** 2);
+};
 
 // The arrow function below is prefixed with "single" to denote the fact
 // that it is a single line arrow function with no braces or explicit return statement
-const singleHypotenuse = (a,b) => Math.sqrt(a**2 + b**2);
+const singleHypotenuse = (a, b) => Math.sqrt(a ** 2 + b ** 2);
 
-
-console.log("function hypotenuse(4,5) {} ", hypotenuse(3,4));
-console.log("arrowFullHypotenuse = (4,5) => {} ", arrowFullHypotenuse(3,4));
-console.log("singleReturnBracesHypotenuse = (4,5) => {} ", singleReturnBracesHypotenuse(3,4));
-console.log("singleHypotenuse = (4,5) => ", singleHypotenuse(3,4));
+console.log("function hypotenuse(4,5) {} ", hypotenuse(3, 4));
+console.log("arrowFullHypotenuse = (4,5) => {} ", arrowFullHypotenuse(3, 4));
+console.log(
+  "singleReturnBracesHypotenuse = (4,5) => {} ",
+  singleReturnBracesHypotenuse(3, 4),
+);
+console.log("singleHypotenuse = (4,5) => ", singleHypotenuse(3, 4));

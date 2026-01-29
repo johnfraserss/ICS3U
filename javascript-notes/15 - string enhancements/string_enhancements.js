@@ -22,19 +22,19 @@ console.log(trimmedString.startsWith("W"));
 console.log(stringToRepeat.repeat(20));
 
 //Using for (iterator) loop to access individual characters.
-const words = "These are words."
+const words = "These are words.";
 for (let i = 0; i < words.length; i++) {
   console.log(words.at(i));
 }
 
 //Using for...in loop to access individual characters.
-const moreWords = "These are more words."
+const moreWords = "These are more words.";
 for (i in moreWords) {
   console.log(moreWords.at(i));
 }
 
 //Using for...of loop to access individual characters.
-const evenMoreWords = "These are even more words."
+const evenMoreWords = "These are even more words.";
 for (character of evenMoreWords) {
   console.log(character);
 }
