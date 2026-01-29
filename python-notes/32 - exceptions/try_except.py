@@ -40,6 +40,7 @@ def convertCToF(temperature):
         raise Exception('Farhenheit calculation did not return a float value as expected.')
     return fahrenheit
 
+
 try:
     print(convertCToF(100))
     print(convertCToF("hi"))

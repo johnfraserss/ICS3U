@@ -13,12 +13,11 @@ fruit = ['apple', 'pear', 'peach', 'banana', 'pineapple']
 
 # printing out the fruit list (individually) using the indexing method
 for i in range(0, len(fruit), 1):
-  print(fruit[i])
+    print(fruit[i])
 
 # resetting fruit (in case something happened above)
 fruit = ['apple', 'pear', 'peach', 'banana', 'pineapple']
 
 # printing out the fruit list using the advanced for loop
 for item in fruit:
-  print(item)
-
+    print(item)

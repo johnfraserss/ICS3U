@@ -9,10 +9,10 @@
 #-----------------------------------------------------------------------------
 
 
-fruit = {'apple' : 10, 'pear' : 4, 'peach' : 9, 'banana' : 24, 'pineapple' : 3}
+fruit = {'apple': 10, 'pear': 4, 'peach': 9, 'banana': 24, 'pineapple': 3}
 print(fruit)
-print(fruit.keys())  # function to get all the keys from the dictionary
-print(fruit.values()) # function to get all the values from the dictionary
+print(fruit.keys())   # function to get all the keys from the dictionary
+print(fruit.values())  # function to get all the values from the dictionary
 
 fruit['kiwi'] = 2  # add the key 'kiwi' with a value of 2 to the dictionary
 print(fruit)

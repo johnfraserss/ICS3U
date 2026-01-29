@@ -50,7 +50,7 @@ while True:
     try:
         answer = convertCToF(float(value))
         print(f'{value}C converted into {answer}F')
-    except (TypeError, ValueError) as e:
+    except (TypeError, ValueError):
         print('That value did not work, please try again')
         continue
     except Exception as e:

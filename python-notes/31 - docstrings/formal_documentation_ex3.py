@@ -9,28 +9,29 @@
 #-----------------------------------------------------------------------------
 
 def printPerson(name, age=0):
-  '''
-  Prints out the information given about a person.
-	
-  Takes in information from the user and then prints out
-  a summary of the name and age of the information.  If 
-  the age isn't given, then it is defaulted to zero.
-	
-  Parameters
-  ----------
-  name : str
-    The name of the person to be printed
-  age : int, optional
-    The age of the person to be printed. If nothing given, value will be zero.
-	
-  Returns
-  -------
-  None
-  '''
+    '''
+    Prints out the information given about a person.
+    
+    Takes in information from the user and then prints out
+    a summary of the name and age of the information.  If 
+    the age isn't given, then it is defaulted to zero.
+    
+    Parameters
+    ----------
+    name : str
+      The name of the person to be printed
+    age : int, optional
+      The age of the person to be printed. If nothing given, value will be zero.
+    
+    Returns
+    -------
+    None
+    '''
 
-  print(f'Name: {name}')
-  print(f'Age: {age}')
-  return
+    print(f'Name: {name}')
+    print(f'Age: {age}')
+    return
+
 
 # Program runs starting here.  Above this line, the functions are just defined.
 printPerson('Einstein', 40)

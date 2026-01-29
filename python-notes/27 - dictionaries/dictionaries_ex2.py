@@ -8,7 +8,7 @@
 # Updated:     18-Nov-2018
 #-----------------------------------------------------------------------------
 
-fruit = {'apple' : 10, 'pear' : 4, 'peach' : 9, 'banana' : 24, 'pineapple' : 3}
+fruit = {'apple': 10, 'pear': 4, 'peach': 9, 'banana': 24, 'pineapple': 3}
 for k in fruit.keys():
     print(k)
 

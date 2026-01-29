@@ -15,24 +15,24 @@ z = 300
 
 # Basic if statement
 if x > 0:
-	print('Hello!')
+    print('Hello!')
 
 # Using 'elif' in a conditional
 if x > 1:
-	print("It's not supposed to be!")
+    print("It's not supposed to be!")
 elif y == 2:
-	print('Yup!')
+    print('Yup!')
 else:
-	print('Nope!')
-	
+    print('Nope!')
+    
 # Using 'and' in a conditional chain
 if x > 0 and z > 10:
-	print("It's supposed to be here!")
+    print("It's supposed to be here!")
 else:
-	print("Shouldn't reach here")
+    print("Shouldn't reach here")
 
 # Using 'or' in a conditional chain
 if x > 10 or y > 10 or z > 10:
-	print('Yup!')
+    print('Yup!')
 else:
-	print('Nope!')
+    print('Nope!')
