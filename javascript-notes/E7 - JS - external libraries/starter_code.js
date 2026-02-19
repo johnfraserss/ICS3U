@@ -1,5 +1,5 @@
 /* import RiTa library */
-let rita = require('rita');
+let rita = require("rita");
 
 /* take a sentence and split it up into tokens for analysis */
 let rTokens = rita.tokenize("The elephant took a bite!");

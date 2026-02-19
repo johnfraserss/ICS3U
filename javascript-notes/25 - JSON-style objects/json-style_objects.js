@@ -7,12 +7,12 @@
   Updated:     24-Dec-2022
 */
 
-const duck = { 
+const duck = {
   name: "Ducky",
   number: 10,
   age: 1,
-  evenFriends: [2,4,6,8,10],
-  oddFriends: [1,3,5,7,9]
+  evenFriends: [2, 4, 6, 8, 10],
+  oddFriends: [1, 3, 5, 7, 9],
 };
 
 // Multiple ways to access the same property using ["property"] and "dot" notations.
@@ -51,14 +51,17 @@ console.log(duck);
 // Possibly adding a new item to the friends array property, if they don't already exist.
 let newFriend = prompt("Who is " + duck.name + "'s new friend?");
 
-if (duck.evenFriends.findIndex(friend => friend == newFriend) == -1 && duck.oddFriends.findIndex(friend => friend == newFriend) == -1) {
+if (
+  duck.evenFriends.findIndex((friend) => friend == newFriend) == -1 &&
+  duck.oddFriends.findIndex((friend) => friend == newFriend) == -1
+) {
   if (parseInt(newFriend) == newFriend) {
     newFriend = parseInt(newFriend); //converting to number if it's only a number
   }
   if (newFriend % 2 == 0) {
-	  duck.evenFriends.push(newFriend);
+    duck.evenFriends.push(newFriend);
   } else {
-	  duck.oddFriends.push(newFriend);
+    duck.oddFriends.push(newFriend);
   }
   console.log("Welcome, " + newFriend + "!");
 } else {

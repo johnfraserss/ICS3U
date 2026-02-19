@@ -1,5 +1,5 @@
 //This is required to get input from the user in the console (in Node.js).
-const readline = require('readline-sync');
+const readline = require("readline-sync");
 
 /*
   Name:        Some Basics (basics.js)
@@ -47,11 +47,10 @@ console.log(parseInt(floatOne));
 console.log(parseFloat(integerOne));
 
 // Equation
-console.log(4 * 2 / 8);
+console.log((4 * 2) / 8);
 
 // Getting input from the user using readline.question('Question goes here')
 // Then formatting and printing back out the user input.
-let name = readline.question('Enter your name: ');  // Note: This asks the user to 'Enter your name: ' in the console.
-let age = readline.question('Enter your age: ');
-console.log('Hello ' + name + ', you are ' + age + ' years old.');
-
+let name = readline.question("Enter your name: "); // Note: This asks the user to 'Enter your name: ' in the console.
+let age = readline.question("Enter your age: ");
+console.log("Hello " + name + ", you are " + age + " years old.");
